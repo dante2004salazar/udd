@@ -356,3 +356,7 @@
 18:18:48: +
 18:18:48: +
 18:18:50: Key.enter
+18:18:55: Key.caps_lock
+18:18:55: Key.ctrl_l
+18:18:59: Key.ctrl_l
+18:18:59: Key.alt_gr
