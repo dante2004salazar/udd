@@ -83,3 +83,5 @@
 18:19:06: Key.right
 18:22:27: Key.right
 18:32:51: Key.esc
+18:34:34: Key.alt_l
+18:34:34: Key.f4
