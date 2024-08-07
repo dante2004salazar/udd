@@ -72,3 +72,7 @@
 22:17:53: Key.backspace
 22:17:54: Key.backspace
 22:17:54: Key.backspace
+22:17:54: Key.enter
+22:18:06: Key.alt_l
+22:18:06: Key.tab
+22:18:07: Key.tab
