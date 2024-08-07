@@ -98,3 +98,14 @@
 20:02:09: Key.space
 20:02:13: g
 20:02:14: i
+20:02:15: Key.enter
+20:02:16: Key.alt_l
+20:02:16: Key.tab
+20:02:17: Key.alt_l
+20:02:17: Key.tab
+20:02:17: Key.alt_l
+20:02:17: Key.tab
+20:02:18: Key.alt_l
+20:02:18: Key.tab
+20:02:33: Key.alt_l
+20:02:33: Key.tab
