@@ -76,3 +76,14 @@
 22:18:06: Key.alt_l
 22:18:06: Key.tab
 22:18:07: Key.tab
+22:18:45: Key.cmd
+22:18:45: b
+22:18:45: e
+22:18:45: n
+22:18:46: d
+22:18:47: Key.enter
+22:18:51: Key.ctrl_l
+22:18:53: Key.ctrl_l
+22:18:53: Key.down
+22:18:54: Key.right
+22:19:01: Key.cmd
