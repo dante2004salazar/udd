@@ -386,3 +386,4 @@
 10:08:46: Key.esc
 10:20:01: Key.esc
 10:22:18: Key.page_down
+10:22:28: Key.f5
