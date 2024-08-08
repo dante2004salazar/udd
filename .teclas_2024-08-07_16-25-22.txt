@@ -426,3 +426,4 @@
 10:55:13: Key.page_down
 10:56:55: Key.page_up
 10:58:11: Key.page_down
+10:58:18: Key.esc
