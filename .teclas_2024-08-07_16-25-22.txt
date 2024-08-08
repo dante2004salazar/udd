@@ -389,3 +389,4 @@
 10:22:28: Key.f5
 10:32:16: Key.page_down
 10:32:54: Key.page_down
+10:32:59: Key.f5
