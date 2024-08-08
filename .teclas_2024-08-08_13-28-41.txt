@@ -38,3 +38,5 @@
 13:30:12: Key.alt_l
 13:30:12: Key.tab
 13:30:13: Key.tab
+13:30:20: Key.up
+13:30:21: Key.enter
