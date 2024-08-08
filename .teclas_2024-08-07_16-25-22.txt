@@ -550,3 +550,8 @@
 12:50:36: Key.up
 12:56:49: Key.esc
 13:30:47: Key.down
+13:33:47: Key.down
+13:33:47: Key.up
+13:33:48: Key.up
+13:33:48: Key.up
+13:33:49: Key.esc
