@@ -383,3 +383,4 @@
 10:07:10: Key.page_down
 10:08:01: Key.page_down
 10:08:36: Key.page_down
+10:08:46: Key.esc
