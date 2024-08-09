@@ -220,3 +220,12 @@
 18:00:17: Key.right
 18:00:20: Key.left
 18:00:20: Key.right
+18:00:34: Key.ctrl_l
+18:00:34: 
+18:00:35: Key.ctrl_l
+18:00:36: Key.ctrl_l
+18:00:36: Key.ctrl_l
+18:00:36: Key.ctrl_l
+18:00:36: Key.ctrl_l
+18:00:36: Key.ctrl_l
+18:00:36: 
