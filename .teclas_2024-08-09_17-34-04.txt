@@ -386,3 +386,14 @@
 18:13:08: 
 18:16:20: Key.ctrl_l
 18:16:21: 
+18:16:28: Key.backspace
+18:16:28: Key.backspace
+18:16:28: Key.enter
+18:16:31: Key.ctrl_l
+18:16:32: Key.ctrl_l
+18:16:32: 
+18:17:21: Key.right
+18:17:22: Key.right
+18:17:23: Key.left
+18:17:24: Key.left
+18:17:25: Key.left
