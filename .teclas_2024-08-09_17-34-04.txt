@@ -232,3 +232,10 @@
 18:01:07: Key.right
 18:01:11: Key.right
 18:01:13: Key.right
+18:01:16: Key.left
+18:01:17: Key.left
+18:01:17: Key.right
+18:01:18: Key.right
+18:01:20: Key.left
+18:01:20: Key.left
+18:01:20: Key.left
