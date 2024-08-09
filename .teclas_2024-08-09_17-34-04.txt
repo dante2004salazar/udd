@@ -239,3 +239,10 @@
 18:01:20: Key.left
 18:01:20: Key.left
 18:01:20: Key.left
+18:08:59: Key.ctrl_l
+18:08:59: Key.ctrl_l
+18:08:59: Key.ctrl_l
+18:08:59: Key.ctrl_l
+18:08:59: Key.ctrl_l
+18:08:59: Key.ctrl_l
+18:08:59: 
