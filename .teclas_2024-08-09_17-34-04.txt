@@ -436,3 +436,15 @@
 18:35:44: None
 18:35:45: None
 18:35:45: None
+18:36:01: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: Key.ctrl_l
+18:36:02: 
