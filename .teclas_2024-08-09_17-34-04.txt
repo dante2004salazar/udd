@@ -428,3 +428,11 @@
 18:34:04: Key.ctrl_l
 18:34:04: 
 18:34:06: Key.enter
+18:35:43: Key.ctrl_l
+18:35:44: Key.ctrl_l
+18:35:44: Key.ctrl_l
+18:35:44: Key.ctrl_l
+18:35:44: Key.ctrl_l
+18:35:44: None
+18:35:45: None
+18:35:45: None
