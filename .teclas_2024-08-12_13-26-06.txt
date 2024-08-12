@@ -901,3 +901,9 @@
 19:04:43: Key.esc
 19:04:47: Key.alt_l
 19:04:47: Key.tab
+19:04:52: Key.cmd
+19:04:54: Key.esc
+19:04:55: Key.cmd
+19:04:55: p
+19:04:57: Key.down
+19:04:58: Key.down
