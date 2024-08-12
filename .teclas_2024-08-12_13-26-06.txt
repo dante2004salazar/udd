@@ -918,3 +918,8 @@
 19:05:57: Key.tab
 19:05:59: Key.tab
 19:06:46: Key.right
+19:06:48: Key.right
+19:06:51: Key.right
+19:06:52: Key.right
+19:06:53: Key.left
+19:06:54: Key.left
