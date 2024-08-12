@@ -289,3 +289,4 @@
 18:43:19: Key.enter
 18:44:54: Key.space
 18:45:09: Key.space
+18:54:32: Key.esc
