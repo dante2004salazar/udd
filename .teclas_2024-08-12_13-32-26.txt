@@ -294,3 +294,10 @@
 19:31:06: <100>
 19:33:30: Key.esc
 19:33:30: Key.esc
+19:34:09: Key.left
+19:34:12: Key.left
+19:34:12: Key.right
+19:34:17: Key.page_down
+19:34:17: Key.page_up
+19:34:21: Key.esc
+19:34:21: Key.esc
