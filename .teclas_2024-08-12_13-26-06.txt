@@ -976,3 +976,7 @@
 19:53:56: Key.right
 19:53:58: Key.right
 19:55:09: Key.right
+19:56:57: Key.cmd
+19:56:57: p
+19:56:58: Key.up
+19:56:58: Key.up
