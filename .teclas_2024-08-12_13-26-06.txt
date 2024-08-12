@@ -924,3 +924,4 @@
 19:06:53: Key.left
 19:06:54: Key.left
 19:12:53: Key.f11
+19:16:25: Key.right
