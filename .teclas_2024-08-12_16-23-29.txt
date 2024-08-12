@@ -91,3 +91,10 @@
 19:51:36: Key.delete
 19:51:39: Key.delete
 19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: Key.ctrl_l
+19:51:40: \x16
