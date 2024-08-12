@@ -109,3 +109,5 @@
 13:50:40: Key.cmd
 13:50:41: Key.alt_l
 13:50:41: Key.tab
+13:52:05: Key.right
+13:52:07: Key.right
