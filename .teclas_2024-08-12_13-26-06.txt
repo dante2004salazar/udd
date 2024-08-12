@@ -935,3 +935,4 @@
 19:24:44: Key.right
 19:30:58: Key.right
 19:31:50: Key.right
+19:32:25: Key.right
