@@ -32,3 +32,13 @@
 14:51:45: Key.page_down
 14:52:10: Key.page_down
 14:52:32: Key.page_down
+14:53:07: Key.page_down
+14:53:11: Key.page_down
+14:53:11: Key.page_up
+14:53:12: Key.page_up
+14:53:12: Key.page_up
+14:53:12: Key.page_up
+14:53:13: Key.page_up
+14:53:13: Key.page_up
+14:53:13: Key.page_up
+14:53:13: Key.page_up
