@@ -898,3 +898,6 @@
 19:04:33: Key.tab
 19:04:35: Key.alt_l
 19:04:35: Key.tab
+19:04:43: Key.esc
+19:04:47: Key.alt_l
+19:04:47: Key.tab
