@@ -894,3 +894,7 @@
 19:03:49: p
 19:03:59: Key.alt_l
 19:03:59: Key.tab
+19:04:32: Key.alt_l
+19:04:33: Key.tab
+19:04:35: Key.alt_l
+19:04:35: Key.tab
