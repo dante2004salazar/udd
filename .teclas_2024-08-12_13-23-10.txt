@@ -189,3 +189,6 @@
 16:14:46: Key.page_down
 16:14:47: Key.page_up
 16:18:11: Key.esc
+17:41:31: Key.space
+17:41:31: Key.space
+17:41:31: Key.space
