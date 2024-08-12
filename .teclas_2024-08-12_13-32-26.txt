@@ -130,3 +130,10 @@
 14:35:18: Key.left
 14:35:41: Key.esc
 14:35:45: Key.cmd
+14:36:21: Key.alt_l
+14:36:21: Key.tab
+14:36:22: Key.tab
+14:36:22: Key.tab
+14:36:23: Key.alt_l
+14:36:24: Key.tab
+14:36:25: Key.alt_l
