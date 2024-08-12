@@ -923,3 +923,4 @@
 19:06:52: Key.right
 19:06:53: Key.left
 19:06:54: Key.left
+19:12:53: Key.f11
