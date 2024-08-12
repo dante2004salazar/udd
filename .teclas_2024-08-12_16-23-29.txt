@@ -86,3 +86,8 @@
 19:49:56: Key.delete
 19:49:59: Key.delete
 19:50:14: Key.esc
+19:51:30: Key.ctrl_l
+19:51:30: \x03
+19:51:36: Key.delete
+19:51:39: Key.delete
+19:51:40: Key.ctrl_l
