@@ -290,3 +290,5 @@
 18:44:54: Key.space
 18:45:09: Key.space
 18:54:32: Key.esc
+19:31:05: Key.backspace
+19:31:06: <100>
