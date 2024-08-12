@@ -380,3 +380,4 @@
 18:37:56: Key.right
 18:39:31: Key.right
 18:39:32: Key.right
+18:45:23: Key.esc
