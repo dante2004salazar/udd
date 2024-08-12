@@ -971,3 +971,5 @@
 19:52:45: Key.right
 19:53:08: Key.right
 19:53:12: Key.right
+19:53:29: Key.right
+19:53:31: Key.right
