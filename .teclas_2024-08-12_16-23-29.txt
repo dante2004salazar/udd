@@ -85,3 +85,4 @@
 19:49:55: Key.delete
 19:49:56: Key.delete
 19:49:59: Key.delete
+19:50:14: Key.esc
