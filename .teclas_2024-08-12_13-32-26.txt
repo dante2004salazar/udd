@@ -310,3 +310,16 @@
 19:40:27: Key.page_up
 19:40:29: Key.page_down
 19:40:31: Key.page_down
+19:40:38: Key.page_down
+19:40:39: Key.page_down
+19:40:42: Key.page_down
+19:40:46: Key.page_down
+19:40:48: Key.page_up
+19:40:51: Key.page_up
+19:40:51: Key.page_up
+19:40:51: Key.page_up
+19:40:53: Key.page_up
+19:40:54: Key.page_up
+19:41:01: Key.page_up
+19:41:02: Key.page_up
+19:41:04: Key.page_up
