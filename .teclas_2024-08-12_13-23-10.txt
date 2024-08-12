@@ -161,3 +161,7 @@
 15:59:24: Key.page_down
 15:59:36: Key.page_down
 16:00:47: Key.page_down
+16:01:05: Key.page_up
+16:01:06: Key.page_up
+16:01:07: Key.page_up
+16:01:08: Key.page_up
