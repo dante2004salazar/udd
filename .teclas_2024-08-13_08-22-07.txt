@@ -83,3 +83,4 @@
 10:57:43: Key.page_up
 10:57:43: Key.page_up
 10:57:46: Key.esc
+15:11:18: Key.f12
