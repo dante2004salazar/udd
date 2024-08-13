@@ -1405,3 +1405,5 @@
 16:21:39: Key.enter
 16:21:39: Key.enter
 16:21:45: Key.enter
+16:21:59: Key.backspace
+16:22:00: Key.backspace
