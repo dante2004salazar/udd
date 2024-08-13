@@ -673,3 +673,17 @@
 14:55:00: Key.right
 14:55:00: Key.right
 14:55:26: Key.esc
+15:09:58: c
+15:09:58: a
+15:09:59: n
+15:09:59: v
+15:10:00: Key.backspace
+15:10:00: Key.backspace
+15:10:00: Key.backspace
+15:10:00: Key.backspace
+15:10:00: Key.backspace
+15:10:00: a
+15:10:01: u
+15:10:03: l
+15:10:04: a
+15:10:04: d
