@@ -619,3 +619,15 @@
 14:09:59: Key.right
 14:10:00: Key.right
 14:10:00: Key.left
+14:14:36: Key.right
+14:14:38: Key.right
+14:14:39: Key.right
+14:14:40: Key.left
+14:14:41: Key.right
+14:14:42: Key.right
+14:14:43: Key.right
+14:14:43: Key.right
+14:14:44: Key.left
+14:14:44: Key.left
+14:14:44: Key.left
+14:14:44: Key.left
