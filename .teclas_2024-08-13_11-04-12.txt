@@ -557,3 +557,5 @@
 14:08:47: Key.ctrl_l
 14:08:47: Key.ctrl_l
 14:08:47: Key.ctrl_l
+14:09:13: Key.delete
+14:09:14: Key.delete
