@@ -742,3 +742,8 @@
 15:32:11: s
 15:32:11: .
 15:32:12: Key.space
+15:32:18: Key.left
+15:32:18: Key.left
+15:32:19: Key.right
+15:32:20: Key.backspace
+15:32:21: U
