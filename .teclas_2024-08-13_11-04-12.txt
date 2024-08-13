@@ -565,3 +565,14 @@
 14:14:11: a
 14:14:11: b
 14:14:12: Key.enter
+14:14:50: Key.ctrl_l
+14:14:50: Key.ctrl_l
+14:14:50: Key.ctrl_l
+14:14:50: Key.ctrl_l
+14:14:50: Key.ctrl_l
+14:14:50: Key.ctrl_l
+14:14:51: Key.ctrl_l
+14:14:51: Key.ctrl_l
+14:14:51: Key.ctrl_l
+14:14:51: Key.ctrl_l
+14:14:51: Key.ctrl_l
