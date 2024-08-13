@@ -552,3 +552,6 @@
 21:02:47: Key.page_down
 21:02:51: Key.page_up
 21:03:01: Key.page_down
+21:04:18: Key.page_down
+21:04:21: Key.page_up
+21:04:22: Key.page_down
