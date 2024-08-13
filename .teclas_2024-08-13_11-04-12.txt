@@ -164,3 +164,5 @@
 11:57:38: Key.down
 11:57:40: Key.up
 12:12:40: Key.delete
+12:12:49: Key.delete
+12:12:52: Key.enter
