@@ -369,3 +369,5 @@
 19:59:56: Key.page_down
 20:01:31: Key.page_down
 20:05:56: Key.page_down
+20:09:39: Key.page_down
+20:09:46: Key.page_up
