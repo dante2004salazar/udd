@@ -32,3 +32,5 @@
 10:30:09: Key.page_down
 10:30:09: Key.page_down
 10:30:45: Key.page_down
+10:31:34: Key.f5
+10:31:44: Key.f5
