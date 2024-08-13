@@ -10,3 +10,9 @@
 10:07:19: Key.page_down
 10:07:20: Key.page_down
 10:07:21: Key.page_down
+10:08:34: Key.f5
+10:08:37: Key.f5
+10:08:38: Key.f5
+10:08:39: Key.f5
+10:08:41: Key.f5
+10:08:43: Key.f5
