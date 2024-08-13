@@ -369,3 +369,16 @@
 13:59:30: \x18
 13:59:33: Key.ctrl_l
 13:59:33: \x16
+13:59:49: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
+13:59:50: Key.ctrl_l
