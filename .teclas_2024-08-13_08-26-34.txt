@@ -147,3 +147,7 @@
 08:42:21: Key.tab
 08:42:45: Key.ctrl_l
 08:42:45: \x0c
+08:42:56: Key.right
+08:42:56: Key.right
+08:42:57: Key.right
+08:42:57: Key.left
