@@ -382,3 +382,16 @@
 13:59:50: Key.ctrl_l
 13:59:50: Key.ctrl_l
 13:59:50: Key.ctrl_l
+14:05:08: g
+14:05:09: m
+14:05:09: a
+14:05:10: i
+14:05:10: l
+14:05:10: c
+14:05:11: Key.backspace
+14:05:11: Key.backspace
+14:05:11: Key.backspace
+14:05:11: Key.backspace
+14:05:11: Key.backspace
+14:05:12: Key.backspace
+14:05:12: Key.backspace
