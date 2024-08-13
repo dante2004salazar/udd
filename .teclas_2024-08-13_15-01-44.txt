@@ -57,3 +57,5 @@
 16:17:42: Key.page_up
 16:17:43: Key.page_down
 16:27:24: Key.esc
+17:47:28: Key.ctrl_l
+17:47:29: \x0e
