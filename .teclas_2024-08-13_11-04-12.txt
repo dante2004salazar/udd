@@ -951,3 +951,10 @@
 15:02:22: Key.ctrl_l
 15:02:22: Key.ctrl_l
 15:02:22: Key.ctrl_l
+15:02:29: Key.delete
+15:02:31: Key.delete
+15:02:32: Key.delete
+15:02:33: Key.delete
+15:02:34: Key.delete
+15:02:35: Key.delete
+15:02:36: Key.delete
