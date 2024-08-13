@@ -69,3 +69,7 @@
 10:57:05: Key.page_down
 10:57:06: Key.page_down
 10:57:18: Key.page_up
+10:57:24: Key.f5
+10:57:30: Key.page_down
+10:57:32: Key.page_down
+10:57:32: Key.page_up
