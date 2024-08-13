@@ -218,3 +218,8 @@
 09:17:16: Key.ctrl_l
 09:17:16: \x0c
 09:17:33: Key.page_down
+09:27:09: Key.esc
+09:27:16: Key.alt_l
+09:27:16: Key.tab
+09:27:18: Key.ctrl_l
+09:27:19: \x0c
