@@ -497,3 +497,10 @@
 20:47:48: Key.left
 20:48:00: Key.right
 20:48:15: Key.right
+20:48:24: Key.right
+20:48:26: Key.right
+20:48:27: Key.left
+20:48:28: Key.left
+20:48:28: Key.left
+20:48:28: Key.left
+20:48:29: Key.left
