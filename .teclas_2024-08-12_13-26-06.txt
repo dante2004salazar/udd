@@ -1021,3 +1021,5 @@
 19:57:23: 9
 19:57:23: Key.tab
 19:57:24: Key.enter
+20:03:05: Key.delete
+20:03:09: Key.enter
