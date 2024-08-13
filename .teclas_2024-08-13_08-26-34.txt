@@ -362,3 +362,5 @@
 10:20:38: Key.page_down
 10:20:40: Key.page_down
 10:20:41: Key.page_up
+10:22:06: Key.up
+10:22:06: Key.right
