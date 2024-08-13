@@ -1408,3 +1408,9 @@
 16:21:59: Key.backspace
 16:22:00: Key.backspace
 16:22:35: Key.enter
+16:35:32: Key.ctrl_r
+16:35:33: <187>
+16:35:33: Key.ctrl_r
+16:35:33: <187>
+16:35:35: Key.ctrl_r
+16:35:35: \x1f
