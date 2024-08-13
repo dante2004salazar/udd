@@ -345,3 +345,12 @@
 15:29:30: j
 15:29:33: a
 15:29:33: r
+15:29:34: Key.backspace
+15:29:34: Key.backspace
+15:29:34: Key.backspace
+15:29:34: Key.backspace
+15:29:34: Key.backspace
+15:29:35: b
+15:29:35: i
+15:29:36: g
+15:29:36: Key.enter
