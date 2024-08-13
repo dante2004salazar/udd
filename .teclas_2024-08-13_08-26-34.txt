@@ -253,3 +253,5 @@
 09:31:57: Key.left
 09:31:58: Key.left
 09:32:59: Key.esc
+09:33:49: Key.alt_l
+09:33:49: Key.tab
