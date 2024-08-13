@@ -610,3 +610,4 @@
 14:01:18: Key.right
 14:01:19: Key.right
 14:01:35: Key.right
+14:01:47: Key.right
