@@ -1102,3 +1102,12 @@
 16:16:02: .
 16:16:02: Key.space
 16:16:13: Key.f12
+16:16:22: Key.backspace
+16:16:23: Key.backspace
+16:16:23: Key.backspace
+16:16:23: Key.backspace
+16:16:23: Key.backspace
+16:16:23: Key.backspace
+16:16:24: Key.backspace
+16:16:24: Key.backspace
+16:16:24: Key.backspace
