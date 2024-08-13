@@ -733,3 +733,12 @@
 15:10:44: A
 15:10:44: q
 15:10:44: 1
+15:32:07: Key.backspace
+15:32:08: Key.backspace
+15:32:08: Key.backspace
+15:32:08: Key.backspace
+15:32:10: u
+15:32:10: d
+15:32:11: s
+15:32:11: .
+15:32:12: Key.space
