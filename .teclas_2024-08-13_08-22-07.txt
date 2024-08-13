@@ -355,3 +355,4 @@
 15:29:36: g
 15:29:36: Key.enter
 15:32:32: Key.enter
+15:48:24: Key.right
