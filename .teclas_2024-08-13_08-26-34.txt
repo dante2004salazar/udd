@@ -644,3 +644,12 @@
 14:21:06: Key.right
 14:21:21: Key.right
 14:21:23: Key.right
+14:21:29: Key.right
+14:21:44: Key.right
+14:21:45: Key.right
+14:21:45: Key.right
+14:21:46: Key.right
+14:21:47: Key.right
+14:22:16: <110>
+14:22:17: <110>
+14:22:18: Key.right
