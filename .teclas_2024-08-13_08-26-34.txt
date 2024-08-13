@@ -96,3 +96,5 @@
 08:40:38: 3
 08:40:38: 4
 08:40:38: Key.enter
+08:41:04: Key.backspace
+08:41:05: Key.backspace
