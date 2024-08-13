@@ -225,3 +225,16 @@
 13:01:45: Key.backspace
 13:01:45: ?
 13:01:46: Key.backspace
+13:01:46: ¡
+13:01:47: Key.backspace
+13:01:47: ¿
+13:01:48: Key.backspace
+13:01:48: 0
+13:01:49: Key.backspace
+13:01:50: =
+13:01:51: Key.space
+13:01:53: [¨]
+13:01:53: [¨]
+13:01:54: Key.backspace
+13:01:55: Key.backspace
+13:01:56: "
