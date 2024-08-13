@@ -243,3 +243,6 @@
 09:27:56: /
 09:27:56: 4
 09:27:56: Key.enter
+09:28:09: Key.caps_lock
+09:28:09: Key.caps_lock
+09:28:09: Key.caps_lock
