@@ -600,3 +600,4 @@
 13:55:02: Key.right
 13:55:17: Key.right
 13:55:49: Key.right
+13:56:17: Key.right
