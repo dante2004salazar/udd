@@ -654,3 +654,10 @@
 14:17:10: Key.backspace
 14:17:10: Key.backspace
 14:17:10: t
+14:17:10: o
+14:17:11: Key.space
+14:17:11: 1
+14:17:11: .
+14:17:12: Key.backspace
+14:17:12: :
+14:17:13: Key.space
