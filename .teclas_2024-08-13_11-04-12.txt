@@ -833,3 +833,9 @@
 14:23:33: Key.ctrl_l
 14:23:33: Key.ctrl_l
 14:23:34: Key.ctrl_l
+14:27:46: <101>
+14:27:47: l
+14:27:47: Key.backspace
+14:27:48: Key.enter
+14:27:49: <100>
+14:27:49: Key.enter
