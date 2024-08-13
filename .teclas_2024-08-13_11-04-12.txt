@@ -209,3 +209,7 @@
 12:54:02: Key.enter
 12:54:31: Key.enter
 12:54:52: Key.enter
+13:00:43: b
+13:00:44: Key.backspace
+13:00:46: Key.esc
+13:00:47: b
