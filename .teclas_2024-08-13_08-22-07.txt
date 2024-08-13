@@ -493,3 +493,4 @@
 17:05:09: Key.left
 17:05:09: Key.left
 17:05:10: Key.left
+17:05:39: Key.esc
