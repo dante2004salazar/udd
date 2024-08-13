@@ -417,3 +417,14 @@
 20:40:16: Key.page_down
 20:40:17: Key.page_down
 20:40:26: Key.page_down
+20:46:52: Key.right
+20:46:53: Key.right
+20:46:54: Key.right
+20:46:55: Key.right
+20:46:56: Key.right
+20:46:56: Key.right
+20:46:58: Key.right
+20:46:58: Key.right
+20:46:59: Key.right
+20:47:00: Key.right
+20:47:00: Key.right
