@@ -473,3 +473,4 @@
 16:45:45: Key.left
 16:45:46: Key.left
 16:45:46: Key.left
+16:48:58: Key.esc
