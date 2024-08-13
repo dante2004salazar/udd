@@ -71,3 +71,12 @@
 11:12:33: c
 11:12:33: o
 11:12:34: m
+11:12:36: Key.left
+11:12:36: Key.left
+11:12:36: Key.left
+11:12:36: Key.left
+11:12:36: Key.left
+11:12:37: Key.left
+11:12:37: Key.backspace
+11:12:38: o
+11:12:38: Key.enter
