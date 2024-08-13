@@ -443,3 +443,14 @@
 20:47:11: Key.right
 20:47:11: Key.right
 20:47:12: Key.right
+20:47:14: Key.right
+20:47:15: Key.right
+20:47:16: Key.right
+20:47:16: Key.right
+20:47:18: Key.right
+20:47:19: Key.right
+20:47:20: Key.right
+20:47:20: Key.right
+20:47:21: Key.right
+20:47:22: Key.right
+20:47:23: Key.right
