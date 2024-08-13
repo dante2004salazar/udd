@@ -478,3 +478,7 @@
 10:53:20: Key.ctrl_l
 10:53:20: Key.ctrl_l
 11:01:15: Key.delete
+11:01:15: Key.enter
+11:01:21: Key.right
+11:01:23: Key.left
+11:01:24: Key.left
