@@ -395,3 +395,9 @@
 14:05:11: Key.backspace
 14:05:12: Key.backspace
 14:05:12: Key.backspace
+14:05:12: c
+14:05:12: o
+14:05:12: l
+14:05:12: a
+14:05:14: b
+14:05:14: Key.enter
