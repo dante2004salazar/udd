@@ -336,3 +336,5 @@
 13:39:29: Key.alt_gr
 13:39:29: @
 13:39:30: Key.enter
+13:41:14: Key.delete
+13:41:15: Key.delete
