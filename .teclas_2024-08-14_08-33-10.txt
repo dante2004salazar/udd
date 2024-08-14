@@ -104,3 +104,6 @@
 09:02:35: Key.down
 09:02:43: Key.up
 09:03:21: Key.down
+09:26:50: Key.down
+09:26:50: Key.down
+09:26:51: Key.down
