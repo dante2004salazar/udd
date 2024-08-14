@@ -250,3 +250,7 @@
 10:28:50: Key.down
 10:29:13: Key.left
 10:29:19: Key.right
+10:30:07: Key.right
+10:30:08: Key.left
+10:30:08: Key.left
+10:30:14: Key.right
