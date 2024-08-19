@@ -689,3 +689,12 @@
 19:19:00: Key.page_up
 19:19:00: Key.page_up
 19:22:30: Key.page_down
+19:22:30: Key.page_down
+19:22:30: Key.page_down
+19:22:31: Key.page_down
+19:22:31: Key.page_down
+19:22:32: Key.page_down
+19:22:32: Key.page_down
+19:22:33: Key.page_down
+19:22:33: Key.page_down
+19:22:33: Key.page_up
