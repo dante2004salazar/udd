@@ -545,3 +545,12 @@
 18:45:56: Key.down
 18:45:57: Key.enter
 18:46:05: Key.media_volume_mute
+18:46:26: Key.media_volume_down
+18:46:27: Key.media_volume_down
+18:46:27: Key.media_volume_down
+18:46:27: Key.media_volume_down
+18:46:27: Key.media_volume_down
+18:46:27: Key.media_volume_down
+18:46:28: Key.media_volume_down
+18:46:28: Key.media_volume_down
+18:46:28: Key.media_volume_down
