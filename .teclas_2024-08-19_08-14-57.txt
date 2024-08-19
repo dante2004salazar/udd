@@ -514,3 +514,5 @@
 18:14:43: Key.cmd
 18:14:43: p
 18:21:12: Key.page_down
+18:23:54: Key.page_down
+18:23:56: Key.page_down
