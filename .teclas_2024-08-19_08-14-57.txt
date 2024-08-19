@@ -738,3 +738,15 @@
 19:54:22: Key.page_up
 19:54:22: Key.page_up
 19:54:23: Key.page_down
+19:54:46: Key.page_down
+19:54:47: Key.page_down
+19:54:47: Key.page_down
+19:54:48: Key.page_down
+19:54:48: Key.page_down
+19:54:48: Key.page_down
+19:54:49: Key.page_down
+19:54:49: Key.page_down
+19:54:49: Key.page_down
+19:54:50: Key.page_down
+19:54:50: Key.page_down
+19:54:51: Key.page_down
