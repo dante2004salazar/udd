@@ -701,3 +701,6 @@
 19:34:11: Key.page_down
 19:37:41: Key.page_down
 19:39:40: Key.page_down
+19:40:32: Key.media_volume_up
+19:40:33: Key.media_volume_down
+19:40:34: Key.media_volume_up
