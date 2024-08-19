@@ -160,3 +160,9 @@
 10:20:28: d
 10:20:28: d
 10:20:29: Key.enter
+10:52:07: Key.left
+10:52:08: Key.left
+10:52:08: Key.right
+10:52:09: Key.backspace
+10:52:10: 2
+10:52:10: Key.enter
