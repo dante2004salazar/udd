@@ -580,3 +580,7 @@
 18:46:33: Key.media_volume_up
 18:46:35: Key.media_volume_up
 18:46:36: Key.media_volume_up
+18:58:54: Key.esc
+18:58:56: c
+18:58:56: a
+18:58:56: n
