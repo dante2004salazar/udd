@@ -672,3 +672,10 @@
 19:11:12: Key.up
 19:11:13: Key.up
 19:11:14: Key.up
+19:11:17: Key.cmd
+19:11:17: p
+19:11:22: Key.media_volume_up
+19:11:22: Key.media_volume_up
+19:11:22: Key.media_volume_up
+19:11:22: Key.media_volume_up
+19:11:22: Key.media_volume_up
