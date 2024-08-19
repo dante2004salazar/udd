@@ -705,3 +705,4 @@
 19:40:33: Key.media_volume_down
 19:40:34: Key.media_volume_up
 19:48:30: Key.media_volume_mute
+19:53:12: Key.page_up
