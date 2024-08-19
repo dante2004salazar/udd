@@ -761,3 +761,9 @@
 19:55:00: Key.page_down
 19:55:01: Key.page_down
 19:55:02: Key.page_down
+19:55:02: Key.page_down
+19:55:03: Key.page_down
+19:55:03: Key.page_up
+19:55:04: Key.page_up
+19:55:04: Key.page_up
+19:55:05: Key.esc
