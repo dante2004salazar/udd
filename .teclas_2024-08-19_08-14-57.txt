@@ -496,3 +496,5 @@
 18:01:22: Key.up
 18:01:23: Key.up
 18:10:15: Key.down
+18:10:29: Key.backspace
+18:10:29: Key.space
