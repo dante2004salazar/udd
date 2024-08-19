@@ -166,3 +166,11 @@
 10:52:09: Key.backspace
 10:52:10: 2
 10:52:10: Key.enter
+10:54:40: Key.backspace
+10:54:40: Key.backspace
+10:54:41: Key.backspace
+10:54:41: Key.caps_lock
+10:54:42: p
+10:54:42: p
+10:54:42: t
+10:54:42: Key.enter
