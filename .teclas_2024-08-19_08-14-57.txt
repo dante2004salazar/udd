@@ -498,3 +498,5 @@
 18:10:15: Key.down
 18:10:29: Key.backspace
 18:10:29: Key.space
+18:14:22: Key.cmd
+18:14:22: p
