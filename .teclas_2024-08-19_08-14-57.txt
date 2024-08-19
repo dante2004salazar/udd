@@ -536,3 +536,12 @@
 18:45:54: Key.backspace
 18:45:54: Key.backspace
 18:45:54: Key.backspace
+18:45:54: Key.backspace
+18:45:55: Key.backspace
+18:45:55: q
+18:45:55: u
+18:45:55: e
+18:45:55: e
+18:45:56: Key.down
+18:45:57: Key.enter
+18:46:05: Key.media_volume_mute
