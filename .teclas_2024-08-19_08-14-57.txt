@@ -706,3 +706,11 @@
 19:40:34: Key.media_volume_up
 19:48:30: Key.media_volume_mute
 19:53:12: Key.page_up
+19:54:15: Key.page_up
+19:54:15: Key.page_up
+19:54:15: Key.page_up
+19:54:15: Key.page_up
+19:54:16: Key.page_up
+19:54:16: Key.page_up
+19:54:16: Key.page_up
+19:54:16: Key.page_up
