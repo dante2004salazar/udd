@@ -529,3 +529,10 @@
 18:40:11: Key.page_down
 18:43:20: Key.page_down
 18:45:41: Key.esc
+18:45:51: a
+18:45:51: c
+18:45:52: Key.down
+18:45:54: Key.backspace
+18:45:54: Key.backspace
+18:45:54: Key.backspace
+18:45:54: Key.backspace
