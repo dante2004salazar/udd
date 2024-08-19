@@ -364,3 +364,10 @@
 12:39:14: Key.page_down
 12:39:14: Key.page_up
 15:28:33: <105>
+17:55:14: Key.cmd
+17:55:15: Key.cmd
+17:55:15: Key.cmd
+17:55:15: Key.cmd
+17:55:15: Key.cmd
+17:55:15: Key.cmd
+17:55:15: p
