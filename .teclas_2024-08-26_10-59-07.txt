@@ -143,3 +143,5 @@
 14:00:51: p
 14:01:08: Key.left
 14:03:26: Key.right
+14:05:57: Key.right
+14:06:02: Key.right
