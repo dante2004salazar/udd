@@ -417,3 +417,10 @@
 16:40:55: Key.backspace
 16:40:55: Key.backspace
 16:40:55: Key.backspace
+16:40:55: Key.backspace
+16:40:56: u
+16:40:57: d
+16:40:57: d
+16:41:01: .
+16:41:01: i
+16:41:01: n
