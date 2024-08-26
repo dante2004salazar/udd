@@ -192,3 +192,5 @@
 15:00:34: Key.right
 15:00:34: Key.right
 15:00:34: Key.right
+15:02:30: Key.esc
+15:02:31: Key.esc
