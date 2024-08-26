@@ -661,3 +661,11 @@
 18:41:42: Key.media_volume_up
 18:41:42: Key.media_volume_up
 18:41:42: Key.media_volume_up
+18:41:42: Key.media_volume_up
+18:41:42: Key.media_volume_up
+18:41:43: Key.media_volume_up
+18:41:43: Key.media_volume_down
+18:41:44: Key.media_volume_down
+18:41:44: Key.media_volume_down
+18:41:44: Key.media_volume_down
+18:41:48: Key.media_volume_down
