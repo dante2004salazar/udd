@@ -103,3 +103,11 @@
 13:42:23: Key.ctrl_l
 13:42:23: \x16
 13:46:38: Key.left
+13:46:56: Key.right
+13:46:57: Key.right
+13:46:57: Key.right
+13:46:57: Key.right
+13:46:58: Key.right
+13:46:58: Key.right
+13:46:59: Key.right
+13:46:59: Key.right
