@@ -726,3 +726,10 @@
 19:13:08: Key.page_down
 19:13:18: Key.esc
 19:13:30: Key.esc
+19:19:24: Key.page_down
+19:19:25: Key.page_down
+19:19:26: Key.page_down
+19:19:27: Key.page_down
+19:19:28: Key.page_down
+19:19:28: Key.page_down
+19:19:31: Key.page_down
