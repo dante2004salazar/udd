@@ -405,3 +405,4 @@
 16:27:48: Key.caps_lock
 16:27:48: Key.tab
 16:27:48: Key.tab
+16:34:42: Key.f2
