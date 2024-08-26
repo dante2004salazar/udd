@@ -427,3 +427,15 @@
 17:56:58: .
 17:56:58: 7
 17:56:59: Key.enter
+17:57:45: Key.down
+17:57:46: Key.down
+17:57:46: Key.down
+17:57:47: Key.down
+17:57:47: Key.down
+17:57:50: Key.down
+17:57:50: Key.down
+17:57:52: Key.down
+17:57:53: Key.down
+17:57:53: Key.down
+17:57:54: Key.down
+17:57:55: Key.down
