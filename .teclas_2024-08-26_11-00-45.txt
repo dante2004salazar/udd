@@ -683,3 +683,7 @@
 18:52:57: Key.media_volume_down
 18:53:03: Key.media_volume_mute
 19:00:42: Key.esc
+19:12:24: Key.down
+19:12:25: Key.down
+19:12:25: Key.up
+19:12:29: Key.down
