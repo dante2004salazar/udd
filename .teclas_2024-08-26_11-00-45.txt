@@ -526,3 +526,7 @@
 18:01:03: Key.down
 18:01:04: Key.down
 18:01:06: Key.esc
+18:01:24: Key.backspace
+18:01:24: Key.backspace
+18:01:25: Key.backspace
+18:01:25: Key.backspace
