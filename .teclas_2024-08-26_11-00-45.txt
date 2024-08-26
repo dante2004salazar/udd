@@ -267,3 +267,5 @@
 13:17:32: Key.ctrl_l
 13:56:39: Key.ctrl_l
 13:56:39: Key.alt_gr
+17:55:22: Key.cmd
+17:55:22: p
