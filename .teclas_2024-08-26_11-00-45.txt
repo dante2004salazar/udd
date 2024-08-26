@@ -573,3 +573,7 @@
 18:02:46: Key.tab
 18:02:50: Key.alt_l
 18:02:50: Key.tab
+18:02:57: Key.alt_l
+18:03:01: Key.down
+18:03:02: Key.down
+18:03:03: Key.up
