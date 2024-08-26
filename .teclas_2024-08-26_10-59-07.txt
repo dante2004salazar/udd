@@ -407,3 +407,13 @@
 16:27:48: Key.tab
 16:34:42: Key.f2
 16:35:20: Key.f1
+16:40:51: u
+16:40:52: Key.backspace
+16:40:53: Key.caps_lock
+16:40:53: u
+16:40:53: d
+16:40:54: d
+16:40:55: Key.backspace
+16:40:55: Key.backspace
+16:40:55: Key.backspace
+16:40:55: Key.backspace
