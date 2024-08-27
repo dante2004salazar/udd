@@ -299,3 +299,13 @@
 14:30:22: Key.enter
 14:30:25: p
 14:30:26: Key.enter
+14:30:34: p
+14:30:34: Key.enter
+14:30:36: p
+14:30:37: Key.enter
+14:30:40: a
+14:30:40: Key.backspace
+14:30:40: p
+14:30:41: Key.enter
+14:30:43: p
+14:30:44: Key.enter
