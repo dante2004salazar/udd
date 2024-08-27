@@ -266,3 +266,6 @@
 14:27:40: Key.right
 14:27:52: Key.right
 14:29:11: Key.esc
+14:29:33: Key.caps_lock
+14:29:34: a
+14:29:35: Key.enter
