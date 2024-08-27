@@ -235,3 +235,5 @@
 13:52:42: p
 13:53:06: Key.cmd
 13:57:10: Key.right
+13:57:19: Key.right
+13:57:29: Key.right
