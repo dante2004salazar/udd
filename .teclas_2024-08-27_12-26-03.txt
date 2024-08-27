@@ -265,3 +265,4 @@
 14:27:20: Key.right
 14:27:40: Key.right
 14:27:52: Key.right
+14:29:11: Key.esc
