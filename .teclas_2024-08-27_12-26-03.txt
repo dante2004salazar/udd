@@ -381,3 +381,4 @@
 15:25:28: Key.ctrl_l
 15:25:29: Key.ctrl_l
 15:25:29: Key.ctrl_l
+15:32:57: Key.esc
