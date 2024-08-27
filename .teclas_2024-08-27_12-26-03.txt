@@ -82,3 +82,9 @@
 13:50:51: a
 13:50:52: k
 13:50:52: a
+13:50:56: Key.end
+13:50:56: Key.page_up
+13:50:59: Key.up
+13:50:59: Key.page_up
+13:50:59: Key.enter
+13:51:03: Key.caps_lock
