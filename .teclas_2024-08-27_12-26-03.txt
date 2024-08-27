@@ -332,3 +332,4 @@
 14:39:56: Key.menu
 14:50:33: Key.right
 14:50:33: Key.right
+14:50:36: Key.left
