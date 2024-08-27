@@ -254,3 +254,5 @@
 14:12:55: Key.media_volume_up
 14:12:55: Key.media_volume_up
 14:25:57: Key.right
+14:26:19: Key.right
+14:26:19: Key.right
