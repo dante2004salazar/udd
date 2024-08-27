@@ -319,3 +319,4 @@
 14:30:58: Key.enter
 14:31:00: p
 14:31:00: Key.enter
+14:37:25: Key.right
