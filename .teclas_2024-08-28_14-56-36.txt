@@ -345,3 +345,4 @@
 15:53:44: Key.right
 15:53:45: Key.right
 15:54:02: Key.right
+15:57:55: Key.cmd
