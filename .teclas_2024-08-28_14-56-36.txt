@@ -94,3 +94,8 @@
 15:43:10: Key.down
 15:43:10: Key.down
 15:43:11: Key.down
+15:45:17: Key.cmd
+15:45:17: Key.cmd
+15:45:17: Key.tab
+15:45:24: Key.enter
+15:45:24: Key.enter
