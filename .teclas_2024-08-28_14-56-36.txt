@@ -606,3 +606,12 @@
 16:05:47: i
 16:05:48: Key.right
 16:05:49: ;
+16:08:29: Key.cmd
+16:08:30: Key.cmd
+16:08:30: Key.cmd
+16:08:30: Key.cmd
+16:08:30: Key.cmd
+16:08:30: Key.cmd
+16:08:30: Key.tab
+16:08:33: Key.right
+16:08:33: Key.right
