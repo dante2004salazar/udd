@@ -47,3 +47,8 @@
 15:16:22: Key.cmd
 15:16:22: Key.cmd
 15:16:22: Key.cmd
+15:17:01: Key.page_down
+15:17:01: Key.page_down
+15:17:07: Key.left
+15:17:07: Key.left
+15:17:08: Key.right
