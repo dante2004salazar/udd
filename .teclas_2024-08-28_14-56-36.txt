@@ -83,3 +83,5 @@
 15:37:52: Key.cmd
 15:37:52: Key.cmd
 15:37:52: Key.tab
+15:37:57: Key.right
+15:37:58: Key.right
