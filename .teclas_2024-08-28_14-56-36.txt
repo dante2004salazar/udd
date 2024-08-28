@@ -634,3 +634,6 @@
 16:08:44: Key.right
 16:08:44: Key.right
 16:09:33: Key.right
+16:10:43: Key.down
+16:10:44: Key.down
+16:10:48: <97>
