@@ -342,3 +342,5 @@
 15:52:14: Key.tab
 15:52:18: Key.right
 15:52:19: Key.right
+15:53:44: Key.right
+15:53:45: Key.right
