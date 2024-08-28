@@ -6,3 +6,8 @@
 15:12:43: p
 15:12:44: l
 15:12:44: Key.enter
+15:12:53: Key.page_down
+15:12:53: Key.page_down
+15:12:55: Key.page_up
+15:12:55: Key.page_up
+15:12:56: Key.page_down
