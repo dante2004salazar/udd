@@ -18,3 +18,4 @@
 15:13:53: Key.tab
 15:13:58: Key.cmd
 15:13:58: Key.tab
+15:14:54: Key.delete
