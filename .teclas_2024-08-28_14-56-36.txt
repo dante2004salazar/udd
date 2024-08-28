@@ -69,3 +69,7 @@
 15:24:09: Key.right
 15:24:10: Key.right
 15:25:49: Key.right
+15:26:04: Key.right
+15:26:10: Key.cmd
+15:26:11: Key.cmd
+15:26:11: Key.tab
