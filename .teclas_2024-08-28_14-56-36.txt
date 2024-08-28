@@ -748,3 +748,9 @@
 16:19:15: _
 16:19:21: M
 16:19:21: I
+16:19:28: Key.left
+16:19:28: Key.left
+16:19:29: Key.left
+16:19:31: Key.delete
+16:19:31: Key.delete
+16:19:31: Key.delete
