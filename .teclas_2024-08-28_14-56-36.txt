@@ -789,3 +789,14 @@
 16:19:59: i
 16:19:59: n
 16:20:03: :
+16:20:11: Key.ctrl_l
+16:20:12: \x03
+16:20:14: Key.tab
+16:20:15: Key.ctrl_l
+16:20:15: \x16
+16:20:18: Key.backspace
+16:20:18: Key.backspace
+16:20:19: Key.backspace
+16:20:19: Key.backspace
+16:20:19: Key.backspace
+16:20:21: Key.space
