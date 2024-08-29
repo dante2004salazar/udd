@@ -299,3 +299,12 @@
 15:07:11: e
 15:07:11: r
 15:07:11: Key.enter
+15:07:35: Key.backspace
+15:07:35: Key.backspace
+15:07:35: Key.backspace
+15:07:35: Key.backspace
+15:07:35: Key.backspace
+15:07:36: Key.backspace
+15:07:36: v
+15:07:38: i
+15:07:38: c
