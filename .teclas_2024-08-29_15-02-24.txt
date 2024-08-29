@@ -43,3 +43,16 @@
 15:03:40: Key.up
 15:03:41: Key.right
 15:03:42: Key.down
+15:03:43: Key.left
+15:03:44: Key.up
+15:03:45: Key.right
+15:03:46: Key.up
+15:03:46: Key.left
+15:03:47: Key.up
+15:03:47: Key.right
+15:03:48: Key.down
+15:03:49: Key.left
+15:03:49: Key.up
+15:03:50: Key.left
+15:03:51: Key.down
+15:03:52: Key.right
