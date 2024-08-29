@@ -82,3 +82,17 @@
 15:04:10: Key.left
 15:04:11: Key.up
 15:04:11: Key.right
+15:04:13: Key.down
+15:04:14: Key.left
+15:04:15: Key.up
+15:04:15: Key.right
+15:04:16: Key.up
+15:04:16: Key.left
+15:04:17: Key.up
+15:04:17: Key.right
+15:04:18: Key.down
+15:04:19: Key.left
+15:04:20: Key.up
+15:04:20: Key.left
+15:04:21: Key.up
+15:04:22: Key.right
