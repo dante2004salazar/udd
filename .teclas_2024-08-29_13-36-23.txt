@@ -266,3 +266,4 @@
 15:05:56: z
 15:05:57: Key.enter
 15:06:45: Key.left
+15:07:04: Key.backspace
