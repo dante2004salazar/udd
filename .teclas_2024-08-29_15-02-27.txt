@@ -666,3 +666,9 @@
 10:56:27: Key.alt_l
 10:56:27: Key.tab
 10:56:51: Key.esc
+10:59:55: Key.ctrl_l
+10:59:56: Key.ctrl_l
+10:59:56: Key.ctrl_l
+10:59:56: Key.ctrl_l
+10:59:56: Key.ctrl_l
+11:00:13: Key.esc
