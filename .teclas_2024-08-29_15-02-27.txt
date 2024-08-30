@@ -1262,3 +1262,10 @@
 14:19:21: b
 14:19:22: u
 14:19:22: s
+14:22:36: Key.right
+14:22:37: Key.right
+14:22:37: Key.right
+14:22:37: Key.right
+14:22:37: Key.right
+14:22:38: Key.right
+14:22:38: Key.right
