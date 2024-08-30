@@ -765,3 +765,12 @@
 11:02:13: Key.left
 11:30:53: Key.left
 11:32:02: Key.right
+11:35:11: Key.right
+11:35:11: Key.right
+11:35:12: Key.right
+11:35:13: Key.right
+11:35:13: Key.left
+11:35:13: Key.left
+11:35:14: Key.left
+11:35:15: Key.right
+11:35:15: Key.right
