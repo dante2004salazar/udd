@@ -671,3 +671,4 @@
 10:59:56: Key.ctrl_l
 10:59:56: Key.ctrl_l
 10:59:56: Key.ctrl_l
+11:00:13: Key.esc
