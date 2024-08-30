@@ -486,3 +486,10 @@
 10:22:18: Key.page_up
 10:22:18: Key.page_up
 10:22:18: Key.page_up
+10:22:18: Key.page_up
+10:22:19: Key.page_up
+10:22:19: Key.page_up
+10:22:19: Key.page_down
+10:22:20: Key.page_up
+10:22:20: Key.page_down
+10:22:26: Key.esc
