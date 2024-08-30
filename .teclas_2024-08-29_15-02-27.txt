@@ -1514,3 +1514,10 @@
 14:41:34: .
 14:41:35: .
 14:41:35: .
+14:43:18: Key.right
+14:43:19: Key.right
+14:43:19: Key.right
+14:43:19: Key.right
+14:43:19: Key.right
+14:43:19: Key.right
+14:43:20: Key.right
