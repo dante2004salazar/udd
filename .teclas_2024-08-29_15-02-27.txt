@@ -399,3 +399,4 @@
 10:04:31: Key.enter
 10:04:34: Key.ctrl_l
 10:04:35: Key.ctrl_l
+10:05:01: Key.esc
