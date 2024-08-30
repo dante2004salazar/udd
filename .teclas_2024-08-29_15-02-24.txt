@@ -775,3 +775,13 @@
 11:35:15: Key.right
 11:35:15: Key.right
 11:41:00: Key.page_up
+11:41:40: Key.page_down
+11:41:41: Key.page_down
+11:41:41: Key.page_down
+11:41:42: Key.page_up
+11:41:42: Key.page_down
+11:41:43: Key.page_down
+11:41:44: Key.page_down
+11:41:44: Key.page_up
+11:41:45: Key.page_up
+11:41:45: Key.page_down
