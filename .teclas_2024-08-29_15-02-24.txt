@@ -508,3 +508,7 @@
 10:24:29: Key.tab
 10:24:33: Key.alt_l
 10:24:33: Key.tab
+10:24:35: Key.alt_l
+10:24:35: Key.tab
+10:24:36: Key.ctrl_l
+10:24:36: \x0c
