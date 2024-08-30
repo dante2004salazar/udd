@@ -463,3 +463,10 @@
 10:10:37: Key.page_down
 10:10:38: Key.page_down
 10:10:39: Key.page_down
+10:10:39: Key.page_down
+10:10:40: Key.page_down
+10:10:41: Key.page_down
+10:10:42: Key.page_up
+10:10:42: Key.page_up
+10:10:45: Key.page_up
+10:10:45: Key.page_down
