@@ -901,3 +901,5 @@
 12:20:41: Key.esc
 12:24:42: Key.delete
 12:24:43: Key.enter
+12:24:45: Key.delete
+12:24:45: Key.enter
