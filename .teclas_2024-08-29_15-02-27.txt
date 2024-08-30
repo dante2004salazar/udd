@@ -1278,3 +1278,7 @@
 14:26:24: Key.right
 14:26:25: Key.right
 14:26:52: Key.right
+14:32:49: Key.enter
+14:32:49: Key.enter
+14:32:54: i
+14:32:55: Key.space
