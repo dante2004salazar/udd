@@ -597,3 +597,13 @@
 10:54:46: Key.right
 10:54:46: Key.left
 10:54:46: Key.left
+10:55:25: o
+10:55:25: u
+10:55:25: t
+10:55:25: l
+10:55:27: Key.down
+10:55:27: Key.down
+10:55:27: Key.down
+10:55:27: Key.down
+10:55:27: Key.down
+10:55:27: Key.enter
