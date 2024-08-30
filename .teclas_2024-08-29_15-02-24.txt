@@ -438,3 +438,8 @@
 10:08:43: Key.page_down
 10:08:43: Key.page_down
 10:08:45: Key.page_down
+10:08:52: Key.page_up
+10:08:52: Key.page_up
+10:08:53: Key.page_down
+10:08:56: Key.page_up
+10:08:56: Key.page_down
