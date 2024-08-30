@@ -591,3 +591,9 @@
 10:53:42: Key.page_up
 10:54:06: Key.page_down
 10:54:07: Key.page_up
+10:54:36: Key.esc
+10:54:44: Key.right
+10:54:45: Key.right
+10:54:46: Key.right
+10:54:46: Key.left
+10:54:46: Key.left
