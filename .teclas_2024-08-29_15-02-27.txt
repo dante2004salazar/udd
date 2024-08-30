@@ -1303,3 +1303,13 @@
 14:33:14: g
 14:33:15: h
 14:33:15: t
+14:33:38: Key.enter
+14:33:39: i
+14:33:39: Key.space
+14:33:41: Key.ctrl_l
+14:33:41: n
+14:33:41: a
+14:33:42: m
+14:33:43: Key.backspace
+14:33:43: Key.backspace
+14:33:43: Key.backspace
