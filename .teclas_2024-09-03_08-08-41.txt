@@ -777,3 +777,7 @@
 19:37:00: Key.space
 19:41:45: Key.media_volume_mute
 19:41:57: Key.media_volume_mute
+19:42:22: Key.media_volume_up
+19:42:22: Key.media_volume_up
+19:42:22: Key.media_volume_up
+19:42:23: Key.media_volume_up
