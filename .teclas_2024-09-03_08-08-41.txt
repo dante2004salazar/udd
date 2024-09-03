@@ -783,3 +783,4 @@
 19:42:23: Key.media_volume_up
 19:50:05: m
 19:50:07: m
+19:50:09: Key.space
