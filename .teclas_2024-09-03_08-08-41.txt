@@ -771,3 +771,5 @@
 19:33:02: Key.space
 19:33:11: Key.space
 19:33:13: Key.space
+19:33:42: Key.media_volume_mute
+19:33:48: Key.media_volume_mute
