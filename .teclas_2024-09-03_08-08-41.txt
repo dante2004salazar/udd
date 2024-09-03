@@ -682,3 +682,9 @@
 18:50:15: Key.down
 18:50:15: Key.down
 18:50:23: Key.caps_lock
+18:50:34: f
+18:50:34: a
+18:50:34: c
+18:50:34: e
+18:50:35: Key.enter
+18:50:35: Key.caps_lock
