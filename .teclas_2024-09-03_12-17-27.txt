@@ -38,3 +38,4 @@
 13:52:12: Key.enter
 13:53:32: Key.left
 13:54:23: Key.right
+13:54:36: Key.right
