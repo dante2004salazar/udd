@@ -452,3 +452,6 @@
 18:20:02: Key.right
 18:20:02: Key.right
 18:20:02: Key.right
+18:20:02: Key.right
+18:20:05: Key.left
+18:20:06: Key.left
