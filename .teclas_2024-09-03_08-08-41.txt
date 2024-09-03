@@ -560,3 +560,13 @@
 18:32:19: Key.backspace
 18:32:20: Key.backspace
 18:32:20: h
+18:32:57: Key.backspace
+18:32:57: Key.backspace
+18:32:58: Key.backspace
+18:32:58: Key.backspace
+18:32:58: Key.backspace
+18:32:58: Key.backspace
+18:32:58: Key.backspace
+18:32:58: Key.backspace
+18:32:59: Key.backspace
+18:33:00: Key.right
