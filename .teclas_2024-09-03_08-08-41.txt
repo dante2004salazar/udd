@@ -528,3 +528,11 @@
 18:31:28: a
 18:31:29: n
 18:31:29: t
+18:31:34: Key.backspace
+18:31:34: Key.backspace
+18:31:35: Key.backspace
+18:31:36: s
+18:31:37: u
+18:31:37: d
+18:31:39: Key.space
+18:31:40: Key.left
