@@ -158,3 +158,11 @@
 13:48:26: l
 13:48:26: Key.enter
 13:48:52: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
+13:48:53: Key.ctrl_l
