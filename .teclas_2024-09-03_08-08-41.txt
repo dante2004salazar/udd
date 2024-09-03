@@ -536,3 +536,17 @@
 18:31:37: d
 18:31:39: Key.space
 18:31:40: Key.left
+18:31:42: o
+18:31:48: Key.backspace
+18:31:48: Key.backspace
+18:31:48: Key.backspace
+18:31:48: Key.backspace
+18:31:49: Key.backspace
+18:31:50: c
+18:31:50: l
+18:31:50: i
+18:31:51: n
+18:31:51: i
+18:31:51: c
+18:31:52: o
+18:31:52: Key.space
