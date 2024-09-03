@@ -481,3 +481,8 @@
 18:21:20: Key.right
 18:21:20: Key.right
 18:21:21: Key.right
+18:21:22: Key.right
+18:21:22: Key.right
+18:21:22: Key.right
+18:21:22: Key.right
+18:21:27: Key.esc
