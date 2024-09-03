@@ -175,3 +175,13 @@
 14:52:42: Key.enter
 14:52:44: p
 14:52:44: Key.enter
+14:52:48: a
+14:52:48: Key.enter
+14:52:50: p
+14:52:51: Key.enter
+14:52:54: a
+14:52:55: Key.backspace
+14:52:55: p
+14:52:56: Key.enter
+14:52:59: a
+14:52:59: Key.enter
