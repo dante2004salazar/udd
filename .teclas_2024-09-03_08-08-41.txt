@@ -404,3 +404,7 @@
 18:19:26: Key.right
 18:19:27: Key.right
 18:19:27: Key.right
+18:19:37: Key.right
+18:19:37: Key.right
+18:19:38: Key.right
+18:19:39: Key.right
