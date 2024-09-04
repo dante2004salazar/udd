@@ -1055,3 +1055,4 @@
 20:34:16: Key.left
 20:34:17: Key.left
 20:35:24: Key.space
+21:19:44: Key.caps_lock
