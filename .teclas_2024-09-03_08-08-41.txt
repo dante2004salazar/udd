@@ -1050,3 +1050,5 @@
 20:28:06: Key.media_volume_mute
 20:33:55: b
 20:33:55: Key.space
+20:34:15: Key.left
+20:34:15: Key.space
