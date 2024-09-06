@@ -508,3 +508,4 @@
 15:53:35: Key.esc
 15:59:50: a
 15:59:50: Key.caps_lock
+16:14:03: Key.right
