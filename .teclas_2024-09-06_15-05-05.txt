@@ -65,3 +65,4 @@
 15:14:30: Key.enter
 15:15:46: Key.right
 15:15:46: Key.left
+15:48:17: Key.right
