@@ -340,3 +340,8 @@
 14:00:22: Key.right
 14:00:23: Key.right
 14:00:23: Key.right
+14:00:23: Key.right
+14:00:23: Key.right
+14:00:23: Key.right
+14:00:24: Key.left
+14:00:24: Key.left
