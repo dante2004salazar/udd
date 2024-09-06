@@ -357,3 +357,16 @@
 14:26:26: Key.right
 14:26:27: Key.left
 14:29:23: Key.right
+14:30:07: Key.right
+14:30:10: Key.right
+14:30:10: Key.right
+14:30:10: Key.right
+14:30:11: Key.right
+14:30:11: Key.right
+14:30:11: Key.right
+14:30:12: Key.right
+14:30:12: Key.right
+14:30:12: Key.right
+14:30:12: Key.right
+14:30:13: Key.right
+14:30:13: Key.left
