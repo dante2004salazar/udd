@@ -492,3 +492,7 @@
 15:10:56: ""
 15:10:56: s
 15:10:57: Key.enter
+15:11:33: Key.right
+15:11:33: Key.right
+15:11:33: Key.right
+15:11:33: Key.right
