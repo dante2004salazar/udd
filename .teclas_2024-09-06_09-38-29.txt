@@ -542,3 +542,4 @@
 17:16:29: Key.right
 17:16:29: Key.down
 17:23:42: Key.esc
+17:41:08: Key.enter
