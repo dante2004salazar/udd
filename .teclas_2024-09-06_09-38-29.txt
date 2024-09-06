@@ -524,3 +524,13 @@
 16:32:16: u
 16:32:17: r
 16:32:17: a
+16:32:24: Key.right
+16:32:25: Key.right
+16:32:25: Key.right
+16:32:26: Key.right
+16:32:26: Key.right
+16:32:26: Key.right
+16:32:26: Key.right
+16:32:26: Key.right
+16:32:27: Key.left
+16:32:27: Key.left
