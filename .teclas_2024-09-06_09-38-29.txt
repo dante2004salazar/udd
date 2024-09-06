@@ -123,3 +123,13 @@
 12:56:13: a
 12:56:14: l
 12:56:14: Key.enter
+13:27:17: Key.down
+13:27:17: Key.down
+13:27:18: Key.down
+13:27:18: Key.down
+13:27:19: Key.down
+13:27:19: Key.down
+13:27:19: Key.down
+13:27:20: Key.down
+13:27:20: Key.down
+13:27:21: Key.down
