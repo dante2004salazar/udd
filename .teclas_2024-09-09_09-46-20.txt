@@ -177,3 +177,4 @@
 15:41:22: Key.page_down
 15:41:47: Key.page_up
 15:42:35: Key.esc
+15:50:17: Key.right
