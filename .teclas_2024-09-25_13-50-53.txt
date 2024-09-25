@@ -670,3 +670,4 @@
 15:59:01: Key.right
 16:06:04: Key.cmd
 16:06:04: Key.tab
+16:06:09: Key.right
