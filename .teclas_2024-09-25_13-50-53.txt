@@ -1177,3 +1177,16 @@
 16:18:38: Key.space
 16:18:43: {
 16:18:44: Key.enter
+16:18:51: Key.ctrl_l
+16:18:51: \x18
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: Key.ctrl_l
+16:18:53: \x16
+16:18:56: Key.backspace
+16:18:56: Key.backspace
+16:18:56: Key.backspace
