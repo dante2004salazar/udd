@@ -365,3 +365,14 @@
 15:43:18: Key.ctrl_l
 15:43:18: \x16
 15:43:19: Key.space
+15:43:27: Key.backspace
+15:43:27: Key.enter
+15:43:29: Key.tab
+15:43:30: Key.up
+15:43:31: Key.up
+15:43:31: Key.up
+15:43:31: Key.left
+15:43:31: Key.left
+15:43:32: Key.left
+15:43:32: Key.left
+15:43:32: Key.tab
