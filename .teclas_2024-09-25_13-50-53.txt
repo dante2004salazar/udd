@@ -830,3 +830,9 @@
 16:11:27: Key.right
 16:11:27: Key.right
 16:11:28: Key.right
+16:11:28: Key.space
+16:11:29: {
+16:11:29: Key.enter
+16:11:37: Key.space
+16:11:37: Key.space
+16:11:38: Key.space
