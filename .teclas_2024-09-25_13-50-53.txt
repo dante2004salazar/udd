@@ -238,3 +238,7 @@
 15:34:41: Key.delete
 15:34:41: Key.delete
 15:34:41: Key.delete
+15:35:27: Key.up
+15:35:27: Key.right
+15:35:28: Key.down
+15:35:28: Key.down
