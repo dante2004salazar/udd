@@ -1192,3 +1192,4 @@
 16:18:56: Key.backspace
 16:24:01: Key.esc
 16:24:01: Key.esc
+16:24:09: Key.delete
