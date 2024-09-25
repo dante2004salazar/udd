@@ -1193,3 +1193,13 @@
 16:24:01: Key.esc
 16:24:01: Key.esc
 16:24:09: Key.delete
+16:34:35: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
+16:34:36: Key.ctrl_l
