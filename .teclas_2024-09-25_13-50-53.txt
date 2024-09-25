@@ -1203,3 +1203,14 @@
 16:34:36: Key.ctrl_l
 16:34:36: Key.ctrl_l
 16:34:36: Key.ctrl_l
+16:36:04: Key.up
+16:36:04: Key.right
+16:36:05: Key.down
+16:36:05: Key.left
+16:36:06: Key.up
+16:36:06: Key.right
+16:36:07: Key.down
+16:36:08: Key.left
+16:36:08: Key.up
+16:36:09: Key.right
+16:36:10: Key.up
