@@ -913,3 +913,5 @@
 16:12:19: Key.right
 16:12:34: b
 16:13:06: Key.space
+16:13:16: Key.delete
+16:13:17: Key.delete
