@@ -62,3 +62,7 @@
 15:27:53: Key.down
 15:27:54: Key.down
 15:27:55: Key.down
+15:28:15: Key.up
+15:28:15: Key.up
+15:28:15: Key.up
+15:28:16: Key.up
