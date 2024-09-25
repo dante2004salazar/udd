@@ -433,3 +433,8 @@
 15:46:36: Key.ctrl_l
 15:46:36: Key.ctrl_l
 15:46:36: \x16
+15:51:23: Key.cmd
+15:51:23: Key.cmd
+15:51:24: Key.cmd
+15:51:24: Key.tab
+15:51:27: Key.down
