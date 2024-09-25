@@ -617,3 +617,17 @@
 15:58:20: Key.left
 15:58:20: Key.left
 15:58:20: Key.left
+15:58:20: Key.left
+15:58:20: Key.left
+15:58:21: Key.left
+15:58:21: Key.left
+15:58:21: Key.left
+15:58:21: Key.left
+15:58:21: Key.left
+15:58:22: Key.left
+15:58:22: Key.right
+15:58:24: p
+15:58:24: Key.space
+15:58:24: i
+15:58:25: n
+15:58:25: Key.space
