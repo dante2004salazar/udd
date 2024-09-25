@@ -663,3 +663,8 @@
 15:58:53: Key.space
 15:58:53: Key.down
 15:58:53: Key.left
+15:58:54: Key.left
+15:58:54: Key.left
+15:58:55: Key.left
+15:59:00: ;
+15:59:01: Key.right
