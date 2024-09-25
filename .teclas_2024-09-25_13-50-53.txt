@@ -559,3 +559,10 @@
 15:57:43: Key.ctrl_l
 15:57:44: \x16
 15:57:46: Key.enter
+15:57:47: Key.up
+15:57:47: Key.right
+15:57:47: Key.right
+15:57:48: Key.right
+15:57:48: Key.right
+15:57:48: Key.right
+15:57:48: Key.left
