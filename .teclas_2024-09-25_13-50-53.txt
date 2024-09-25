@@ -49,3 +49,8 @@
 15:14:00: Key.esc
 15:14:24: Key.delete
 15:16:26: Key.page_down
+15:18:38: Key.page_down
+15:18:38: Key.page_down
+15:18:38: Key.page_down
+15:18:40: Key.page_up
+15:18:40: Key.page_up
