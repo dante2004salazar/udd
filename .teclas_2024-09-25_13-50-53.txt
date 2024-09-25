@@ -376,3 +376,11 @@
 15:43:32: Key.left
 15:43:32: Key.left
 15:43:32: Key.tab
+15:43:58: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.cmd
+15:43:59: Key.tab
