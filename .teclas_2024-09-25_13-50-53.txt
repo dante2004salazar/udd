@@ -158,3 +158,16 @@
 15:32:38: Key.down
 15:32:38: Key.up
 15:32:38: Key.ctrl_l
+15:32:38: \x16
+15:32:44: Key.ctrl_l
+15:32:45: \x03
+15:32:48: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: Key.ctrl_l
+15:32:49: \x16
