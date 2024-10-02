@@ -451,3 +451,6 @@
 13:15:20: Key.enter
 13:15:22: Key.enter
 13:15:22: s
+13:15:27: Key.enter
+13:15:30: Key.backspace
+13:15:31: Key.enter
