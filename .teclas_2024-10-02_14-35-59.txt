@@ -124,3 +124,5 @@
 15:35:06: Key.tab
 15:35:10: Key.down
 15:35:12: Key.down
+15:35:35: Key.down
+15:35:36: Key.down
