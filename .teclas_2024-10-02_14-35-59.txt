@@ -1571,3 +1571,4 @@
 19:24:41: Key.left
 19:24:41: Key.left
 19:24:41: Key.left
+19:29:35: Key.right
