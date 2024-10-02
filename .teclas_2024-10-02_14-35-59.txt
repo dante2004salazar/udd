@@ -86,3 +86,4 @@
 15:30:36: l
 15:30:37: Key.enter
 15:31:11: Key.delete
+15:32:21: Key.down
