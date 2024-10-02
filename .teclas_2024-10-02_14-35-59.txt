@@ -878,3 +878,9 @@
 16:09:33: Key.cmd
 16:09:33: Key.cmd
 16:09:33: Key.tab
+16:10:16: Key.ctrl_l
+16:10:17: Key.ctrl_l
+16:10:17: Key.ctrl_l
+16:10:17: Key.ctrl_l
+16:10:17: Key.ctrl_l
+16:10:17: \x03
