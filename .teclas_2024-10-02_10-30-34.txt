@@ -258,3 +258,11 @@
 12:56:53: Key.enter
 12:57:58: Key.enter
 12:58:45: Key.enter
+12:59:16: Key.backspace
+12:59:16: Key.backspace
+12:59:18: [
+12:59:18: ]
+12:59:19: Key.ctrl_r
+12:59:20: "
+12:59:21: "
+12:59:22: Key.backspace
