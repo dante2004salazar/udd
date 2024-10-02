@@ -522,3 +522,6 @@
 15:50:59: Key.left
 15:50:59: Key.left
 15:50:59: Key.left
+15:51:00: Key.right
+15:51:08: Key.left
+15:51:09: Key.right
