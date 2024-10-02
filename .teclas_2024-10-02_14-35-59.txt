@@ -58,3 +58,4 @@
 15:17:42: Key.enter
 15:18:41: Key.enter
 15:21:13: Key.page_down
+15:21:19: Key.page_up
