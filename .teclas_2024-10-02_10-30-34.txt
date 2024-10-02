@@ -347,3 +347,6 @@
 13:02:55: Key.enter
 13:03:28: Key.enter
 13:03:41: Key.enter
+13:03:57: Key.down
+13:03:58: Key.enter
+13:04:00: Key.enter
