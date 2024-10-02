@@ -1633,3 +1633,11 @@
 19:54:28: Key.down
 19:54:29: Key.down
 19:54:31: Key.f5
+20:06:05: Key.alt_l
+20:06:05: Key.f4
+20:06:06: Key.alt_l
+20:06:06: Key.alt_l
+20:06:06: Key.alt_l
+20:06:06: Key.alt_l
+20:06:06: Key.f4
+20:06:08: Key.alt_l
