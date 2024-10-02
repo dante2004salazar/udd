@@ -689,3 +689,13 @@
 16:02:41: Key.space
 16:02:42: -
 16:02:44: Key.enter
+16:02:55: Key.ctrl_l
+16:02:55: \x03
+16:02:57: Key.ctrl_l
+16:02:57: \x16
+16:03:03: Key.ctrl_l
+16:03:03: Key.ctrl_l
+16:03:03: Key.ctrl_l
+16:03:04: Key.ctrl_l
+16:03:04: Key.ctrl_l
+16:03:04: \x03
