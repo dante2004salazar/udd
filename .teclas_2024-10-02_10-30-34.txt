@@ -275,3 +275,5 @@
 12:59:29: Key.enter
 13:00:03: i
 13:00:04: Key.enter
+13:00:08: Key.backspace
+13:00:09: Key.enter
