@@ -373,3 +373,12 @@
 13:09:17: Key.space
 13:09:19: 9
 13:09:20: Key.enter
+13:09:27: Key.backspace
+13:09:29: p
+13:09:29: n
+13:09:30: Key.backspace
+13:09:30: Key.backspace
+13:09:30: n
+13:09:31: o
+13:09:31: Key.backspace
+13:09:32: p
