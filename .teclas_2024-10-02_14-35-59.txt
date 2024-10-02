@@ -113,3 +113,12 @@
 15:33:02: Key.down
 15:33:02: Key.down
 15:33:03: Key.up
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.cmd
+15:35:06: Key.tab
