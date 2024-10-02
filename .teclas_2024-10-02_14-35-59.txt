@@ -553,3 +553,5 @@
 15:57:20: Key.enter
 15:57:22: Key.enter
 15:58:00: Key.enter
+16:00:16: Key.cmd
+16:00:16: Key.tab
