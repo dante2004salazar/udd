@@ -545,3 +545,7 @@
 13:30:38: Key.enter
 13:30:42: Key.backspace
 13:30:43: 0
+13:30:44: Key.enter
+13:30:47: Key.enter
+13:30:51: Key.enter
+13:30:54: Key.enter
