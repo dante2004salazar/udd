@@ -306,3 +306,17 @@
 15:46:43: Key.enter
 15:46:49: X
 15:46:51: [
+15:46:51: i
+15:46:52: Key.right
+15:46:53: [
+15:46:54: j
+15:46:55: Key.right
+15:46:55: Key.space
+15:46:56: z
+15:46:57: Key.space
+15:46:58: Key.backspace
+15:46:58: Key.backspace
+15:46:59: Key.backspace
+15:47:00: Key.space
+15:47:00: -
+15:47:00: Key.space
