@@ -1469,3 +1469,10 @@
 18:19:19: Key.f5
 18:19:32: Key.right
 18:19:55: Key.right
+18:21:30: Key.alt_l
+18:21:30: Key.tab
+18:21:31: Key.alt_l
+18:21:31: Key.tab
+18:21:32: Key.tab
+18:21:32: Key.tab
+18:21:33: Key.tab
