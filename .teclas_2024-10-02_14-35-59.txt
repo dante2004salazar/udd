@@ -1506,3 +1506,5 @@
 19:20:34: Key.tab
 19:21:17: Key.alt_l
 19:21:17: Key.tab
+19:21:26: Key.alt_l
+19:21:26: Key.tab
