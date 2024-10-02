@@ -1485,3 +1485,4 @@
 18:31:32: Key.left
 18:31:38: Key.right
 18:31:38: Key.right
+18:33:03: Key.right
