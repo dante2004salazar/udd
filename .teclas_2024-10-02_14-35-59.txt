@@ -1210,3 +1210,7 @@
 16:26:27: Key.delete
 16:26:40: Key.delete
 16:26:42: Key.delete
+16:31:26: Key.ctrl_l
+16:31:26: \x03
+16:31:27: Key.ctrl_l
+16:31:28: \x16
