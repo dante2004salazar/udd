@@ -498,3 +498,15 @@
 13:26:44: Key.backspace
 13:26:44: Key.backspace
 13:26:45: Key.enter
+13:26:48: ,
+13:26:49: Key.space
+13:26:49: 8
+13:26:49: 0
+13:26:50: ,
+13:26:50: Key.space
+13:26:50: 7
+13:26:51: Key.enter
+13:26:54: Key.backspace
+13:26:54: Key.backspace
+13:26:55: Key.backspace
+13:26:55: Key.enter
