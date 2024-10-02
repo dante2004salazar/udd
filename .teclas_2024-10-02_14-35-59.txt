@@ -1025,3 +1025,16 @@
 16:13:57: Key.left
 16:13:59: Key.left
 16:14:02: ;
+16:14:11: "
+16:14:13: Key.right
+16:14:14: Key.right
+16:14:14: Key.right
+16:14:14: Key.right
+16:14:14: Key.right
+16:14:14: Key.right
+16:14:15: Key.right
+16:14:15: Key.ctrl_l
+16:14:16: \x18
+16:14:16: Key.left
+16:14:17: Key.ctrl_l
+16:14:17: \x16
