@@ -733,3 +733,17 @@
 16:05:57: Key.enter
 16:06:05: Key.enter
 16:06:52: Key.enter
+16:06:55: Key.cmd
+16:06:55: Key.tab
+16:06:59: Key.enter
+16:06:59: Key.enter
+16:07:00: Key.up
+16:07:00: Key.up
+16:07:00: Key.down
+16:07:01: d
+16:07:01: e
+16:07:02: Key.backspace
+16:07:02: x
+16:07:03: p
+16:07:03: r
+16:07:03: Key.space
