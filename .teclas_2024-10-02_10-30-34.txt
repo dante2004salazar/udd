@@ -446,3 +446,4 @@
 13:14:45: Key.down
 13:14:46: Key.right
 13:14:46: Key.backspace
+13:14:52: Key.enter
