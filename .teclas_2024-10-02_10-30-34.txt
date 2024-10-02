@@ -483,3 +483,8 @@
 13:25:26: Key.enter
 13:26:01: Key.enter
 13:26:16: Key.enter
+13:26:31: Key.backspace
+13:26:31: Key.backspace
+13:26:31: Key.backspace
+13:26:31: Key.backspace
+13:26:32: Key.enter
