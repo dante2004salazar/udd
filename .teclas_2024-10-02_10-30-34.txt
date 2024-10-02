@@ -439,3 +439,10 @@
 13:14:31: r
 13:14:31: u
 13:14:31: e
+13:14:44: Key.backspace
+13:14:44: Key.backspace
+13:14:44: Key.backspace
+13:14:44: Key.backspace
+13:14:45: Key.down
+13:14:46: Key.right
+13:14:46: Key.backspace
