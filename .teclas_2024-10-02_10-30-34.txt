@@ -515,3 +515,14 @@
 13:27:59: Key.enter
 13:28:21: Key.enter
 13:28:49: Key.enter
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:17: Key.backspace
+13:29:18: Key.backspace
+13:29:18: Key.backspace
+13:29:18: Key.backspace
+13:29:20: Key.enter
