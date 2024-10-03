@@ -102,3 +102,5 @@
 18:36:20: Key.caps_lock
 18:36:20: i
 18:36:21: Key.caps_lock
+18:36:34: Key.backspace
+18:36:35: 1
