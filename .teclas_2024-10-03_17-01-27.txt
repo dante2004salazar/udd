@@ -992,3 +992,8 @@
 19:42:34: Key.ctrl_l
 19:42:34: \x16
 19:42:35: Key.enter
+19:42:50: Key.backspace
+19:42:57: Key.backspace
+19:42:57: Key.backspace
+19:42:57: Key.backspace
+19:42:58: Key.backspace
