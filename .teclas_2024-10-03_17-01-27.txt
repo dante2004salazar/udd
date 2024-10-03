@@ -834,3 +834,6 @@
 19:10:07: Key.ctrl_l
 19:10:07: Key.ctrl_l
 19:10:07: \x16
+19:12:22: Key.backspace
+19:12:26: Key.ctrl_l
+19:12:27: \x03
