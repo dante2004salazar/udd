@@ -671,3 +671,6 @@
 18:57:33: Key.ctrl_l
 18:57:33: \x16
 18:57:34: Key.enter
+18:59:11: Key.caps_lock
+18:59:11: s
+18:59:11: Key.caps_lock
