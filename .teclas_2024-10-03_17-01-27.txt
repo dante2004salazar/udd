@@ -94,3 +94,11 @@
 18:36:09: 0
 18:36:09: 0
 18:36:10: 0
+18:36:15: Key.backspace
+18:36:15: Key.caps_lock
+18:36:15: i
+18:36:15: Key.caps_lock
+18:36:20: Key.backspace
+18:36:20: Key.caps_lock
+18:36:20: i
+18:36:21: Key.caps_lock
