@@ -117,3 +117,14 @@
 18:38:44: Key.backspace
 18:38:47: Key.backspace
 18:38:51: Key.backspace
+18:38:52: Key.ctrl_r
+18:38:52: (
+18:38:56: Key.ctrl_l
+18:38:57: \x03
+18:38:58: Key.ctrl_l
+18:38:59: Key.ctrl_l
+18:38:59: Key.ctrl_l
+18:38:59: Key.ctrl_l
+18:38:59: Key.ctrl_l
+18:38:59: \x16
+18:39:00: +
