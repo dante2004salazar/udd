@@ -843,3 +843,14 @@
 19:12:29: \x16
 19:12:34: ,
 19:12:34: Key.space
+19:12:39: Key.ctrl_l
+19:12:39: \x03
+19:12:41: Key.ctrl_l
+19:12:42: Key.ctrl_l
+19:12:42: Key.ctrl_l
+19:12:42: Key.ctrl_l
+19:12:42: Key.ctrl_l
+19:12:42: Key.ctrl_l
+19:12:42: \x16
+19:12:43: Key.right
+19:12:44: Key.backspace
