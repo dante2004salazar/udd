@@ -810,3 +810,8 @@
 19:07:24: 4
 19:09:21: Key.backspace
 19:09:21: 2
+19:09:37: Key.backspace
+19:09:37: Key.backspace
+19:09:42: Key.backspace
+19:09:46: Key.ctrl_l
+19:09:47: \x03
