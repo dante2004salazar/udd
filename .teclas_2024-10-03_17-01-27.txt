@@ -777,3 +777,8 @@
 19:06:30: Key.backspace
 19:06:31: Key.backspace
 19:06:31: Key.backspace
+19:06:41: Key.backspace
+19:06:41: Key.backspace
+19:06:42: Key.ctrl_l
+19:06:42: \x16
+19:06:43: Key.space
