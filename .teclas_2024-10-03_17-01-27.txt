@@ -659,3 +659,6 @@
 18:55:35: Key.right
 18:55:35: Key.right
 18:55:35: Key.right
+18:55:36: (
+18:55:38: Key.right
+18:55:38: Key.backspace
