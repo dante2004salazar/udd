@@ -732,3 +732,14 @@
 19:02:29: Key.space
 19:02:30: a
 19:02:30: .
+19:02:36: Key.backspace
+19:02:36: Key.backspace
+19:02:36: Key.backspace
+19:02:36: Key.backspace
+19:02:36: Key.backspace
+19:02:36: Key.backspace
+19:02:37: Key.backspace
+19:02:38: Key.backspace
+19:02:38: Key.backspace
+19:02:39: Key.backspace
+19:02:39: Key.backspace
