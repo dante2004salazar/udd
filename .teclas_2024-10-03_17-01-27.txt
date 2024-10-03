@@ -907,3 +907,9 @@
 19:25:05: Key.right
 19:25:06: Key.backspace
 19:25:06: 8
+19:25:09: Key.backspace
+19:25:09: Key.backspace
+19:25:09: Key.backspace
+19:25:09: Key.backspace
+19:25:09: Key.backspace
+19:25:10: Key.backspace
