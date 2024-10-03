@@ -81,3 +81,16 @@
 17:03:43: Key.f4
 17:03:43: Key.alt_l
 17:03:44: Key.f4
+18:36:04: Key.backspace
+18:36:04: Key.backspace
+18:36:04: Key.backspace
+18:36:04: Key.backspace
+18:36:05: Key.backspace
+18:36:05: Key.backspace
+18:36:05: Key.backspace
+18:36:07: 3
+18:36:07: 0
+18:36:08: 0
+18:36:09: 0
+18:36:09: 0
+18:36:10: 0
