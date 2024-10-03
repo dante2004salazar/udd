@@ -652,3 +652,10 @@
 18:55:20: Key.backspace
 18:55:22: Key.enter
 18:55:24: ;
+18:55:25: Key.enter
+18:55:29: Key.enter
+18:55:34: Key.backspace
+18:55:35: Key.right
+18:55:35: Key.right
+18:55:35: Key.right
+18:55:35: Key.right
