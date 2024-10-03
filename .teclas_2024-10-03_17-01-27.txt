@@ -395,3 +395,7 @@
 18:50:30: Key.right
 18:50:30: Key.backspace
 18:50:31: .
+18:50:39: -
+18:50:39: Key.space
+18:50:41: Key.backspace
+18:50:42: Key.backspace
