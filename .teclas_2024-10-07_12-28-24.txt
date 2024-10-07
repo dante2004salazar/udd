@@ -143,3 +143,5 @@
 18:35:09: Key.left
 18:35:09: Key.left
 18:35:10: Key.left
+18:38:26: Key.right
+18:38:31: Key.right
