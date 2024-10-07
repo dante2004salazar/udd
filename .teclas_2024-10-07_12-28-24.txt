@@ -154,3 +154,17 @@
 18:42:48: Key.esc
 18:42:49: Key.esc
 18:42:49: Key.esc
+18:43:22: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: Key.cmd
+18:43:23: p
