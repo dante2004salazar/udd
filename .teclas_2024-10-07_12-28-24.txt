@@ -245,3 +245,5 @@
 19:10:38: Key.space
 19:10:38: Key.space
 19:10:39: Key.space
+19:37:16: Key.right
+19:37:16: Key.left
