@@ -99,3 +99,15 @@
 18:11:50: 2
 18:11:51: Key.enter
 18:12:39: Key.right
+18:12:41: Key.right
+18:12:42: Key.right
+18:12:43: Key.right
+18:12:45: Key.right
+18:12:46: Key.right
+18:12:46: Key.right
+18:12:47: Key.left
+18:12:48: Key.right
+18:12:50: Key.right
+18:12:50: Key.left
+18:12:51: Key.right
+18:12:52: Key.right
