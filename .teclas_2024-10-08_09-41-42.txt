@@ -949,3 +949,13 @@
 17:01:51: A
 17:01:51: F
 17:01:54: Key.esc
+17:02:13: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: Key.ctrl_l
+17:02:14: c
+17:02:18: Key.ctrl_l
+17:02:18: \x03
