@@ -871,3 +871,5 @@
 17:00:03: Key.backspace
 17:00:03: Key.backspace
 17:00:04: <99>
+17:00:09: Key.delete
+17:00:12: Key.delete
