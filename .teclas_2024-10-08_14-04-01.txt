@@ -203,3 +203,7 @@
 14:58:38: \x16
 14:59:36: Key.backspace
 14:59:42: Key.backspace
+14:59:52: Key.backspace
+14:59:55: Key.backspace
+14:59:59: Key.backspace
+15:00:01: Key.backspace
