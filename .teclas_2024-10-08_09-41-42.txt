@@ -989,3 +989,13 @@
 17:07:46: Key.ctrl_l
 17:07:46: Key.ctrl_l
 17:07:46: Key.ctrl_l
+17:07:46: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: Key.ctrl_l
+17:07:47: \x1a
