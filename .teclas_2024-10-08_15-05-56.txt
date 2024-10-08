@@ -20,3 +20,9 @@
 15:21:41: Key.page_down
 15:21:41: Key.page_down
 15:21:42: Key.page_down
+15:22:00: Key.page_down
+15:22:00: Key.page_down
+15:22:00: Key.page_down
+15:22:01: Key.page_down
+15:22:01: Key.page_up
+15:22:02: Key.page_down
