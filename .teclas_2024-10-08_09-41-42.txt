@@ -66,3 +66,14 @@
 09:50:25: Key.cmd
 09:50:25: Key.cmd
 09:50:26: p
+09:50:29: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
+09:50:30: Key.esc
