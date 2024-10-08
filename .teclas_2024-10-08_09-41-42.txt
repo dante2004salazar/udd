@@ -757,3 +757,5 @@
 16:54:34: Key.backspace
 16:54:37: Key.delete
 16:54:38: Key.delete
+16:54:58: Key.ctrl_l
+16:54:59: \x03
