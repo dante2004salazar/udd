@@ -843,3 +843,16 @@
 16:58:00: n
 16:58:00: Key.backspace
 16:58:00: Key.backspace
+16:58:01: Key.backspace
+16:58:01: V
+16:58:01: A
+16:58:02: N
+16:58:03: (
+16:58:04: Key.backspace
+16:58:04: Key.backspace
+16:58:04: Key.backspace
+16:58:04: Key.backspace
+16:58:06: V
+16:58:06: N
+16:58:06: A
+16:58:07: (
