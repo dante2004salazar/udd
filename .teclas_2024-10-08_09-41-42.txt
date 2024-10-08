@@ -703,3 +703,8 @@
 16:27:56: Key.space
 16:27:57: Key.down
 16:27:58: Key.enter
+16:28:13: Key.space
+16:28:16: s
+16:28:16: p
+16:28:16: w
+16:28:17: Key.backspace
