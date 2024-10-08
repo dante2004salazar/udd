@@ -575,3 +575,17 @@
 10:15:16: a
 10:15:16: n
 10:15:18: d
+10:15:18: Key.enter
+10:15:25: Key.backspace
+10:15:25: Key.backspace
+10:15:25: Key.backspace
+10:15:25: Key.backspace
+10:15:25: Key.backspace
+10:15:25: Key.backspace
+10:15:26: Key.backspace
+10:15:26: Key.backspace
+10:15:26: Key.backspace
+10:15:26: a
+10:15:26: u
+10:15:28: r
+10:15:29: s
