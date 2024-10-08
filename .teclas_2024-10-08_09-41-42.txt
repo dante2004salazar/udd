@@ -865,3 +865,9 @@
 16:58:31: )
 16:58:33: +
 16:58:37: Key.enter
+17:00:02: Key.backspace
+17:00:02: Key.backspace
+17:00:03: Key.backspace
+17:00:03: Key.backspace
+17:00:03: Key.backspace
+17:00:04: <99>
