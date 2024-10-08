@@ -221,3 +221,14 @@
 10:08:43: Key.backspace
 10:08:43: Key.backspace
 10:08:43: Key.backspace
+10:08:43: Key.backspace
+10:08:43: Key.backspace
+10:08:44: g
+10:08:44: r
+10:08:44: e
+10:08:44: a
+10:08:44: l
+10:08:44: i
+10:08:45: s
+10:08:45: h
+10:08:46: Key.enter
