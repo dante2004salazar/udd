@@ -122,3 +122,5 @@
 16:15:19: Key.page_down
 16:15:32: Key.page_down
 16:15:46: Key.page_down
+16:20:37: Key.esc
+16:20:37: Key.esc
