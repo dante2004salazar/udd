@@ -748,3 +748,7 @@
 15:24:18: d
 15:24:18: f
 15:24:19: Key.enter
+15:29:59: Key.caps_lock
+15:29:59: Key.backspace
+15:30:00: Key.ctrl_l
+15:30:01: Key.backspace
