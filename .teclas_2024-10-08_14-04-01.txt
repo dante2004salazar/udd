@@ -1195,3 +1195,6 @@
 08:49:16: Key.backspace
 08:49:32: Key.ctrl_l
 08:49:33: \x03
+08:49:40: Key.ctrl_l
+08:49:40: \x16
+08:49:43: Key.enter
