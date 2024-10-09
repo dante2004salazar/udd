@@ -1167,3 +1167,13 @@
 08:47:50: Key.backspace
 08:47:51: Key.backspace
 08:47:51: Key.backspace
+08:48:09: Key.enter
+08:48:12: Key.right
+08:48:12: Key.backspace
+08:48:13: Key.backspace
+08:48:13: Key.backspace
+08:48:15: Key.enter
+08:48:16: Key.backspace
+08:48:16: Key.ctrl_l
+08:48:16: \x1a
+08:48:17: \x1a
