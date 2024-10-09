@@ -4321,3 +4321,4 @@
 12:04:52: o
 12:04:55: Key.backspace
 12:04:55: a
+12:06:37: Key.backspace
