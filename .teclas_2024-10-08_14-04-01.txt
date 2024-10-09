@@ -4815,3 +4815,10 @@
 13:25:38: Key.backspace
 13:25:43: Key.backspace
 13:25:48: Key.left
+13:25:48: Key.left
+13:25:48: Key.left
+13:25:49: Key.backspace
+13:25:50: n
+13:25:51: Key.enter
+13:25:53: Key.left
+13:25:53: Key.backspace
