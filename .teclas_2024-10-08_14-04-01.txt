@@ -1302,3 +1302,13 @@
 08:52:57: Key.backspace
 08:52:57: Key.backspace
 08:52:58: Key.backspace
+08:53:03: Key.caps_lock
+08:53:04: p
+08:53:04: Key.caps_lock
+08:53:05: r
+08:53:05: o
+08:53:06: Key.up
+08:53:07: Key.down
+08:53:08: Key.ctrl_l
+08:53:08: \x1a
+08:53:09: \x1a
