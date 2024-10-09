@@ -5220,3 +5220,4 @@
 13:49:45: Key.backspace
 13:49:53: Key.ctrl_l
 13:49:53: \x16
+13:49:58: Key.backspace
