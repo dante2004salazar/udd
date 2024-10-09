@@ -1179,3 +1179,10 @@
 08:48:17: \x1a
 08:48:18: Key.backspace
 08:48:19: Key.backspace
+08:48:31: Key.ctrl_l
+08:48:31: \x16
+08:48:33: .
+08:48:34: Key.backspace
+08:48:34: Key.enter
+08:48:39: Key.ctrl_l
+08:48:39: \x03
