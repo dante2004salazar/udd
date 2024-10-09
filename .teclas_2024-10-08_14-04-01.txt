@@ -4792,3 +4792,15 @@
 13:24:21: Key.backspace
 13:24:21: Key.backspace
 13:24:24: Key.backspace
+13:24:31: Key.backspace
+13:24:31: Key.backspace
+13:24:32: Key.space
+13:24:33: Key.right
+13:24:33: Key.backspace
+13:24:34: r
+13:24:36: Key.backspace
+13:24:37: n
+13:24:37: d
+13:24:37: o
+13:24:37: Key.space
+13:24:38: Key.backspace
