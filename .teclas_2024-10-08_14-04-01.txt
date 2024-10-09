@@ -4952,3 +4952,4 @@
 13:28:20: Key.enter
 13:28:53: Key.ctrl_l
 13:28:53: \x16
+13:29:17: Key.backspace
