@@ -1616,3 +1616,5 @@
 11:47:23: \x03
 11:47:24: Key.backspace
 11:47:24: Key.backspace
+11:47:27: Key.ctrl_l
+11:47:27: \x16
