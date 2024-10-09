@@ -5325,3 +5325,12 @@
 14:00:00: Key.backspace
 14:00:01: Key.backspace
 14:00:01: Key.backspace
+14:00:15: Key.caps_lock
+14:00:15: p
+14:00:15: Key.caps_lock
+14:00:16: r
+14:00:16: o
+14:00:16: p
+14:00:16: u
+14:00:16: e
+14:00:16: s
