@@ -1266,3 +1266,13 @@
 08:52:31: Key.ctrl_l
 08:52:32: \x03
 08:52:37: Key.ctrl_l
+08:52:38: \x16
+08:52:41: Key.backspace
+08:52:41: Key.backspace
+08:52:41: Key.backspace
+08:52:41: Key.backspace
+08:52:41: Key.backspace
+08:52:42: Key.backspace
+08:52:42: Key.backspace
+08:52:42: Key.backspace
+08:52:48: o
