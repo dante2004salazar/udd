@@ -5363,3 +5363,6 @@
 14:00:24: i
 14:00:24: v
 14:00:24: a
+14:01:00: Key.backspace
+14:01:01: Key.backspace
+14:01:02: Key.backspace
