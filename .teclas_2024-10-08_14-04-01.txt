@@ -1247,3 +1247,9 @@
 08:51:17: Key.backspace
 08:51:17: p
 08:51:18: Key.up
+08:51:18: Key.down
+08:51:19: Key.caps_lock
+08:51:19: Key.backspace
+08:51:20: p
+08:51:22: Key.down
+08:51:22: Key.down
