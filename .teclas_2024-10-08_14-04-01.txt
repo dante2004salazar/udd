@@ -1253,3 +1253,4 @@
 08:51:20: p
 08:51:22: Key.down
 08:51:22: Key.down
+08:51:36: Key.backspace
