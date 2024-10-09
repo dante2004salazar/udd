@@ -4181,3 +4181,12 @@
 12:01:29: r
 12:01:29: e
 12:01:29: s
+12:01:38: Key.backspace
+12:01:38: Key.backspace
+12:01:38: Key.backspace
+12:01:38: Key.backspace
+12:01:38: Key.backspace
+12:01:38: Key.backspace
+12:01:39: Key.backspace
+12:01:39: Key.backspace
+12:01:40: Key.backspace
