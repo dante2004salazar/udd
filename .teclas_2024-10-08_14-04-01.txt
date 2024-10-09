@@ -1177,3 +1177,5 @@
 08:48:16: Key.ctrl_l
 08:48:16: \x1a
 08:48:17: \x1a
+08:48:18: Key.backspace
+08:48:19: Key.backspace
