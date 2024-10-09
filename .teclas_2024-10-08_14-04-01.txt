@@ -2889,3 +2889,12 @@
 11:53:40: c
 11:53:40: a
 11:53:40: Key.space
+11:53:40: y
+11:53:40: Key.space
+11:53:47: Key.left
+11:53:48: Key.right
+11:53:48: Key.right
+11:53:49: Key.right
+11:53:50: Key.right
+11:53:50: Key.right
+11:53:51: Key.left
