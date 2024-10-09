@@ -4764,3 +4764,10 @@
 13:22:13: a
 13:22:13: s
 13:22:13: Key.enter
+13:23:20: Key.right
+13:23:20: Key.backspace
+13:23:20: Key.backspace
+13:23:20: Key.backspace
+13:23:20: Key.backspace
+13:23:21: Key.backspace
+13:23:21: Key.enter
