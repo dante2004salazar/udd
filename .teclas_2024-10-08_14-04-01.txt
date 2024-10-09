@@ -3374,3 +3374,15 @@
 11:58:11: Key.backspace
 11:58:11: Key.backspace
 11:58:12: Key.backspace
+11:58:16: Key.backspace
+11:58:16: s
+11:58:17: Key.space
+11:58:18: Key.backspace
+11:58:18: Key.backspace
+11:58:18: n
+11:58:18: m
+11:58:19: Key.backspace
+11:58:19: Key.space
+11:58:25: Key.backspace
+11:58:25: Key.backspace
+11:58:26: Key.backspace
