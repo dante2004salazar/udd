@@ -2898,3 +2898,13 @@
 11:53:50: Key.right
 11:53:50: Key.right
 11:53:51: Key.left
+11:53:51: Key.backspace
+11:53:52: Key.backspace
+11:53:52: Key.left
+11:53:53: Key.left
+11:53:53: Key.left
+11:53:53: Key.left
+11:53:53: Key.left
+11:53:53: Key.left
+11:53:54: Key.backspace
+11:53:54: i
