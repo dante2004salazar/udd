@@ -4812,3 +4812,6 @@
 13:25:13: Key.backspace
 13:25:17: Key.backspace
 13:25:35: Key.backspace
+13:25:38: Key.backspace
+13:25:43: Key.backspace
+13:25:48: Key.left
