@@ -1219,3 +1219,14 @@
 08:50:37: \x03
 08:50:41: Key.ctrl_l
 08:50:41: \x16
+08:50:59: Key.enter
+08:51:00: Key.right
+08:51:00: Key.right
+08:51:00: Key.right
+08:51:01: Key.backspace
+08:51:01: Key.backspace
+08:51:02: Key.down
+08:51:03: Key.down
+08:51:03: Key.down
+08:51:04: Key.down
+08:51:04: Key.down
