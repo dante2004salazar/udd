@@ -4311,3 +4311,13 @@
 12:02:17: t
 12:02:17: e
 12:02:17: .
+12:04:49: Key.backspace
+12:04:50: Key.right
+12:04:50: Key.right
+12:04:51: Key.right
+12:04:51: Key.right
+12:04:51: Key.right
+12:04:51: Key.backspace
+12:04:52: o
+12:04:55: Key.backspace
+12:04:55: a
