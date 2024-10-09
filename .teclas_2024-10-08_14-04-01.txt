@@ -4323,3 +4323,6 @@
 12:04:55: a
 12:06:37: Key.backspace
 12:06:50: Key.backspace
+12:07:30: Key.backspace
+12:07:30: [´]
+12:07:31: a
