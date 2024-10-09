@@ -1105,3 +1105,14 @@
 08:45:44: e
 08:45:44: l
 08:45:45: Key.enter
+08:46:53: Key.ctrl_l
+08:46:53: \x16
+08:46:58: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
+08:46:59: Key.backspace
