@@ -803,3 +803,5 @@
 14:06:01: Key.right
 14:06:05: Key.left
 14:06:10: Key.right
+14:08:30: Key.right
+14:08:31: Key.esc
