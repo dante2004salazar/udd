@@ -126,3 +126,7 @@
 12:03:56: 5
 12:07:04: Key.backspace
 12:07:05: 7
+12:10:08: Key.backspace
+12:10:08: Key.backspace
+12:10:08: Key.backspace
+12:10:09: 5
