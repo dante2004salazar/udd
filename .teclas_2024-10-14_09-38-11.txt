@@ -1093,3 +1093,6 @@
 15:52:34: Key.backspace
 15:52:34: Key.backspace
 15:52:34: Key.backspace
+16:47:16: Key.ctrl_l
+16:47:17: Key.ctrl_l
+16:47:17: <109>
