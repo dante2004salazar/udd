@@ -800,3 +800,6 @@
 14:03:47: Key.right
 14:04:04: Key.right
 14:05:46: Key.right
+14:06:01: Key.right
+14:06:05: Key.left
+14:06:10: Key.right
