@@ -1048,3 +1048,9 @@
 15:13:19: 1
 15:13:19: 9
 15:13:19: Key.enter
+15:14:46: Key.right
+15:14:46: Key.left
+15:14:47: Key.left
+15:14:47: Key.left
+15:14:47: Key.left
+15:14:47: Key.left
