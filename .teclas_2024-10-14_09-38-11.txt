@@ -1239,3 +1239,5 @@
 19:50:44: a
 19:50:44: s
 19:50:46: Key.enter
+19:54:11: Key.enter
+19:54:12: Key.backspace
