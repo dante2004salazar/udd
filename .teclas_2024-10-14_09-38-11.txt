@@ -805,3 +805,11 @@
 14:06:10: Key.right
 14:08:30: Key.right
 14:08:31: Key.esc
+14:28:49: E
+14:28:49: n
+14:28:50: Key.space
+14:28:50: g
+14:28:51: Key.backspace
+14:28:51: Key.backspace
+14:28:51: Key.backspace
+14:28:51: Key.backspace
