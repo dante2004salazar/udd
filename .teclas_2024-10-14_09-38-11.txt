@@ -106,3 +106,6 @@
 11:48:47: a
 11:48:48: Key.enter
 11:56:22: 6
+12:00:32: Key.backspace
+12:00:32: Key.backspace
+12:00:32: Key.backspace
