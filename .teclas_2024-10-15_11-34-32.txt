@@ -753,3 +753,4 @@
 14:41:55: Key.left
 14:45:07: Key.right
 14:45:07: Key.right
+14:45:22: Key.esc
