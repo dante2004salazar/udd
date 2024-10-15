@@ -673,3 +673,5 @@
 14:14:38: Key.backspace
 14:14:40: a
 14:14:41: Key.enter
+14:14:45: p
+14:14:48: Key.enter
