@@ -68,3 +68,8 @@
 12:29:15: \n
 12:46:56: Key.left
 12:47:10: Key.ctrl_r
+13:03:13: Key.ctrl_l
+13:03:13: Key.ctrl_l
+13:03:13: Key.ctrl_l
+13:03:13: Key.ctrl_l
+13:03:13: Key.ctrl_l
