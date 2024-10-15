@@ -754,3 +754,7 @@
 14:45:07: Key.right
 14:45:07: Key.right
 14:45:22: Key.esc
+15:42:55: Key.space
+15:42:55: -
+15:42:55: Key.space
+15:42:55: v
