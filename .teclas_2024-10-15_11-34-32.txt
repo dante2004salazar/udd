@@ -744,3 +744,5 @@
 14:39:41: Key.right
 14:39:41: Key.right
 14:39:42: Key.left
+14:39:42: Key.left
+14:39:43: Key.left
