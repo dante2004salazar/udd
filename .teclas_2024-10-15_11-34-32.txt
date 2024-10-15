@@ -146,3 +146,8 @@
 13:50:04: Key.enter
 13:50:40: Key.caps_lock
 13:50:41: k
+13:50:42: Key.backspace
+13:50:42: Key.backspace
+13:50:43: Key.caps_lock
+13:50:44: d
+13:50:44: a
