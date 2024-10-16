@@ -1059,3 +1059,4 @@
 08:40:00: Key.ctrl_l
 08:40:00: Key.ctrl_l
 08:40:00: Key.ctrl_l
+09:09:30: Key.f5
