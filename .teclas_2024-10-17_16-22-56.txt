@@ -872,3 +872,7 @@
 20:28:27: n
 20:28:27: g
 20:28:27: a
+20:28:30: Key.backspace
+20:28:31: Key.backspace
+20:28:31: Key.backspace
+20:28:31: Key.backspace
