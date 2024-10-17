@@ -251,3 +251,4 @@
 19:11:21: Key.space
 19:11:22: Key.left
 19:11:22: Key.left
+19:14:50: Key.f6
