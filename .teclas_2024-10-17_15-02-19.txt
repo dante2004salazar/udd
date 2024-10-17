@@ -209,3 +209,4 @@
 18:59:22: Key.right
 19:00:25: Key.space
 19:00:36: Key.esc
+19:01:14: Key.caps_lock
