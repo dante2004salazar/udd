@@ -116,3 +116,8 @@
 18:05:56: r
 18:05:56: u
 18:05:56: Key.enter
+18:51:57: c
+18:51:57: o
+18:51:58: Key.backspace
+18:51:58: Key.backspace
+18:51:58: Key.backspace
