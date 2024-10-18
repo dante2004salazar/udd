@@ -38,3 +38,6 @@
 21:54:09: g
 21:54:10: Key.backspace
 21:54:10: Key.backspace
+21:54:15: g
+21:54:15: i
+21:54:16: Key.enter
