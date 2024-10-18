@@ -44,3 +44,13 @@
 21:54:33: Key.cmd
 21:54:33: w
 21:54:34: Key.enter
+21:54:47: Key.alt_l
+21:54:47: Key.tab
+21:54:48: Key.esc
+21:54:50: Key.alt_l
+21:54:50: Key.tab
+21:54:52: Key.esc
+21:54:53: Key.cmd
+21:54:53: Key.alt_l
+21:54:54: Key.alt_l
+21:54:54: Key.tab
