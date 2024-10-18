@@ -14,3 +14,14 @@
 21:53:48: Key.backspace
 21:53:49: Key.backspace
 21:53:49: Key.backspace
+21:53:51: c
+21:53:51: a
+21:53:51: n
+21:53:52: Key.down
+21:53:52: Key.down
+21:53:52: Key.down
+21:53:53: Key.down
+21:53:53: Key.down
+21:53:53: Key.down
+21:53:53: Key.down
+21:53:53: Key.enter
