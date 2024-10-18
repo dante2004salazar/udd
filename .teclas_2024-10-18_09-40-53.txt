@@ -526,3 +526,10 @@
 11:48:49: i
 11:48:49: Key.enter
 11:49:13: Key.right
+11:50:12: Key.left
+11:50:17: Key.delete
+11:50:17: Key.delete
+11:50:17: Key.delete
+11:50:17: Key.delete
+11:50:18: Key.delete
+11:50:18: Key.delete
