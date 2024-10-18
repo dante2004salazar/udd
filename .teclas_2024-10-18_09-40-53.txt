@@ -665,3 +665,6 @@
 11:53:09: Key.left
 11:53:09: Key.right
 11:53:10: Key.right
+12:13:34: Key.esc
+12:13:42: Key.delete
+12:13:43: Key.enter
