@@ -1631,3 +1631,8 @@
 10:32:49: )
 10:32:50: Key.enter
 10:32:50: Key.up
+10:33:16: Key.down
+10:33:16: Key.delete
+10:33:17: Key.left
+10:33:17: Key.left
+10:33:18: Key.left
