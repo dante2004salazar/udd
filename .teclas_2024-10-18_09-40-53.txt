@@ -22,3 +22,6 @@
 10:11:50: Key.backspace
 10:11:50: Key.backspace
 10:11:51: Key.caps_lock
+10:19:24: Key.esc
+10:19:26: Key.cmd
+10:19:26: d
