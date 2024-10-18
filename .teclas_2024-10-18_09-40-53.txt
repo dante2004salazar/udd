@@ -371,3 +371,15 @@
 11:32:38: Key.right
 11:32:38: Key.left
 11:32:40: Key.left
+11:33:41: Key.esc
+11:33:44: g
+11:33:44: h
+11:33:44: e
+11:33:44: o
+11:33:45: Key.backspace
+11:33:45: Key.backspace
+11:33:45: Key.backspace
+11:33:46: e
+11:33:46: o
+11:33:46: e
+11:33:47: Key.backspace
