@@ -191,3 +191,5 @@
 10:41:01: Key.right
 10:41:01: Key.right
 10:41:02: Key.right
+11:25:32: Key.cmd
+11:25:32: d
