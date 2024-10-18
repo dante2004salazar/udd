@@ -255,3 +255,17 @@
 11:25:46: d
 11:25:46: Key.cmd
 11:25:47: d
+11:25:55: Key.right
+11:25:56: Key.right
+11:25:56: Key.right
+11:25:56: Key.right
+11:25:56: Key.right
+11:25:56: Key.right
+11:25:57: Key.right
+11:25:57: Key.right
+11:25:58: Key.right
+11:25:58: Key.right
+11:25:58: Key.right
+11:25:59: Key.left
+11:25:59: Key.right
+11:25:59: Key.right
