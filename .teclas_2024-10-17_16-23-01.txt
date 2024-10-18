@@ -1036,3 +1036,6 @@
 09:07:59: Key.ctrl_l
 09:07:59: Key.enter
 09:08:00: Key.backspace
+09:08:04: Key.ctrl_l
+09:08:04: Key.enter
+09:08:07: Key.delete
