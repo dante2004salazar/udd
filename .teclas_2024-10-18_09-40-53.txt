@@ -25,3 +25,5 @@
 10:19:24: Key.esc
 10:19:26: Key.cmd
 10:19:26: d
+10:20:40: Key.right
+10:20:40: Key.right
