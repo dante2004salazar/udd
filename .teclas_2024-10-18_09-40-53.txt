@@ -568,3 +568,11 @@
 11:51:14: Key.left
 11:51:14: Key.left
 11:51:14: (
+11:51:15: Key.right
+11:51:15: Key.right
+11:51:15: Key.right
+11:51:15: Key.right
+11:51:16: ,
+11:51:16: Key.space
+11:51:16: a
+11:51:18: Key.enter
