@@ -54,3 +54,11 @@
 21:54:53: Key.alt_l
 21:54:54: Key.alt_l
 21:54:54: Key.tab
+21:54:57: Key.alt_l
+21:54:58: Key.cmd
+21:54:58: Key.alt_l
+21:54:58: Key.tab
+21:54:59: Key.tab
+21:54:59: Key.tab
+21:55:00: Key.tab
+21:55:00: Key.tab
