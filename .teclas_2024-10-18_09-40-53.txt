@@ -92,3 +92,10 @@
 10:20:45: Key.left
 10:20:45: Key.left
 10:20:46: Key.right
+10:20:59: Key.left
+10:20:59: Key.left
+10:21:00: Key.left
+10:21:00: Key.right
+10:21:00: Key.left
+10:21:01: Key.left
+10:21:02: Key.right
