@@ -375,3 +375,14 @@
 14:19:57: Key.enter
 14:19:59: p
 14:19:59: Key.enter
+14:20:35: Key.right
+14:20:36: Key.right
+14:20:36: Key.left
+14:20:37: Key.right
+14:20:37: Key.right
+14:20:37: Key.right
+14:20:38: Key.right
+14:20:38: Key.left
+14:20:39: Key.left
+14:20:40: Key.left
+14:20:40: Key.left
