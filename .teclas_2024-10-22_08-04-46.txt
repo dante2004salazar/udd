@@ -328,3 +328,13 @@
 09:58:03: Key.right
 09:58:04: Key.right
 09:58:05: Key.right
+09:58:26: Key.right
+09:58:27: Key.right
+09:58:28: Key.left
+09:58:28: Key.left
+09:58:28: Key.right
+09:58:28: Key.right
+09:58:29: Key.right
+09:58:30: Key.left
+09:58:30: Key.left
+09:58:30: Key.left
