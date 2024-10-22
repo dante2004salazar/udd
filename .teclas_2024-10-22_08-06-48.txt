@@ -321,3 +321,4 @@
 14:15:27: Key.caps_lock
 14:15:28: Key.caps_lock
 14:15:28: Key.ctrl_l
+14:15:54: Key.right
