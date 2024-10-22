@@ -412,3 +412,5 @@
 10:00:53: Key.left
 10:00:53: Key.left
 10:00:54: Key.esc
+10:05:17: Key.right
+10:05:18: Key.right
