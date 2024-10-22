@@ -1277,3 +1277,5 @@
 14:37:10: D
 14:37:13: Key.backspace
 14:37:13: Key.enter
+14:37:14: D
+14:37:17: Key.delete
