@@ -350,3 +350,9 @@
 09:58:51: Key.left
 09:58:52: Key.left
 09:59:06: Key.esc
+09:59:26: d
+09:59:26: .
+09:59:28: Key.backspace
+09:59:28: Key.backspace
+09:59:28: Key.backspace
+09:59:28: Key.backspace
