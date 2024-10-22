@@ -141,3 +141,7 @@
 14:22:08: Key.left
 14:22:12: Key.esc
 14:22:25: Key.delete
+14:22:26: Key.delete
+14:22:34: Key.left
+14:22:34: Key.left
+14:22:35: Key.left
