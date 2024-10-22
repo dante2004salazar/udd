@@ -485,3 +485,4 @@
 10:09:23: Key.alt_l
 10:09:23: Key.tab
 10:10:32: Key.right
+10:10:49: Key.right
