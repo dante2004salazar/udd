@@ -450,3 +450,5 @@
 14:28:23: n
 14:28:24: Key.right
 14:28:24: Key.right
+14:28:25: Key.right
+14:28:25: Key.space
