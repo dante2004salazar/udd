@@ -500,3 +500,7 @@
 10:16:35: Key.right
 10:17:35: Key.right
 10:17:37: Key.esc
+10:17:56: Key.left
+10:17:56: Key.left
+10:17:56: Key.left
+10:17:56: Key.left
