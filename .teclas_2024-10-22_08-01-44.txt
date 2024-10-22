@@ -155,3 +155,5 @@
 14:24:03: Key.esc
 14:24:21: Key.print_screen
 14:24:26: Key.esc
+14:24:34: Key.ctrl_l
+14:24:34: \x16
