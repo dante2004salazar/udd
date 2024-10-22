@@ -153,3 +153,5 @@
 14:23:43: Key.esc
 14:23:56: Key.print_screen
 14:24:03: Key.esc
+14:24:21: Key.print_screen
+14:24:26: Key.esc
