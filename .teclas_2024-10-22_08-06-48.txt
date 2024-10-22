@@ -171,3 +171,10 @@
 09:40:07: Key.enter
 09:41:07: Key.alt_l
 09:41:07: Key.tab
+10:37:42: Key.left
+10:37:42: Key.left
+10:37:42: Key.left
+10:37:44: Key.left
+10:37:44: Key.left
+10:37:44: Key.left
+10:37:44: Key.left
