@@ -7,3 +7,6 @@
 08:01:51: p
 08:01:55: Key.esc
 08:55:02: Key.space
+09:41:11: Key.ctrl_r
+09:41:11: Key.ctrl_r
+09:41:11: Key.ctrl_r
