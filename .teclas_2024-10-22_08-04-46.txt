@@ -338,3 +338,8 @@
 09:58:30: Key.left
 09:58:30: Key.left
 09:58:30: Key.left
+09:58:33: Key.cmd
+09:58:33: p
+09:58:42: Key.right
+09:58:43: Key.alt_l
+09:58:43: Key.tab
