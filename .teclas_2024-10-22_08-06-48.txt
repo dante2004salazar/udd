@@ -516,3 +516,14 @@
 17:56:48: Key.enter
 18:08:02: >
 18:11:26: Key.print_screen
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: Key.ctrl_l
+18:11:40: \x16
