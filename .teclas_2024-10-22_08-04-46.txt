@@ -400,3 +400,15 @@
 09:59:47: <96>
 09:59:47: <100>
 09:59:47: Key.enter
+10:00:52: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:53: Key.left
+10:00:54: Key.esc
