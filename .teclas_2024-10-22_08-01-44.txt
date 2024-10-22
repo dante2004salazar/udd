@@ -1269,3 +1269,11 @@
 14:37:00: :
 14:37:01: Key.enter
 14:37:02: P
+14:37:05: Key.backspace
+14:37:05: Key.enter
+14:37:06: P
+14:37:08: Key.backspace
+14:37:08: Key.enter
+14:37:10: D
+14:37:13: Key.backspace
+14:37:13: Key.enter
