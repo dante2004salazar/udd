@@ -420,3 +420,4 @@
 10:05:28: Key.backspace
 10:05:28: Key.backspace
 10:05:28: Key.backspace
+10:05:49: Key.esc
