@@ -55,3 +55,6 @@
 08:43:53: Key.page_up
 08:43:53: Key.page_down
 08:43:55: Key.page_up
+08:45:46: Key.page_down
+08:45:48: Key.page_down
+08:45:49: Key.page_down
