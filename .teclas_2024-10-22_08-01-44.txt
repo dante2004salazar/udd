@@ -1263,3 +1263,9 @@
 14:36:44: .
 14:36:49: Key.delete
 14:36:50: i
+14:36:58: Key.backspace
+14:36:58: Key.backspace
+14:36:59: Key.backspace
+14:37:00: :
+14:37:01: Key.enter
+14:37:02: P
