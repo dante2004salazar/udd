@@ -508,3 +508,10 @@
 10:19:21: Key.left
 10:19:21: Key.left
 10:19:22: Key.left
+10:21:48: Key.esc
+10:21:55: Key.right
+10:21:55: Key.right
+10:21:56: Key.left
+10:21:57: Key.right
+10:21:57: Key.up
+10:21:57: Key.left
