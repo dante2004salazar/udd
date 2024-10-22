@@ -414,3 +414,9 @@
 10:00:54: Key.esc
 10:05:17: Key.right
 10:05:18: Key.right
+10:05:24: Key.esc
+10:05:27: Key.backspace
+10:05:28: Key.backspace
+10:05:28: Key.backspace
+10:05:28: Key.backspace
+10:05:28: Key.backspace
