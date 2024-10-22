@@ -308,3 +308,16 @@
 14:15:16: Key.ctrl_l
 14:15:16: Key.ctrl_l
 14:15:17: Key.ctrl_l
+14:15:20: Key.ctrl_l
+14:15:22: Key.ctrl_l
+14:15:23: Key.ctrl_l
+14:15:23: Key.ctrl_l
+14:15:23: Key.ctrl_l
+14:15:23: Key.ctrl_l
+14:15:24: Key.caps_lock
+14:15:26: Key.ctrl_l
+14:15:27: Key.ctrl_l
+14:15:27: Key.ctrl_l
+14:15:27: Key.caps_lock
+14:15:28: Key.caps_lock
+14:15:28: Key.ctrl_l
