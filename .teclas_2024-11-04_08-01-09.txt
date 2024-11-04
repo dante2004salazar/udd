@@ -1655,3 +1655,12 @@
 11:03:20: Key.enter
 11:03:31: *
 11:03:34: /
+11:03:36: ¿
+11:03:36: ¿
+11:03:37: Key.backspace
+11:03:37: Key.backspace
+11:03:37: Key.backspace
+11:03:37: Key.backspace
+11:03:38: Key.backspace
+11:03:38: Key.backspace
+11:03:40: /
