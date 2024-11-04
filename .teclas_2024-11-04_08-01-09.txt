@@ -728,3 +728,16 @@
 10:26:34: Key.enter
 10:26:35: Key.right
 10:26:35: Key.up
+10:26:41: r
+10:26:42: f
+10:26:42: Key.right
+10:26:43: +
+10:26:44: Key.right
+10:26:45: Key.backspace
+10:26:45: Key.backspace
+10:26:46: Key.backspace
+10:26:46: Key.enter
+10:26:47: b
+10:26:47: e
+10:26:48: t
+10:26:48: a
