@@ -472,3 +472,12 @@
 10:19:54: <96>
 10:19:55: %
 10:19:55: Key.enter
+10:19:59: Key.right
+10:19:59: Key.right
+10:19:59: Key.ctrl_r
+10:19:59: Key.ctrl_r
+10:20:00: Key.left
+10:20:00: Key.left
+10:20:01: Key.left
+10:20:01: Key.right
+10:20:02: +
