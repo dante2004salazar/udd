@@ -751,3 +751,15 @@
 10:26:53: r
 10:26:53: m
 10:26:54: Key.right
+10:26:55: -
+10:26:56: Key.right
+10:26:57: Key.insert
+10:26:57: Key.insert
+10:26:58: Key.backspace
+10:26:58: Key.backspace
+10:26:58: Key.backspace
+10:26:59: Key.enter
+10:26:59: Key.right
+10:26:59: Key.up
+10:27:00: r
+10:27:00: f
