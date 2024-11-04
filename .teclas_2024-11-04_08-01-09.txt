@@ -99,3 +99,5 @@
 09:45:46: 1
 09:45:46: Key.enter
 09:45:58: Key.enter
+09:46:00: Key.enter
+09:46:00: Key.enter
