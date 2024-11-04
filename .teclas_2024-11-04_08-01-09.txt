@@ -1474,3 +1474,12 @@
 10:53:41: -
 10:53:41: Key.enter
 10:53:46: Key.ctrl_l
+10:53:46: Key.ctrl_l
+10:53:46: Key.ctrl_l
+10:53:46: Key.ctrl_l
+10:53:47: Key.ctrl_l
+10:53:47: Key.ctrl_l
+10:53:47: \x1a
+10:53:47: Key.ctrl_l
+10:53:47: \x1a
+10:53:49: -
