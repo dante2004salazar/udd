@@ -1052,3 +1052,10 @@
 10:38:17: Key.backspace
 10:38:17: *
 10:38:17: Key.enter
+10:38:21: i
+10:38:22: Key.enter
+10:38:22: Key.right
+10:38:23: Key.up
+10:38:26: %
+10:38:26: Key.enter
+10:38:27: Key.up
