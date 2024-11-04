@@ -103,3 +103,4 @@
 09:46:00: Key.enter
 09:51:20: Key.right
 09:51:42: Key.down
+09:52:20: Key.right
