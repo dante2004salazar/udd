@@ -1564,3 +1564,5 @@
 10:57:42: o
 10:57:42: Key.backspace
 10:57:43: Key.enter
+10:57:53: Key.ctrl_l
+10:57:56: Key.left
