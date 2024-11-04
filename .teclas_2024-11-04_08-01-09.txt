@@ -1593,3 +1593,6 @@
 10:58:49: )
 10:58:49: Key.enter
 10:59:26: Key.enter
+11:00:09: Key.right
+11:00:10: Key.right
+11:00:13: Key.right
