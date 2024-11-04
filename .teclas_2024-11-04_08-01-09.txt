@@ -681,3 +681,8 @@
 10:24:37: Key.enter
 10:25:05: Key.right
 10:25:41: Key.esc
+10:25:47: r
+10:25:47: f
+10:25:47: Key.enter
+10:25:48: Key.right
+10:25:48: Key.up
