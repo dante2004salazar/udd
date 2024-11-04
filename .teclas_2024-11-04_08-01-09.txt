@@ -241,3 +241,17 @@
 10:15:47: o
 10:15:48: s
 10:15:49: Key.right
+10:15:55: Key.caps_lock
+10:15:56: c
+10:15:56: f
+10:15:56: Key.enter
+10:15:57: Key.left
+10:15:57: Key.left
+10:15:57: Key.left
+10:15:57: Key.up
+10:15:58: Key.caps_lock
+10:15:58: c
+10:15:58: v
+10:15:58: Key.enter
+10:15:59: Key.up
+10:16:00: Key.caps_lock
