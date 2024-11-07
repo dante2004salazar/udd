@@ -69,3 +69,10 @@
 04:37:24: Q
 04:37:25: p
 04:37:27: Key.tab
+04:37:29: Key.tab
+04:37:30: Key.tab
+04:37:30: Key.tab
+04:37:30: Key.space
+04:37:32: Key.tab
+04:37:34: Key.tab
+04:37:34: Key.tab
