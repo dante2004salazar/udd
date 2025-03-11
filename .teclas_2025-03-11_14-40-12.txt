@@ -1123,3 +1123,11 @@
 17:28:12: Key.enter
 17:28:24: Key.alt_l
 17:28:24: Key.tab
+19:32:06: Key.cmd
+19:32:07: m
+19:32:08: Key.backspace
+19:32:08: Key.backspace
+19:32:08: r
+19:32:08: e
+19:32:09: Key.enter
+19:32:27: Key.cmd
