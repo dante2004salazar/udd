@@ -1861,3 +1861,5 @@
 19:37:25: Key.backspace
 19:37:25: ,
 19:37:25: Key.space
+19:37:26: Key.backspace
+19:37:26: Key.backspace
