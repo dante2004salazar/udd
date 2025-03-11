@@ -639,3 +639,4 @@
 17:16:13: Key.caps_lock
 17:16:14: Key.alt_l
 17:16:14: Key.tab
+17:16:16: Key.esc
