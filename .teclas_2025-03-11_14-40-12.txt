@@ -283,3 +283,12 @@
 16:45:11: Key.right
 16:45:23: Key.down
 16:45:43: Key.right
+16:46:03: Key.right
+16:46:03: Key.left
+16:46:03: Key.left
+16:46:04: Key.left
+16:46:04: Key.left
+16:46:04: Key.left
+16:46:05: Key.left
+16:46:06: Key.left
+16:46:06: Key.left
