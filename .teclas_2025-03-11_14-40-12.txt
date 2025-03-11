@@ -51,3 +51,4 @@
 14:52:31: i
 14:52:31: n
 14:52:31: Key.enter
+14:53:02: Key.print_screen
