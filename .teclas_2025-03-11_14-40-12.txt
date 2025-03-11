@@ -396,3 +396,4 @@
 16:51:42: Key.delete
 16:51:42: Key.alt_l
 16:51:42: Key.tab
+16:51:45: Key.ctrl_l
