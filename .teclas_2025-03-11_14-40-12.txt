@@ -851,3 +851,5 @@
 17:19:13: Key.ctrl_l
 17:19:14: Key.ctrl_l
 17:19:14: Key.ctrl_l
+17:19:15: 5
+17:19:16: Key.enter
