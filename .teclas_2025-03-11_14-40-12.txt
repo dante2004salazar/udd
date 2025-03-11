@@ -908,3 +908,4 @@
 17:20:49: Key.enter
 17:25:44: Key.ctrl_l
 17:25:45: Key.ctrl_l
+17:25:48: Key.esc
