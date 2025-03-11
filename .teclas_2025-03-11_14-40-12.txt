@@ -84,3 +84,4 @@
 15:30:49: Key.enter
 15:31:20: Key.enter
 15:31:42: Key.delete
+15:32:15: Key.ctrl_l
