@@ -132,3 +132,10 @@
 15:35:59: Key.enter
 15:56:31: Key.enter
 15:56:33: Key.cmd
+15:56:36: Key.esc
+15:56:38: Key.delete
+15:56:38: Key.cmd
+15:56:39: d
+15:56:40: Key.backspace
+15:56:40: w
+15:56:40: Key.enter
