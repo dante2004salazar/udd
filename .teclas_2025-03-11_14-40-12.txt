@@ -477,3 +477,14 @@
 17:03:58: Key.alt_l
 17:03:58: Key.enter
 17:04:04: Key.media_volume_mute
+17:04:42: Key.cmd
+17:04:43: Key.alt_l
+17:04:43: Key.tab
+17:04:43: Key.tab
+17:04:43: Key.tab
+17:04:44: Key.tab
+17:04:44: Key.tab
+17:04:44: Key.tab
+17:04:44: Key.tab
+17:04:45: Key.tab
+17:04:45: Key.tab
