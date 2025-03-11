@@ -397,3 +397,7 @@
 16:51:42: Key.alt_l
 16:51:42: Key.tab
 16:51:45: Key.ctrl_l
+16:54:45: Key.right
+16:54:45: Key.right
+16:54:46: Key.right
+16:54:46: Key.right
