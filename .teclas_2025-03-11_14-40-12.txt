@@ -25,3 +25,10 @@
 14:46:29: e
 14:46:29: Key.enter
 14:46:55: Key.delete
+14:52:12: Key.cmd
+14:52:13: m
+14:52:13: i
+14:52:13: Key.enter
+14:52:14: Key.cmd
+14:52:15: Key.alt_l
+14:52:15: Key.tab
