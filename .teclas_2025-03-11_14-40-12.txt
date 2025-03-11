@@ -52,3 +52,14 @@
 14:52:31: n
 14:52:31: Key.enter
 14:53:02: Key.print_screen
+14:53:36: i
+14:53:36: n
+14:53:36: s
+14:53:37: Key.down
+14:53:37: Key.down
+14:53:37: Key.down
+14:53:38: Key.down
+14:53:38: Key.down
+14:53:38: Key.down
+14:53:38: Key.down
+14:53:39: Key.enter
