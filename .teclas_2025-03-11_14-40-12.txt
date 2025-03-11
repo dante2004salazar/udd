@@ -385,3 +385,5 @@
 16:51:08: Key.backspace
 16:51:08: z
 16:51:14: Key.enter
+16:51:36: Key.esc
+16:51:37: Key.cmd
