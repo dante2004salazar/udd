@@ -221,3 +221,10 @@
 16:37:21: Key.right
 16:38:22: Key.right
 16:38:28: Key.left
+16:38:30: Key.left
+16:38:30: Key.left
+16:38:31: Key.right
+16:38:31: Key.left
+16:38:31: Key.left
+16:38:32: Key.left
+16:38:33: Key.right
