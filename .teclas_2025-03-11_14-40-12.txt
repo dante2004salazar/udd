@@ -180,3 +180,10 @@
 16:36:08: Key.alt_l
 16:36:08: Key.tab
 16:36:09: Key.tab
+16:36:23: Key.alt_l
+16:36:23: Key.tab
+16:36:24: Key.alt_l
+16:36:24: Key.tab
+16:36:24: Key.tab
+16:36:25: Key.alt_l
+16:36:25: Key.tab
