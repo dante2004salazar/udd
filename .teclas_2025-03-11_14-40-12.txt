@@ -1445,3 +1445,9 @@
 19:34:45: Key.backspace
 19:34:45: i
 19:34:45: a
+19:34:45: Key.space
+19:34:46: Key.backspace
+19:34:46: Key.ctrl_l
+19:34:46: \x01
+19:34:46: \x03
+19:34:47: Key.enter
