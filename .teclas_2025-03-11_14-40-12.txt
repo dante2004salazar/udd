@@ -168,3 +168,5 @@
 16:35:09: Key.alt_l
 16:35:09: Key.tab
 16:35:09: Key.esc
+16:35:49: Key.right
+16:35:50: Key.esc
