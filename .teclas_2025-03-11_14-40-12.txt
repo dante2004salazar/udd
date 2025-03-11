@@ -231,3 +231,13 @@
 16:39:08: Key.left
 16:39:08: Key.right
 16:39:27: Key.right
+16:39:49: Key.cmd
+16:39:49: Key.alt_l
+16:39:49: Key.tab
+16:39:50: Key.tab
+16:39:51: Key.tab
+16:39:52: Key.esc
+16:39:53: Key.alt_l
+16:39:53: Key.tab
+16:39:53: Key.alt_l
+16:39:53: Key.tab
