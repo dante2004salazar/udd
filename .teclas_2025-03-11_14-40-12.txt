@@ -32,3 +32,17 @@
 14:52:14: Key.cmd
 14:52:15: Key.alt_l
 14:52:15: Key.tab
+14:52:16: Key.alt_l
+14:52:16: Key.tab
+14:52:17: Key.alt_l
+14:52:17: Key.tab
+14:52:17: Key.tab
+14:52:18: Key.alt_l
+14:52:18: Key.tab
+14:52:18: Key.tab
+14:52:20: Key.tab
+14:52:20: Key.tab
+14:52:20: Key.tab
+14:52:20: Key.tab
+14:52:22: m
+14:52:23: i
