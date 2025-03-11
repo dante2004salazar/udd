@@ -195,3 +195,17 @@
 16:36:44: Key.left
 16:36:46: Key.left
 16:36:49: Key.right
+16:36:50: Key.right
+16:36:51: Key.left
+16:36:52: Key.right
+16:36:52: Key.right
+16:36:55: Key.left
+16:36:55: Key.left
+16:36:55: Key.left
+16:36:55: Key.left
+16:36:55: Key.left
+16:36:56: Key.right
+16:36:56: Key.right
+16:36:57: Key.right
+16:36:57: Key.right
+16:36:57: Key.right
