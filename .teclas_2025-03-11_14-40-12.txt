@@ -909,3 +909,5 @@
 17:25:44: Key.ctrl_l
 17:25:45: Key.ctrl_l
 17:25:48: Key.esc
+17:26:11: Key.esc
+17:26:12: Key.esc
