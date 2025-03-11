@@ -883,3 +883,15 @@
 17:20:32: e
 17:20:33: s
 17:20:33: Key.enter
+17:20:38: Key.alt_l
+17:20:39: Key.tab
+17:20:39: Key.tab
+17:20:40: Key.tab
+17:20:40: Key.tab
+17:20:41: Key.tab
+17:20:41: Key.tab
+17:20:41: Key.tab
+17:20:41: Key.tab
+17:20:41: Key.tab
+17:20:42: Key.tab
+17:20:42: Key.tab
