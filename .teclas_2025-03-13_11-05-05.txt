@@ -79,3 +79,8 @@
 11:06:16: Key.enter
 11:06:37: <97>
 11:06:37: Key.enter
+11:06:45: Key.right
+11:06:45: Key.backspace
+11:06:47: Key.right
+11:06:48: o
+11:06:49: Key.enter
