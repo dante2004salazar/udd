@@ -9,3 +9,15 @@
 14:33:13: i
 14:33:14: Key.space
 14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:15: Key.backspace
+14:33:16: Key.backspace
+14:33:16: Key.backspace
+14:33:16: Key.backspace
