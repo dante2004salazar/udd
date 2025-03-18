@@ -308,3 +308,13 @@
 16:41:20: Key.enter
 16:41:24: Key.tab
 16:41:24: Key.up
+16:41:28: Key.right
+16:41:28: Key.right
+16:41:28: Key.right
+16:41:28: Key.right
+16:41:28: Key.right
+16:41:29: Key.right
+16:41:29: Key.right
+16:41:30: ,
+16:41:30: 2
+16:41:31: Key.enter
