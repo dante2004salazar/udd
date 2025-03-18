@@ -531,3 +531,16 @@
 16:44:54: a
 16:44:54: Key.space
 16:44:54: e
+16:44:54: s
+16:44:56: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:57: Key.right
+16:44:58: Key.backspace
+16:44:58: Key.enter
