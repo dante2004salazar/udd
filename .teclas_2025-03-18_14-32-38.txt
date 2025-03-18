@@ -1087,3 +1087,16 @@
 17:10:57: h
 17:11:00: Key.tab
 17:11:01: Key.tab
+17:11:02: Key.up
+17:11:02: Key.up
+17:11:02: Key.up
+17:11:03: Key.down
+17:11:03: Key.down
+17:11:04: Key.right
+17:11:04: Key.right
+17:11:04: Key.right
+17:11:05: Key.right
+17:11:05: Key.right
+17:11:05: Key.right
+17:11:06: Key.backspace
+17:11:06: Key.backspace
