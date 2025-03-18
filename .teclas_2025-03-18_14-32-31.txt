@@ -577,3 +577,14 @@
 16:47:06: b
 16:47:06: r
 16:47:06: e
+16:47:07: a
+16:47:09: k
+16:47:10: Key.enter
+16:47:11: Key.down
+16:47:11: Key.down
+16:47:11: Key.backspace
+16:47:11: Key.backspace
+16:47:12: Key.backspace
+16:47:12: Key.backspace
+16:47:12: Key.backspace
+16:47:13: Key.enter
