@@ -963,3 +963,14 @@
 17:00:25: Key.backspace
 17:00:25: Key.enter
 17:00:27: a
+17:00:28: Key.backspace
+17:00:29: Key.backspace
+17:00:29: Key.backspace
+17:00:29: Key.backspace
+17:00:29: Key.backspace
+17:00:30: Key.backspace
+17:00:31: t
+17:00:31: a
+17:00:32: Key.space
+17:00:32: e
+17:00:33: s
