@@ -952,3 +952,4 @@
 17:00:03: Key.right
 17:00:03: Key.right
 17:00:03: Key.right
+17:00:20: Key.space
