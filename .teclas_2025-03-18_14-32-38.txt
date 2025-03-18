@@ -544,3 +544,10 @@
 16:44:57: Key.right
 16:44:58: Key.backspace
 16:44:58: Key.enter
+16:45:09: *
+16:45:11: Key.ctrl_l
+16:45:12: Key.ctrl_l
+16:45:12: Key.ctrl_l
+16:45:12: Key.ctrl_l
+16:45:12: Key.ctrl_l
+16:45:12: Key.ctrl_l
