@@ -1062,3 +1062,14 @@
 17:10:28: i
 17:10:29: n
 17:10:29: Key.space
+17:10:44: Key.backspace
+17:10:44: Key.backspace
+17:10:45: Key.backspace
+17:10:45: Key.backspace
+17:10:45: Key.backspace
+17:10:46: i
+17:10:46: Key.space
+17:10:46: i
+17:10:47: n
+17:10:47: Key.space
+17:10:48: r
