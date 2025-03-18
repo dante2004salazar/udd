@@ -601,3 +601,4 @@
 16:47:24: Key.backspace
 16:47:25: Key.tab
 16:47:25: Key.tab
+16:47:27: Key.enter
