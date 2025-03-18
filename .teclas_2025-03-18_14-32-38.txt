@@ -90,3 +90,6 @@
 15:10:19: Key.right
 15:10:19: Key.right
 15:10:19: Key.right
+15:10:20: Key.right
+15:10:20: Key.right
+15:10:20: Key.left
