@@ -1015,3 +1015,12 @@
 17:01:06: Key.enter
 17:01:09: 1
 17:01:10: Key.enter
+17:01:47: Key.backspace
+17:01:47: Key.backspace
+17:01:47: Key.backspace
+17:01:47: Key.backspace
+17:01:47: Key.backspace
+17:01:47: Key.backspace
+17:01:48: Key.backspace
+17:01:48: Key.backspace
+17:01:48: Key.backspace
