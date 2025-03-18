@@ -1329,3 +1329,11 @@
 17:12:27: *
 17:12:28: Key.backspace
 17:12:28: Key.enter
+17:12:59: Key.backspace
+17:12:59: Key.backspace
+17:13:00: Key.backspace
+17:13:00: Key.backspace
+17:13:01: c
+17:13:01: a
+17:13:01: r
+17:13:01: a
