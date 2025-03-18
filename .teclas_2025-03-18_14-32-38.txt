@@ -1570,3 +1570,17 @@
 17:15:04: Key.right
 17:15:04: Key.right
 17:15:04: Key.enter
+17:15:05: Key.left
+17:15:05: Key.left
+17:15:05: Key.left
+17:15:06: Key.left
+17:15:06: Key.left
+17:15:06: Key.left
+17:15:06: Key.left
+17:15:06: Key.left
+17:15:07: Key.left
+17:15:07: Key.right
+17:15:09: p
+17:15:10: r
+17:15:10: i
+17:15:10: n
