@@ -1100,3 +1100,5 @@
 17:11:05: Key.right
 17:11:06: Key.backspace
 17:11:06: Key.backspace
+17:11:09: Key.backspace
+17:11:13: %
