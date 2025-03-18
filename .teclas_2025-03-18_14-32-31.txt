@@ -588,3 +588,7 @@
 16:47:12: Key.backspace
 16:47:12: Key.backspace
 16:47:13: Key.enter
+16:47:17: Key.ctrl_l
+16:47:17: \x18
+16:47:19: Key.ctrl_l
+16:47:19: \x16
