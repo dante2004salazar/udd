@@ -845,3 +845,4 @@
 16:55:44: Key.down
 16:55:45: Key.down
 16:55:46: Key.backspace
+16:55:48: Key.enter
