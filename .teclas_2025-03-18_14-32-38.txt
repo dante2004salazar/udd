@@ -453,3 +453,7 @@
 16:43:58: Key.right
 16:44:00: :
 16:44:00: Key.enter
+16:44:03: Key.tab
+16:44:04: Key.tab
+16:44:04: Key.down
+16:44:05: Key.down
