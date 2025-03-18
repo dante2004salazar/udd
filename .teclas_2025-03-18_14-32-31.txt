@@ -834,3 +834,15 @@
 16:55:38: i
 16:55:40: Key.caps_lock
 16:55:40: Key.caps_lock
+16:55:41: Key.tab
+16:55:42: Key.tab
+16:55:43: Key.up
+16:55:43: Key.left
+16:55:43: Key.left
+16:55:44: Key.left
+16:55:44: Key.left
+16:55:44: Key.left
+16:55:44: Key.down
+16:55:45: Key.down
+16:55:46: Key.backspace
+16:55:48: Key.enter
