@@ -22,3 +22,17 @@
 21:07:16: Key.enter
 21:07:21: Key.backspace
 21:07:22: Key.enter
+21:07:50: Key.cmd
+21:07:52: e
+21:07:52: Key.backspace
+21:07:52: Key.backspace
+21:07:54: p
+21:07:54: a
+21:07:54: n
+21:07:54: e
+21:07:54: Key.backspace
+21:07:54: Key.backspace
+21:07:55: Key.backspace
+21:07:55: Key.backspace
+21:07:55: Key.backspace
+21:07:55: a
