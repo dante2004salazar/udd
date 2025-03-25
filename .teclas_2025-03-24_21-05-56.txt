@@ -20,3 +20,5 @@
 21:07:15: f
 21:07:15: i
 21:07:16: Key.enter
+21:07:21: Key.backspace
+21:07:22: Key.enter
