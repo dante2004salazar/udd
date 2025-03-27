@@ -137,3 +137,8 @@
 23:51:35: c
 23:51:36: Key.backspace
 23:51:36: Key.backspace
+23:51:37: c
+23:51:37: h
+23:51:38: Key.backspace
+23:51:38: Key.backspace
+23:51:39: Key.backspace
