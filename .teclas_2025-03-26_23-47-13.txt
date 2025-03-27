@@ -128,3 +128,12 @@
 23:51:22: h
 23:51:22: r
 23:51:28: Key.enter
+23:51:34: c
+23:51:34: h
+23:51:34: Key.backspace
+23:51:34: Key.backspace
+23:51:35: Key.backspace
+23:51:35: Key.backspace
+23:51:35: c
+23:51:36: Key.backspace
+23:51:36: Key.backspace
