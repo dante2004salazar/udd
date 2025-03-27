@@ -97,3 +97,8 @@
 23:50:08: Key.tab
 23:50:14: Key.alt_l
 23:50:14: Key.tab
+23:50:16: Key.alt_l
+23:50:16: Key.tab
+23:50:20: Key.alt_l
+23:50:20: Key.tab
+23:50:23: P
