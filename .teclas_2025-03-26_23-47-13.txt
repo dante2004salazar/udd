@@ -114,3 +114,5 @@
 23:50:28: Key.alt_l
 23:50:28: Key.tab
 23:50:30: Key.backspace
+23:50:31: p
+23:50:31: Key.enter
