@@ -142,3 +142,5 @@
 23:51:38: Key.backspace
 23:51:38: Key.backspace
 23:51:39: Key.backspace
+23:51:59: a
+23:51:59: l
