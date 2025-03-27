@@ -226,3 +226,5 @@
 00:21:20: Key.enter
 00:21:31: Key.print_screen
 00:21:34: Key.esc
+00:21:50: Key.ctrl_l
+00:21:50: \x01
