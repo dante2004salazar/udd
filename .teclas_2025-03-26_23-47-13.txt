@@ -224,3 +224,5 @@
 00:21:19: Key.up
 00:21:19: Key.down
 00:21:20: Key.enter
+00:21:31: Key.print_screen
+00:21:34: Key.esc
