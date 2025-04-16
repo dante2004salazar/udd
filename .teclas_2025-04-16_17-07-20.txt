@@ -1,2 +1,4 @@
 17:14:45: Key.num_lock
 17:15:01: Key.num_lock
+17:15:29: Key.alt_l
+17:15:29: Key.tab
