@@ -2,3 +2,7 @@
 17:15:01: Key.num_lock
 17:15:29: Key.alt_l
 17:15:29: Key.tab
+17:30:21: Key.space
+17:30:22: Key.cmd
+17:30:23: Key.tab
+17:30:23: Key.tab
