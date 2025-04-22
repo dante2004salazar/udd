@@ -38,3 +38,4 @@
 16:51:18: Key.ctrl_l
 16:55:14: Key.space
 17:07:39: Key.ctrl_l
+18:02:23: Key.right
