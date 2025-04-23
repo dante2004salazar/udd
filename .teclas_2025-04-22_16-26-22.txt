@@ -320,3 +320,4 @@
 13:32:08: Key.backspace
 13:32:08: Key.backspace
 13:32:09: Key.backspace
+13:32:21: Key.esc
