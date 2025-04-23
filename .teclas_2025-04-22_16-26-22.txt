@@ -312,3 +312,11 @@
 13:31:52: Key.esc
 13:31:53: Key.esc
 13:32:02: Key.esc
+13:32:06: Key.backspace
+13:32:06: Key.backspace
+13:32:07: Key.backspace
+13:32:07: Key.backspace
+13:32:07: Key.backspace
+13:32:08: Key.backspace
+13:32:08: Key.backspace
+13:32:09: Key.backspace
