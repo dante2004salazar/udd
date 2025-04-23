@@ -296,3 +296,7 @@
 13:31:02: Key.esc
 13:31:05: Key.backspace
 13:31:05: g
+13:31:14: Key.backspace
+13:31:14: Key.backspace
+13:31:15: g
+13:31:15: Key.space
