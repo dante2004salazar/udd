@@ -641,3 +641,4 @@
 19:33:05: Key.f5
 19:33:47: Key.right
 19:33:50: Key.right
+19:34:17: Key.right
