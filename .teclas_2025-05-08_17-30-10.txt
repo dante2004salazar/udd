@@ -172,3 +172,6 @@
 18:11:49: Key.enter
 18:11:49: Key.enter
 18:12:35: Key.backspace
+18:12:47: Key.alt_l
+18:12:47: Key.tab
+18:12:48: Key.tab
