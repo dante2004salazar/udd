@@ -648,3 +648,4 @@
 19:54:59: Key.down
 19:55:01: Key.down
 19:55:51: Key.down
+19:58:06: Key.right
