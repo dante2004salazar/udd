@@ -342,3 +342,10 @@
 18:15:57: Key.backspace
 18:15:58: i
 18:15:58: b
+18:15:59: u
+18:16:00: t
+18:16:00: o
+18:16:00: Key.backspace
+18:16:00: Key.backspace
+18:16:01: Key.backspace
+18:16:01: Key.backspace
