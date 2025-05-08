@@ -330,3 +330,15 @@
 18:15:52: r
 18:15:52: u
 18:15:53: b
+18:15:53: u
+18:15:54: t
+18:15:54: o
+18:15:55: 2
+18:15:56: Key.backspace
+18:15:56: Key.backspace
+18:15:56: Key.backspace
+18:15:56: Key.backspace
+18:15:56: Key.backspace
+18:15:57: Key.backspace
+18:15:58: i
+18:15:58: b
