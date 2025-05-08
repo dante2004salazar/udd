@@ -639,3 +639,5 @@
 19:22:04: Key.down
 19:33:01: Key.esc
 19:33:05: Key.f5
+19:33:47: Key.right
+19:33:50: Key.right
