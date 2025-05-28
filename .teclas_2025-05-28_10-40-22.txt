@@ -2467,3 +2467,11 @@
 14:04:19: Key.down
 14:04:21: Key.backspace
 14:04:23: Key.up
+14:04:23: Key.up
+14:04:24: Key.up
+14:04:24: Key.up
+14:04:24: Key.up
+14:04:24: Key.up
+14:04:25: Key.up
+14:04:26: Key.enter
+14:04:27: Key.backspace
