@@ -2112,3 +2112,5 @@
 11:40:54: Key.enter
 11:41:15: Key.ctrl_l
 11:41:16: \x16
+11:41:25: Key.backspace
+11:41:26: Key.enter
