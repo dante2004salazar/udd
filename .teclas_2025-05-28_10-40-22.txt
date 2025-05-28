@@ -2510,3 +2510,10 @@
 14:04:58: Key.down
 14:04:58: Key.down
 14:04:58: Key.down
+14:04:59: Key.backspace
+14:05:00: Key.up
+14:05:00: Key.up
+14:05:00: Key.up
+14:05:00: Key.up
+14:05:00: Key.up
+14:05:01: Key.up
