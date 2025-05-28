@@ -2492,3 +2492,11 @@
 14:04:44: Key.up
 14:04:44: Key.up
 14:04:44: Key.up
+14:04:46: Key.ctrl_l
+14:04:46: \x1a
+14:04:47: Key.down
+14:04:48: Key.down
+14:04:48: Key.down
+14:04:48: Key.down
+14:04:49: Key.enter
+14:04:50: Key.up
