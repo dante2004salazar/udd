@@ -2475,3 +2475,7 @@
 14:04:25: Key.up
 14:04:26: Key.enter
 14:04:27: Key.backspace
+14:04:33: Key.ctrl_l
+14:04:34: Key.ctrl_l
+14:04:34: Key.ctrl_l
+14:04:34: \x1a
