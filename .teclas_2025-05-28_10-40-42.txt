@@ -1413,3 +1413,16 @@
 11:02:23: Key.ctrl_l
 11:02:23: Key.ctrl_l
 11:02:23: Key.ctrl_l
+11:02:58: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:02:59: Key.ctrl_l
+11:03:04: Key.ctrl_l
+11:03:04: \x1a
+11:03:04: Key.ctrl_l
