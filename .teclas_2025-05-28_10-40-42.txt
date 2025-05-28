@@ -2556,3 +2556,4 @@
 14:12:35: Key.backspace
 14:12:35: Key.backspace
 14:12:35: Key.backspace
+14:12:38: .
