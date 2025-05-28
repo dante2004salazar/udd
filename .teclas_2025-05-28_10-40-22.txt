@@ -2500,3 +2500,13 @@
 14:04:48: Key.down
 14:04:49: Key.enter
 14:04:50: Key.up
+14:04:52: Key.up
+14:04:52: Key.up
+14:04:52: Key.up
+14:04:53: Key.up
+14:04:54: Key.enter
+14:04:58: Key.down
+14:04:58: Key.down
+14:04:58: Key.down
+14:04:58: Key.down
+14:04:58: Key.down
