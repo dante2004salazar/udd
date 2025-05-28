@@ -1986,3 +1986,13 @@
 11:31:06: Key.enter
 11:31:27: Key.print_screen
 11:32:01: Key.print_screen
+11:33:17: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: Key.ctrl_l
+11:33:18: \x03
+11:33:21: Key.ctrl_l
+11:33:21: \x16
