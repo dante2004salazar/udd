@@ -1496,3 +1496,8 @@
 11:07:26: Key.ctrl_l
 11:07:26: Key.ctrl_l
 11:07:26: Key.ctrl_l
+11:08:37: Key.ctrl_l
+11:08:37: Key.ctrl_l
+11:08:37: Key.ctrl_l
+11:08:37: Key.ctrl_l
+11:08:38: Key.ctrl_l
