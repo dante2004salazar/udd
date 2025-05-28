@@ -2479,3 +2479,16 @@
 14:04:34: Key.ctrl_l
 14:04:34: Key.ctrl_l
 14:04:34: \x1a
+14:04:39: Key.up
+14:04:40: Key.down
+14:04:41: Key.down
+14:04:41: Key.down
+14:04:41: Key.down
+14:04:41: Key.down
+14:04:43: Key.up
+14:04:43: Key.up
+14:04:43: Key.up
+14:04:43: Key.up
+14:04:44: Key.up
+14:04:44: Key.up
+14:04:44: Key.up
