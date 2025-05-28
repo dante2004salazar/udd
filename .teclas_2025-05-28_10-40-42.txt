@@ -2344,3 +2344,5 @@
 13:56:45: Key.media_volume_down
 13:56:45: Key.media_volume_down
 13:56:45: Key.media_volume_down
+13:57:12: Key.esc
+13:57:14: Key.esc
