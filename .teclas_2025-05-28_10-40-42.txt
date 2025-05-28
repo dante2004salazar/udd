@@ -1997,3 +1997,10 @@
 11:33:21: Key.ctrl_l
 11:33:21: \x16
 11:33:48: Key.print_screen
+11:34:19: Key.print_screen
+11:34:29: Key.print_screen
+11:34:34: Key.ctrl_l
+11:34:34: Key.ctrl_l
+11:34:34: \x03
+11:34:41: Key.ctrl_l
+11:34:41: \x16
