@@ -1999,3 +1999,6 @@
 11:33:48: Key.print_screen
 11:34:19: Key.print_screen
 11:34:29: Key.print_screen
+11:34:34: Key.ctrl_l
+11:34:34: Key.ctrl_l
+11:34:34: \x03
