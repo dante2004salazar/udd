@@ -1441,3 +1441,14 @@
 11:03:10: \x1a
 11:03:11: Key.ctrl_l
 11:03:11: Key.ctrl_l
+11:03:11: Key.ctrl_l
+11:03:11: Key.ctrl_l
+11:03:11: Key.ctrl_l
+11:03:11: Key.ctrl_l
+11:03:11: Key.ctrl_l
+11:03:12: Key.ctrl_l
+11:03:12: Key.ctrl_l
+11:03:12: Key.ctrl_l
+11:03:12: \x1a
+11:03:12: Key.ctrl_l
+11:03:12: \x1a
