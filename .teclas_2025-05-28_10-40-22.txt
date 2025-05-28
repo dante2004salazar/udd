@@ -2517,3 +2517,13 @@
 14:05:00: Key.up
 14:05:00: Key.up
 14:05:01: Key.up
+14:05:10: Key.enter
+14:05:11: Key.down
+14:05:11: Key.down
+14:05:12: Key.backspace
+14:05:18: Key.up
+14:05:18: Key.enter
+14:05:19: Key.enter
+14:05:19: Key.enter
+14:05:19: Key.enter
+14:05:19: Key.enter
