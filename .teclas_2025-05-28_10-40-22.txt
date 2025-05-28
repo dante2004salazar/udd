@@ -2346,3 +2346,9 @@
 13:56:45: Key.media_volume_down
 13:57:12: Key.esc
 13:57:14: Key.esc
+13:58:53: w
+13:58:53: o
+13:58:54: r
+13:58:54: Key.enter
+13:58:57: d
+13:58:57: Key.enter
