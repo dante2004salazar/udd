@@ -2235,3 +2235,7 @@
 12:58:38: S
 12:58:39: Key.cmd
 12:58:41: S
+12:59:13: Key.print_screen
+12:59:18: Key.esc
+12:59:18: Key.esc
+12:59:19: Key.esc
