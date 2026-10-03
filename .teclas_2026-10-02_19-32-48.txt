@@ -9405,3 +9405,17 @@
 18:35:21: Key.enter
 18:35:24: Key.enter
 18:35:27: Key.enter
+18:35:28: Key.enter
+18:35:34: Key.enter
+18:35:34: Key.enter
+18:35:36: Key.enter
+18:35:36: Key.enter
+18:35:37: Key.enter
+18:35:38: Key.down
+18:35:39: Key.up
+18:35:39: Key.right
+18:35:39: Key.up
+18:35:40: Key.left
+18:35:40: Key.up
+18:35:40: Key.left
+18:35:40: Key.down
