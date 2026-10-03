@@ -9704,3 +9704,10 @@
 18:37:03: Key.left
 18:37:03: Key.up
 18:37:03: Key.left
+18:37:08: Key.enter
+18:37:09: Key.enter
+18:37:11: Key.enter
+18:37:11: Key.delete
+18:37:12: Key.enter
+18:37:13: Key.enter
+18:37:13: Key.esc
