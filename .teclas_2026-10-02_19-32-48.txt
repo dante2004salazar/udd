@@ -1788,3 +1788,15 @@
 16:41:22: Key.tab
 16:41:25: Key.ctrl_l
 16:41:26: \x16
+16:41:34: Key.ctrl_l
+16:41:34: \x16
+16:41:35: Key.enter
+16:41:35: Key.alt_l
+16:41:36: Key.tab
+16:41:36: Key.alt_l
+16:41:36: Key.tab
+16:41:37: Key.tab
+16:41:39: Key.alt_l
+16:41:39: Key.tab
+16:41:39: Key.tab
+16:41:39: Key.tab
