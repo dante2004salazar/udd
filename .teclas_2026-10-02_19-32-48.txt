@@ -936,3 +936,11 @@
 15:38:52: Key.right
 15:38:52: Key.right
 15:38:52: Key.left
+15:39:04: Key.left
+15:39:04: Key.backspace
+15:39:05: 3
+15:39:05: Key.enter
+15:39:05: Key.right
+15:39:05: Key.up
+15:39:06: <97>
+15:39:06: <98>
