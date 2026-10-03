@@ -5416,3 +5416,15 @@
 18:19:32: Key.down
 18:19:32: c
 18:19:33: x
+18:19:33: x
+18:19:35: Key.enter
+18:19:37: Key.enter
+18:19:37: Key.enter
+18:19:38: Key.enter
+18:19:38: Key.enter
+18:19:38: Key.enter
+18:19:39: Key.enter
+18:19:40: Key.enter
+18:19:40: Key.enter
+18:19:41: Key.enter
+18:19:42: Key.enter
