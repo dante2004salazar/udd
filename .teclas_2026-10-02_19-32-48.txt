@@ -1705,3 +1705,6 @@
 15:47:31: Key.right
 15:47:32: Key.alt_l
 15:47:32: Key.tab
+15:48:08: Key.delete
+15:48:09: Key.right
+15:48:09: Key.up
