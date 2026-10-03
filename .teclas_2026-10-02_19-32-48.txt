@@ -247,3 +247,7 @@
 09:25:25: t
 09:25:25: i
 09:25:26: Key.enter
+09:26:11: Key.backspace
+09:26:11: 1
+09:26:12: Key.enter
+09:26:15: Key.delete
