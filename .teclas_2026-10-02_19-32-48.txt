@@ -580,3 +580,12 @@
 12:55:32: Key.enter
 12:55:37: Key.left
 12:55:38: Key.left
+12:55:49: Key.backspace
+12:55:50: <101>
+12:55:50: Key.left
+12:55:51: Key.left
+12:55:51: Key.left
+12:55:51: Key.left
+12:55:51: Key.left
+12:55:51: Key.left
+12:55:52: Key.backspace
