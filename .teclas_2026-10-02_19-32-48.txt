@@ -9419,3 +9419,7 @@
 18:35:40: Key.up
 18:35:40: Key.left
 18:35:40: Key.down
+18:35:40: Key.right
+18:35:41: Key.up
+18:35:41: Key.left
+18:35:51: Key.enter
