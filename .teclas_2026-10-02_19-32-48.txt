@@ -7753,3 +7753,14 @@
 18:28:36: Key.up
 18:28:36: Key.enter
 18:28:36: Key.enter
+18:28:39: Key.enter
+18:28:39: Key.delete
+18:28:40: Key.enter
+18:28:41: Key.enter
+18:28:42: Key.enter
+18:28:44: Key.enter
+18:28:46: Key.up
+18:28:46: Key.enter
+18:28:47: Key.enter
+18:28:48: Key.enter
+18:28:50: v
