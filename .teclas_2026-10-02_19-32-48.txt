@@ -281,3 +281,5 @@
 09:26:57: Key.backspace
 09:26:57: 1
 09:26:58: Key.enter
+09:27:04: Key.alt_l
+09:27:04: Key.tab
