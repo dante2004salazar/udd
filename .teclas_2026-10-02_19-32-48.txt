@@ -11618,3 +11618,13 @@
 18:55:21: Key.left
 18:55:22: Key.left
 18:55:25: Key.left
+18:55:30: Key.right
+18:55:32: Key.right
+18:55:33: Key.right
+18:55:33: Key.right
+18:55:34: Key.right
+18:55:35: Key.right
+18:55:35: Key.right
+18:55:35: Key.right
+18:55:36: Key.right
+18:55:36: Key.right
