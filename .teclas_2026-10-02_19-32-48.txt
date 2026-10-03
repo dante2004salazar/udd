@@ -2962,3 +2962,8 @@
 16:54:22: Key.ctrl_l
 16:54:22: Key.ctrl_l
 16:54:30: Key.esc
+16:54:37: Key.alt_l
+16:54:37: Key.tab
+16:54:37: Key.tab
+16:54:41: Key.ctrl_l
+16:54:41: \x16
