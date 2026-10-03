@@ -1761,3 +1761,6 @@
 15:49:40: e
 15:49:41: Key.space
 15:49:41: Key.enter
+15:50:02: Key.alt_l
+15:50:02: Key.tab
+15:50:03: Key.tab
