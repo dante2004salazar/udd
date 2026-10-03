@@ -2988,3 +2988,12 @@
 17:44:53: Key.ctrl_l
 17:44:53: Key.ctrl_l
 17:44:54: \x16
+17:44:57: Key.left
+17:44:58: Key.backspace
+17:44:58: 3
+17:44:58: Key.enter
+17:45:01: Key.right
+17:45:01: Key.delete
+17:45:01: 3
+17:45:01: Key.enter
+17:45:04: Key.delete
