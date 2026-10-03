@@ -2971,3 +2971,12 @@
 16:54:53: Key.esc
 16:55:01: Key.enter
 16:55:14: Key.esc
+16:55:27: Key.alt_l
+16:55:27: Key.tab
+16:55:28: Key.tab
+16:55:29: Key.tab
+16:55:29: Key.tab
+16:55:31: Key.esc
+16:55:32: Key.alt_l
+16:55:32: Key.tab
+16:55:32: Key.tab
