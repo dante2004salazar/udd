@@ -3403,3 +3403,11 @@
 18:08:32: Key.backspace
 18:08:32: Key.backspace
 18:08:33: Key.delete
+18:08:35: Key.delete
+18:08:37: Key.delete
+18:08:37: Key.ctrl_l
+18:08:38: \x16
+18:08:40: Key.backspace
+18:08:41: <99>
+18:08:41: Key.alt_l
+18:08:41: Key.tab
