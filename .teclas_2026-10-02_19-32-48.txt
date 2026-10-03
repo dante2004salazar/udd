@@ -5781,3 +5781,14 @@
 18:20:58: s
 18:20:58: s
 18:20:59: Key.left
+18:20:59: c
+18:21:00: Key.enter
+18:21:02: Key.enter
+18:21:03: Key.enter
+18:21:04: Key.enter
+18:21:05: Key.enter
+18:21:05: }
+18:21:05: Key.enter
+18:21:05: Key.enter
+18:21:06: Key.enter
+18:21:12: Key.up
