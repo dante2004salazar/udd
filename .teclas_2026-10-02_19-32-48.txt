@@ -605,3 +605,13 @@
 12:56:06: Key.tab
 12:56:13: <101>
 12:56:13: Key.enter
+12:56:17: Key.right
+12:56:17: Key.backspace
+12:56:18: <102>
+12:56:18: Key.enter
+12:56:20: Key.delete
+12:56:21: <102>
+12:56:21: Key.enter
+12:56:25: Key.right
+12:56:26: Key.backspace
+12:56:26: <103>
