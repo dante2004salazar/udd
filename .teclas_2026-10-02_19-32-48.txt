@@ -1767,3 +1767,15 @@
 15:50:25: Key.alt_l
 15:50:25: Key.tab
 15:50:27: Key.tab
+15:50:30: Key.alt_l
+15:50:31: Key.tab
+15:50:36: Key.alt_l
+15:50:36: Key.tab
+15:50:36: Key.tab
+15:50:37: Key.tab
+15:50:38: Key.tab
+15:50:38: Key.tab
+15:50:38: Key.tab
+15:50:38: Key.tab
+15:50:38: Key.tab
+15:50:38: Key.tab
