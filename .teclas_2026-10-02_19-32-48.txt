@@ -17299,3 +17299,8 @@
 19:23:43: Key.enter
 19:23:56: Key.enter
 19:23:57: Key.esc
+19:24:03: Key.media_volume_mute
+19:24:04: Key.alt_l
+19:24:04: Key.tab
+19:24:06: Key.alt_l
+19:24:06: Key.tab
