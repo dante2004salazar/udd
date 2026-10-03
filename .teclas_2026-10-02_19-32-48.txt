@@ -3393,3 +3393,13 @@
 18:08:16: Key.enter
 18:08:20: Key.alt_l
 18:08:20: Key.tab
+18:08:31: Key.delete
+18:08:31: Key.delete
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:32: Key.backspace
+18:08:33: Key.delete
