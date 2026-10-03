@@ -270,3 +270,14 @@
 09:26:43: Key.backspace
 09:26:43: 3
 09:26:44: Key.enter
+09:26:51: Key.backspace
+09:26:51: 2
+09:26:51: Key.enter
+09:26:53: Key.delete
+09:26:53: 3
+09:26:53: Key.enter
+09:26:54: Key.down
+09:26:55: Key.down
+09:26:57: Key.backspace
+09:26:57: 1
+09:26:58: Key.enter
