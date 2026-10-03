@@ -11787,3 +11787,17 @@
 18:59:06: Key.up
 18:59:07: x
 18:59:07: x
+18:59:43: x
+18:59:44: x
+18:59:44: x
+18:59:45: Key.right
+18:59:45: Key.right
+18:59:45: Key.enter
+18:59:47: Key.enter
+18:59:47: Key.enter
+18:59:48: Key.enter
+18:59:48: Key.enter
+18:59:48: Key.enter
+18:59:48: Key.enter
+18:59:48: Key.enter
+18:59:49: Key.enter
