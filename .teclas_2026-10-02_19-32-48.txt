@@ -251,3 +251,10 @@
 09:26:11: 1
 09:26:12: Key.enter
 09:26:15: Key.delete
+09:26:15: 3
+09:26:15: Key.enter
+09:26:22: Key.backspace
+09:26:23: Key.backspace
+09:26:24: 5
+09:26:24: 0
+09:26:24: Key.enter
