@@ -1800,3 +1800,11 @@
 16:41:39: Key.tab
 16:41:39: Key.tab
 16:41:39: Key.tab
+16:41:42: Key.alt_l
+16:41:42: Key.tab
+16:41:44: Key.alt_l
+16:41:44: Key.tab
+16:41:46: Key.alt_l
+16:41:46: Key.tab
+16:41:48: Key.alt_l
+16:41:48: Key.tab
