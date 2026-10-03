@@ -2649,3 +2649,10 @@
 16:48:39: ,
 16:48:40: Key.enter
 16:48:40: Key.enter
+16:48:44: Key.alt_l
+16:48:45: Key.tab
+16:48:45: Key.alt_l
+16:48:45: Key.tab
+16:48:46: Key.alt_l
+16:48:46: Key.tab
+16:48:46: Key.tab
