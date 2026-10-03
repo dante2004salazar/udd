@@ -1901,3 +1901,14 @@
 16:44:12: Key.enter
 16:44:14: Key.alt_l
 16:44:15: Key.tab
+16:44:19: Key.alt_l
+16:44:19: Key.tab
+16:44:20: Key.tab
+16:44:20: Key.alt_l
+16:44:20: Key.tab
+16:44:21: Key.tab
+16:44:21: Key.tab
+16:44:27: Key.left
+16:44:27: Key.left
+16:44:27: Key.left
+16:44:27: Key.left
