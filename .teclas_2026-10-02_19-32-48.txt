@@ -10619,3 +10619,7 @@
 18:42:31: Key.enter
 18:43:35: Key.esc
 18:43:36: Key.enter
+18:43:37: Key.enter
+18:43:39: Key.enter
+18:43:41: Key.enter
+18:43:43: Key.esc
