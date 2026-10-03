@@ -10590,3 +10590,14 @@
 18:41:36: Key.enter
 18:41:39: Key.enter
 18:41:39: }
+18:41:43: Key.enter
+18:41:45: Key.enter
+18:41:46: Key.enter
+18:41:47: Key.enter
+18:41:47: Key.enter
+18:41:47: Key.enter
+18:41:50: Key.enter
+18:41:50: Key.enter
+18:41:51: Key.enter
+18:41:53: Key.alt_l
+18:41:53: Key.tab
