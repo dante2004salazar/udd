@@ -850,3 +850,13 @@
 15:35:20: Key.left
 15:35:23: Key.backspace
 15:35:25: <98>
+15:35:45: Key.delete
+15:35:45: <98>
+15:35:50: Key.left
+15:35:54: Key.left
+15:35:55: Key.left
+15:35:55: Key.left
+15:35:55: Key.left
+15:35:55: Key.left
+15:35:55: Key.left
+15:35:55: Key.left
