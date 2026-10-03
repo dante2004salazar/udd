@@ -5101,3 +5101,11 @@
 18:17:43: Key.up
 18:17:43: Key.left
 18:17:43: Key.up
+18:17:43: Key.left
+18:17:44: c
+18:17:44: Key.down
+18:17:47: Key.enter
+18:17:48: Key.enter
+18:17:50: Key.enter
+18:17:52: Key.enter
+18:17:53: Key.enter
