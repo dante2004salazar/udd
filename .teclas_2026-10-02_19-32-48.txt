@@ -539,3 +539,5 @@
 12:54:41: Key.ctrl_l
 12:54:41: Key.ctrl_l
 12:54:41: Key.ctrl_l
+12:54:50: Key.backspace
+12:54:51: <101>
