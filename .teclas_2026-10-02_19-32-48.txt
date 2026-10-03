@@ -6004,3 +6004,16 @@
 18:22:13: Key.left
 18:22:14: Key.left
 18:22:14: Key.left
+18:22:15: Key.right
+18:22:15: Key.up
+18:22:16: Key.up
+18:22:16: Key.up
+18:22:17: Key.up
+18:22:17: Key.left
+18:22:17: Key.enter
+18:22:20: Key.enter
+18:22:21: Key.enter
+18:22:22: Key.enter
+18:22:24: Key.enter
+18:22:25: Key.enter
+18:22:26: Key.enter
