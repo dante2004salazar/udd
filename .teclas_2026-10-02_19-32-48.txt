@@ -2886,3 +2886,4 @@
 16:53:30: n
 16:53:30: Key.space
 16:53:30: Key.backspace
+16:54:00: Key.esc
