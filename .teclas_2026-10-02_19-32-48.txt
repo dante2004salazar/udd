@@ -228,3 +228,15 @@
 09:24:10: <97>
 09:24:10: Key.enter
 09:24:16: Key.esc
+09:24:56: Key.delete
+09:24:56: Key.delete
+09:24:58: Key.delete
+09:24:59: Key.ctrl_l
+09:24:59: \x16
+09:25:01: Key.delete
+09:25:02: Key.backspace
+09:25:02: Key.backspace
+09:25:02: Key.backspace
+09:25:02: Key.backspace
+09:25:02: Key.backspace
+09:25:04: S
