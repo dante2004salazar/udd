@@ -11632,3 +11632,4 @@
 18:55:44: Key.right
 18:55:46: Key.space
 18:55:47: Key.space
+18:56:00: Key.left
