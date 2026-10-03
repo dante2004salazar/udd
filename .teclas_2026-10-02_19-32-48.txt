@@ -1192,3 +1192,15 @@
 15:42:49: Key.left
 15:42:49: Key.right
 15:42:50: Key.right
+15:42:54: Key.right
+15:42:56: Key.right
+15:42:56: Key.left
+15:42:59: Key.alt_l
+15:42:59: Key.tab
+15:43:01: Key.down
+15:43:02: Key.alt_l
+15:43:02: Key.tab
+15:43:03: Key.alt_l
+15:43:03: Key.tab
+15:43:04: Key.alt_l
+15:43:04: Key.tab
