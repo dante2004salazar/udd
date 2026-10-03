@@ -589,3 +589,15 @@
 12:55:51: Key.left
 12:55:51: Key.left
 12:55:52: Key.backspace
+12:55:52: 2
+12:55:56: Key.right
+12:55:56: Key.delete
+12:55:56: 2
+12:55:57: Key.right
+12:55:57: Key.right
+12:55:57: Key.right
+12:55:57: Key.right
+12:55:57: Key.right
+12:55:58: Key.delete
+12:55:58: <101>
+12:56:02: Key.delete
