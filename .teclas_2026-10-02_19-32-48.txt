@@ -1178,3 +1178,17 @@
 15:42:38: Key.right
 15:42:39: Key.alt_l
 15:42:39: Key.tab
+15:42:41: Key.right
+15:42:41: Key.left
+15:42:42: Key.right
+15:42:43: Key.left
+15:42:43: Key.alt_l
+15:42:43: Key.tab
+15:42:46: Key.left
+15:42:47: Key.right
+15:42:47: Key.right
+15:42:48: Key.left
+15:42:48: Key.left
+15:42:49: Key.left
+15:42:49: Key.right
+15:42:50: Key.right
