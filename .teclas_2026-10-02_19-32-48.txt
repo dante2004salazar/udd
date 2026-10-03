@@ -1891,3 +1891,13 @@
 16:43:41: Key.alt_l
 16:43:42: Key.tab
 16:43:43: Key.tab
+16:44:07: Key.alt_l
+16:44:08: Key.tab
+16:44:08: Key.tab
+16:44:10: Key.ctrl_l
+16:44:10: \x16
+16:44:12: Key.ctrl_l
+16:44:12: \x16
+16:44:12: Key.enter
+16:44:14: Key.alt_l
+16:44:15: Key.tab
