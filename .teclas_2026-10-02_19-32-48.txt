@@ -1912,3 +1912,11 @@
 16:44:27: Key.left
 16:44:27: Key.left
 16:44:27: Key.left
+16:44:35: Key.alt_l
+16:44:35: Key.tab
+16:44:36: Key.alt_l
+16:44:36: Key.tab
+16:44:36: Key.alt_l
+16:44:36: Key.tab
+16:44:37: Key.tab
+16:44:37: Key.tab
