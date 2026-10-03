@@ -703,3 +703,10 @@
 15:30:15: Key.left
 15:30:22: Key.backspace
 15:30:23: <98>
+15:30:26: Key.left
+15:30:27: Key.backspace
+15:30:28: Key.backspace
+15:30:28: Key.backspace
+15:30:34: Key.delete
+15:30:34: Key.delete
+15:30:35: <98>
