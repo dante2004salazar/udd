@@ -2952,3 +2952,13 @@
 16:54:21: Key.ctrl_l
 16:54:21: Key.ctrl_l
 16:54:21: Key.ctrl_l
+16:54:21: Key.ctrl_l
+16:54:21: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:22: Key.ctrl_l
+16:54:30: Key.esc
