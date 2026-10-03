@@ -3506,3 +3506,16 @@
 18:11:23: Key.media_volume_down
 18:11:23: Key.media_volume_down
 18:11:23: Key.media_volume_down
+18:11:24: Key.esc
+18:11:28: x
+18:11:29: x
+18:11:29: Key.enter
+18:11:30: Key.enter
+18:11:30: Key.enter
+18:11:30: Key.enter
+18:11:31: Key.enter
+18:11:32: Key.enter
+18:11:34: Key.up
+18:11:35: Key.right
+18:11:35: Key.right
+18:11:35: Key.right
