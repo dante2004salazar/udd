@@ -1453,3 +1453,10 @@
 11:11:07: Key.enter
 11:11:08: Key.up
 11:11:10: Key.backspace
+11:11:11: Key.enter
+11:11:15: Key.backspace
+11:11:15: <100>
+11:11:16: Key.enter
+11:11:19: Key.backspace
+11:11:20: <103>
+11:11:20: Key.enter
