@@ -8555,3 +8555,5 @@
 18:23:41: Key.alt_l
 18:23:41: Key.tab
 18:23:42: Key.tab
+18:24:06: Key.alt_l
+18:24:06: Key.tab
