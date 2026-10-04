@@ -2006,3 +2006,4 @@
 12:25:09: Key.left
 12:25:10: Key.backspace
 12:25:10: Key.backspace
+12:25:27: Key.delete
