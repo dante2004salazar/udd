@@ -8557,3 +8557,10 @@
 18:23:42: Key.tab
 18:24:06: Key.alt_l
 18:24:06: Key.tab
+18:24:06: Key.alt_l
+18:24:06: Key.tab
+18:24:07: Key.tab
+18:24:13: }
+18:24:13: Key.enter
+18:24:13: Key.enter
+18:24:13: Key.enter
