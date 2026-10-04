@@ -2094,3 +2094,4 @@
 12:27:38: e
 12:27:38: Key.space
 12:27:38: Key.enter
+12:27:49: Key.delete
