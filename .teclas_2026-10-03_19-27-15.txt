@@ -485,3 +485,10 @@
 09:31:58: Key.enter
 09:31:58: Key.left
 09:31:59: =
+09:32:02: Key.enter
+09:32:03: Key.right
+09:32:03: Key.up
+09:32:03: =
+09:32:06: Key.enter
+09:32:07: Key.right
+09:32:07: Key.up
