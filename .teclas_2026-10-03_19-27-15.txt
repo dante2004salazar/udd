@@ -4518,3 +4518,16 @@
 18:08:24: Key.delete
 18:08:29: Key.delete
 18:08:33: Key.delete
+18:09:04: Key.space
+18:09:04: Key.space
+18:09:05: Key.enter
+18:09:06: x
+18:09:07: Key.esc
+18:09:08: Key.right
+18:09:08: Key.right
+18:09:09: Key.right
+18:09:10: Key.down
+18:09:10: Key.up
+18:09:11: Key.down
+18:09:11: Key.down
+18:09:11: x
