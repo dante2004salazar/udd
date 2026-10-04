@@ -3298,3 +3298,15 @@
 17:52:50: Key.enter
 17:52:53: Key.enter
 17:52:53: Key.enter
+17:52:54: Key.right
+17:52:55: Key.right
+17:52:56: Key.right
+17:52:57: Key.right
+17:52:57: Key.right
+17:52:58: Key.right
+17:52:59: Key.right
+17:53:00: Key.right
+17:53:00: Key.left
+17:53:01: Key.enter
+17:53:04: Key.right
+17:53:05: Key.left
