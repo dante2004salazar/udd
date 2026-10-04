@@ -1869,3 +1869,17 @@
 12:22:03: Key.delete
 12:22:03: Key.delete
 12:22:03: Key.delete
+12:22:04: Key.delete
+12:22:06: O
+12:22:06: c
+12:22:06: t
+12:22:06: u
+12:22:07: b
+12:22:07: r
+12:22:07: e
+12:22:07: Key.right
+12:22:08: Key.right
+12:22:08: Key.right
+12:22:08: Key.right
+12:22:10: Key.delete
+12:22:10: Key.delete
