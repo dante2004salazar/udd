@@ -660,3 +660,9 @@
 09:40:05: Key.enter
 09:40:07: Key.backspace
 09:40:07: 6
+09:40:07: Key.enter
+09:40:14: <105>
+09:40:14: Key.enter
+09:40:17: Key.backspace
+09:40:18: <99>
+09:40:18: Key.enter
