@@ -194,3 +194,9 @@
 09:28:01: Key.left
 09:28:02: Key.ctrl_l
 09:28:02: \x16
+09:28:12: Key.ctrl_l
+09:28:12: Key.ctrl_l
+09:28:12: Key.ctrl_l
+09:28:12: Key.ctrl_l
+09:28:12: Key.ctrl_l
+09:28:12: \x03
