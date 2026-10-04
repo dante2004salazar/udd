@@ -4194,3 +4194,13 @@
 17:58:27: Key.enter
 17:58:27: Key.enter
 17:58:34: Key.esc
+17:58:36: Key.left
+17:58:36: Key.down
+17:58:36: Key.enter
+17:58:39: Key.enter
+17:58:40: Key.left
+17:58:41: Key.right
+17:58:41: Key.left
+17:58:42: Key.down
+17:58:44: x
+17:58:45: Key.left
