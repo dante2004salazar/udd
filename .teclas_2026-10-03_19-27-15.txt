@@ -5507,3 +5507,10 @@
 18:14:17: Key.space
 18:14:17: Key.space
 18:14:17: Key.space
+18:14:28: Key.enter
+18:14:28: x
+18:14:31: x
+18:14:32: x
+18:14:33: Key.enter
+18:14:33: Key.enter
+18:14:33: Key.enter
