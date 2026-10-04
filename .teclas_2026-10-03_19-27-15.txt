@@ -387,3 +387,17 @@
 09:29:47: <100>
 09:29:48: <100>
 09:29:48: Key.enter
+09:30:06: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: Key.ctrl_l
+09:30:07: \x03
+09:30:11: Key.alt_l
+09:30:11: Key.tab
+09:30:12: Key.esc
+09:30:13: Key.esc
