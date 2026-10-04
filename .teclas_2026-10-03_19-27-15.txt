@@ -4589,3 +4589,12 @@
 18:09:36: Key.enter
 18:09:36: Key.enter
 18:09:36: Key.enter
+18:09:37: Key.enter
+18:09:37: Key.num_lock
+18:09:38: Key.num_lock
+18:09:38: Key.num_lock
+18:09:38: Key.num_lock
+18:09:38: Key.num_lock
+18:09:38: Key.num_lock
+18:09:38: Key.num_lock
+18:09:39: Key.esc
