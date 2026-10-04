@@ -1923,3 +1923,5 @@
 12:22:26: Key.space
 12:22:27: Key.backspace
 12:22:47: Key.delete
+12:22:57: Key.ctrl_l
+12:22:58: \x02
