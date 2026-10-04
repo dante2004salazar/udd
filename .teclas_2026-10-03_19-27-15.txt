@@ -833,3 +833,6 @@
 09:55:33: Key.enter
 09:55:35: Key.delete
 09:55:36: <100>
+09:55:53: Key.delete
+09:55:56: Key.backspace
+09:55:57: <100>
