@@ -3574,3 +3574,13 @@
 17:54:25: Key.left
 17:54:26: Key.left
 17:54:26: Key.left
+17:54:30: Key.left
+17:54:31: Key.left
+17:54:31: Key.left
+17:54:33: x
+17:54:34: z
+17:54:35: z
+17:54:36: Key.left
+17:54:37: z
+17:54:39: Key.left
+17:54:42: Key.right
