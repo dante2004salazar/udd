@@ -824,3 +824,10 @@
 09:53:30: Key.right
 09:53:31: Key.backspace
 09:53:31: <100>
+09:55:23: Key.delete
+09:55:24: Key.delete
+09:55:24: Key.delete
+09:55:27: Key.delete
+09:55:27: Key.delete
+09:55:31: Key.delete
+09:55:33: Key.enter
