@@ -775,3 +775,9 @@
 09:44:41: Key.delete
 09:44:47: Key.delete
 09:47:23: Key.right
+09:47:27: Key.alt_l
+09:47:27: Key.tab
+09:47:30: Key.alt_l
+09:47:30: Key.tab
+09:47:31: Key.alt_l
+09:47:31: Key.tab
