@@ -8538,3 +8538,4 @@
 18:22:00: Key.esc
 18:22:00: Key.alt_l
 18:22:00: Key.tab
+18:22:04: Key.delete
