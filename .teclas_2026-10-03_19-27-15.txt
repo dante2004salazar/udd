@@ -774,3 +774,4 @@
 09:44:39: Key.delete
 09:44:41: Key.delete
 09:44:47: Key.delete
+09:47:23: Key.right
