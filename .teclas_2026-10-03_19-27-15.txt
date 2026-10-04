@@ -2007,3 +2007,5 @@
 12:25:10: Key.backspace
 12:25:10: Key.backspace
 12:25:27: Key.delete
+12:25:38: Key.delete
+12:25:41: Key.delete
