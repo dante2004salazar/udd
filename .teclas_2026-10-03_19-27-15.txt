@@ -3249,3 +3249,7 @@
 17:24:38: Key.enter
 17:24:52: Key.ctrl_l
 17:24:53: \x1a
+17:24:59: Key.alt_l
+17:24:59: Key.tab
+17:25:00: Key.alt_l
+17:25:00: Key.tab
