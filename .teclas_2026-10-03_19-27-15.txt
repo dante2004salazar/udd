@@ -519,3 +519,16 @@
 09:33:00: Key.right
 09:33:01: Key.right
 09:33:01: Key.right
+09:33:01: Key.backspace
+09:33:02: <101>
+09:33:06: Key.backspace
+09:33:07: <98>
+09:33:07: Key.right
+09:33:07: Key.right
+09:33:08: Key.right
+09:33:08: Key.right
+09:33:08: Key.right
+09:33:08: Key.right
+09:33:09: Key.backspace
+09:33:09: <101>
+09:33:12: Key.delete
