@@ -1999,3 +1999,10 @@
 12:25:02: Key.backspace
 12:25:03: <101>
 12:25:05: Key.backspace
+12:25:06: <102>
+12:25:09: <96>
+12:25:09: <103>
+12:25:09: Key.left
+12:25:09: Key.left
+12:25:10: Key.backspace
+12:25:10: Key.backspace
