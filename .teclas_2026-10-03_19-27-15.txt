@@ -847,3 +847,11 @@
 09:58:54: Key.up
 09:58:55: Key.ctrl_l
 09:58:56: \x1a
+10:03:10: Key.ctrl_l
+10:03:16: Key.down
+10:03:16: Key.up
+10:03:16: Key.ctrl_l
+10:03:17: Key.down
+10:03:17: Key.down
+10:03:17: Key.down
+10:03:18: \x03
