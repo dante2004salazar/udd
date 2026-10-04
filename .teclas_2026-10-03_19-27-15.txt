@@ -51,3 +51,12 @@
 09:19:41: Key.backspace
 09:19:41: <105>
 09:19:42: Key.enter
+09:19:48: Key.backspace
+09:19:48: 4
+09:19:48: Key.enter
+09:19:51: Key.delete
+09:19:52: 4
+09:19:52: Key.enter
+09:19:55: Key.backspace
+09:19:55: 3
+09:19:55: Key.enter
