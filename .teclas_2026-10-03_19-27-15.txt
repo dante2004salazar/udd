@@ -73,3 +73,9 @@
 09:20:35: w
 09:20:37: Key.backspace
 09:20:37: Key.backspace
+09:27:04: Key.ctrl_l
+09:27:04: \x03
+09:27:06: Key.down
+09:27:06: Key.down
+09:27:07: Key.ctrl_l
+09:27:07: \x16
