@@ -8458,3 +8458,13 @@
 18:20:47: Key.enter
 18:20:47: Key.enter
 18:20:47: Key.esc
+18:21:18: Key.esc
+18:21:21: Key.media_volume_up
+18:21:21: Key.media_volume_up
+18:21:21: Key.media_volume_up
+18:21:21: Key.media_volume_up
+18:21:22: Key.media_volume_up
+18:21:22: Key.media_volume_up
+18:21:22: Key.media_volume_up
+18:21:22: Key.media_volume_up
+18:21:23: Key.media_volume_down
