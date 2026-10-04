@@ -426,3 +426,16 @@
 09:30:51: Key.up
 09:30:51: Key.up
 09:30:51: Key.up
+09:30:51: Key.up
+09:30:51: Key.up
+09:30:52: Key.up
+09:30:52: Key.ctrl_l
+09:30:52: Key.down
+09:30:53: Key.right
+09:30:55: Key.left
+09:30:56: Key.right
+09:30:56: Key.down
+09:30:56: Key.ctrl_l
+09:30:57: Key.down
+09:30:57: Key.right
+09:30:58: Key.delete
