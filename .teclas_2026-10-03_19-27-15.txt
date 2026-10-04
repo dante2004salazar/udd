@@ -721,3 +721,11 @@
 09:42:53: Key.ctrl_l
 09:42:53: Key.down
 09:42:53: Key.right
+09:42:54: Key.delete
+09:42:58: Key.backspace
+09:42:58: <98>
+09:43:01: Key.backspace
+09:43:01: <97>
+09:43:03: Key.backspace
+09:43:03: <97>
+09:43:05: Key.backspace
