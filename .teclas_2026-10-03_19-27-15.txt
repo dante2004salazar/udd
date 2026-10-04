@@ -532,3 +532,7 @@
 09:33:09: Key.backspace
 09:33:09: <101>
 09:33:12: Key.delete
+09:33:38: Key.delete
+09:33:41: Key.alt_l
+09:33:41: Key.tab
+09:33:45: Key.esc
