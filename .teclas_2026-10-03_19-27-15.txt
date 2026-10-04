@@ -3886,3 +3886,9 @@
 17:55:54: Key.left
 17:55:54: Key.left
 17:55:55: Key.left
+17:55:55: Key.left
+17:55:56: Key.left
+17:55:57: Key.left
+17:55:58: Key.enter
+17:55:59: Key.enter
+17:56:00: Key.esc
