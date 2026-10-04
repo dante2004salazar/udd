@@ -2150,3 +2150,5 @@
 12:36:04: Key.ctrl_l
 12:36:04: Key.ctrl_l
 12:36:04: Key.ctrl_l
+12:37:38: Key.cmd_r
+12:37:38: Key.space
