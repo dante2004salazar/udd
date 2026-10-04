@@ -1441,3 +1441,4 @@
 10:11:47: Key.media_volume_down
 10:11:47: Key.media_volume_down
 11:00:41: Key.space
+11:09:58: Key.esc
