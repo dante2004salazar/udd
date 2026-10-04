@@ -536,3 +536,10 @@
 09:33:41: Key.alt_l
 09:33:41: Key.tab
 09:33:45: Key.esc
+09:33:55: Key.delete
+09:33:55: Key.ctrl_l
+09:33:56: \x16
+09:33:58: Key.backspace
+09:33:58: <100>
+09:33:59: Key.backspace
+09:34:00: <99>
