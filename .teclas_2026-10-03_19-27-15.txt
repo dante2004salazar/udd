@@ -677,3 +677,8 @@
 09:40:28: <101>
 09:40:29: Key.backspace
 09:40:30: Key.enter
+09:40:43: Key.right
+09:40:43: Key.left
+09:40:44: Key.left
+09:40:45: Key.alt_l
+09:40:45: Key.tab
