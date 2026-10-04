@@ -4513,3 +4513,5 @@
 18:07:21: Key.alt_l
 18:07:21: Key.tab
 18:08:06: Key.delete
+18:08:12: Key.delete
+18:08:19: Key.delete
