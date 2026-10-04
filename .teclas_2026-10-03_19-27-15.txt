@@ -464,3 +464,16 @@
 09:31:36: Key.right
 09:31:36: Key.up
 09:31:36: =
+09:31:39: Key.enter
+09:31:40: Key.left
+09:31:40: =
+09:31:45: Key.enter
+09:31:45: Key.right
+09:31:45: Key.up
+09:31:46: =
+09:31:49: Key.enter
+09:31:49: Key.right
+09:31:49: Key.up
+09:31:49: Key.right
+09:31:50: Key.up
+09:31:50: Key.right
