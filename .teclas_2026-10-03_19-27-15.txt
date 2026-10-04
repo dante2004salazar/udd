@@ -69,3 +69,7 @@
 09:20:06: Key.backspace
 09:20:06: 2
 09:20:06: Key.enter
+09:20:34: Key.cmd
+09:20:35: w
+09:20:37: Key.backspace
+09:20:37: Key.backspace
