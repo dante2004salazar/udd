@@ -796,3 +796,5 @@
 09:52:53: Key.enter
 09:52:53: Key.ctrl_l
 09:52:53: \x16
+09:53:09: Key.delete
+09:53:11: Key.delete
