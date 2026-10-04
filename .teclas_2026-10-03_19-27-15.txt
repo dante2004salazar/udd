@@ -31,3 +31,8 @@
 09:19:16: Key.right
 09:19:16: Key.up
 09:19:16: Key.up
+09:19:22: Key.delete
+09:19:27: Key.ctrl_l
+09:19:27: Key.ctrl_l
+09:19:27: Key.ctrl_l
+09:19:27: \x1a
