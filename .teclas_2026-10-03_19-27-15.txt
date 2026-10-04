@@ -4191,3 +4191,6 @@
 17:58:20: Key.enter
 17:58:21: Key.alt_l
 17:58:21: Key.tab
+17:58:27: Key.enter
+17:58:27: Key.enter
+17:58:34: Key.esc
