@@ -557,3 +557,8 @@
 09:34:44: Key.backspace
 09:34:46: Key.right
 09:34:46: Key.enter
+09:34:49: Key.delete
+09:34:50: Key.right
+09:34:50: Key.delete
+09:34:50: Key.delete
+09:34:51: Key.backspace
