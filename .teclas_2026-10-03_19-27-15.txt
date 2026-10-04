@@ -1951,3 +1951,10 @@
 12:23:51: Key.backspace
 12:23:51: Key.backspace
 12:23:52: Key.right
+12:23:53: Key.right
+12:23:54: <96>
+12:23:54: <97>
+12:23:55: Key.left
+12:23:55: Key.left
+12:23:55: Key.backspace
+12:23:55: Key.backspace
