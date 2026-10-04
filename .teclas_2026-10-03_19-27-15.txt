@@ -666,3 +666,14 @@
 09:40:17: Key.backspace
 09:40:18: <99>
 09:40:18: Key.enter
+09:40:22: Key.delete
+09:40:22: <100>
+09:40:22: Key.enter
+09:40:25: Key.backspace
+09:40:25: <102>
+09:40:25: Key.enter
+09:40:28: Key.backspace
+09:40:28: <102>
+09:40:28: <101>
+09:40:29: Key.backspace
+09:40:30: Key.enter
