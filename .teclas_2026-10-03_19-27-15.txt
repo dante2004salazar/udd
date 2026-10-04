@@ -1990,3 +1990,12 @@
 12:24:43: Key.left
 12:24:44: Key.backspace
 12:24:44: Key.backspace
+12:24:54: Key.backspace
+12:24:54: <98>
+12:24:57: Key.delete
+12:24:57: <99>
+12:24:59: Key.backspace
+12:25:00: <100>
+12:25:02: Key.backspace
+12:25:03: <101>
+12:25:05: Key.backspace
