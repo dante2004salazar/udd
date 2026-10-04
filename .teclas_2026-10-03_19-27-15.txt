@@ -3328,3 +3328,17 @@
 17:53:17: Key.right
 17:53:17: Key.right
 17:53:17: Key.right
+17:53:17: Key.right
+17:53:18: Key.left
+17:53:19: Key.right
+17:53:19: Key.down
+17:53:19: Key.down
+17:53:20: Key.down
+17:53:20: Key.down
+17:53:20: Key.down
+17:53:20: Key.down
+17:53:20: Key.down
+17:53:20: Key.down
+17:53:21: Key.enter
+17:53:27: Key.up
+17:53:27: x
