@@ -21,3 +21,13 @@
 09:18:54: <98>
 09:18:57: Key.backspace
 09:18:57: <101>
+09:19:11: Key.left
+09:19:11: Key.right
+09:19:11: Key.left
+09:19:12: Key.right
+09:19:15: Key.delete
+09:19:15: <100>
+09:19:15: Key.enter
+09:19:16: Key.right
+09:19:16: Key.up
+09:19:16: Key.up
