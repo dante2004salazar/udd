@@ -439,3 +439,11 @@
 09:30:57: Key.down
 09:30:57: Key.right
 09:30:58: Key.delete
+09:31:04: =
+09:31:08: Key.enter
+09:31:08: Key.right
+09:31:09: Key.up
+09:31:09: =
+09:31:13: Key.enter
+09:31:14: Key.alt_l
+09:31:14: Key.tab
