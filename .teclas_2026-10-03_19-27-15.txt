@@ -3212,3 +3212,5 @@
 12:53:02: Key.media_volume_up
 12:53:02: Key.media_volume_up
 12:53:02: Key.media_volume_up
+14:22:03: |
+14:22:04: Key.esc
