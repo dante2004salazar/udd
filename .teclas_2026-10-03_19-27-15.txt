@@ -1922,3 +1922,4 @@
 12:22:26: e
 12:22:26: Key.space
 12:22:27: Key.backspace
+12:22:47: Key.delete
