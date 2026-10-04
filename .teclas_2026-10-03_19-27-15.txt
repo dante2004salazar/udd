@@ -447,3 +447,11 @@
 09:31:13: Key.enter
 09:31:14: Key.alt_l
 09:31:14: Key.tab
+09:31:15: Key.alt_l
+09:31:15: Key.tab
+09:31:17: Key.alt_l
+09:31:17: Key.tab
+09:31:17: Key.alt_l
+09:31:17: Key.tab
+09:31:23: Key.delete
+09:31:26: =
