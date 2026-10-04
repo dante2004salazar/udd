@@ -60,3 +60,12 @@
 09:19:55: Key.backspace
 09:19:55: 3
 09:19:55: Key.enter
+09:20:01: Key.backspace
+09:20:01: 3
+09:20:01: Key.enter
+09:20:03: Key.delete
+09:20:03: <100>
+09:20:03: Key.enter
+09:20:06: Key.backspace
+09:20:06: 2
+09:20:06: Key.enter
