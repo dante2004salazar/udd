@@ -637,3 +637,4 @@
 09:38:52: Key.backspace
 09:38:52: <101>
 09:38:55: Key.right
+09:38:59: Key.right
