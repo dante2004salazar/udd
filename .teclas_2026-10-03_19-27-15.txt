@@ -1460,3 +1460,6 @@
 11:11:19: Key.backspace
 11:11:20: <103>
 11:11:20: Key.enter
+11:11:23: Key.backspace
+11:11:23: <103>
+11:11:24: Key.enter
