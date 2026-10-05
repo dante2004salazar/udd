@@ -10,3 +10,8 @@
 09:15:29: Key.left
 09:15:30: Key.left
 09:15:30: Key.left
+09:15:31: Key.right
+09:15:39: l
+09:15:39: k
+09:15:40: Key.enter
+09:15:40: Key.enter
