@@ -27,3 +27,13 @@
 09:16:02: <98>
 09:16:06: <98>
 09:16:06: <100>
+09:16:06: <100>
+09:16:07: Key.backspace
+09:16:07: Key.backspace
+09:16:07: Key.backspace
+09:16:07: Key.backspace
+09:16:07: Key.backspace
+09:16:08: o
+09:16:08: k
+09:16:09: Key.enter
+09:16:13: Key.right
