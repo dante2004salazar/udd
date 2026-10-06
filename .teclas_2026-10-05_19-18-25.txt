@@ -322,3 +322,11 @@
 09:42:49: Key.ctrl_l
 09:42:49: Key.ctrl_l
 09:42:50: Key.delete
+09:43:31: Key.left
+09:43:32: Key.left
+09:43:32: Key.left
+09:43:32: Key.up
+09:43:32: Key.left
+09:43:33: Key.up
+09:43:34: Key.up
+09:43:34: Key.up
