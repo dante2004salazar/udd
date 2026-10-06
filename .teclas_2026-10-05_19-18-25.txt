@@ -3095,3 +3095,14 @@
 19:11:21: Key.backspace
 19:11:22: o
 19:11:22: Key.enter
+19:11:31: Key.esc
+19:11:32: Key.alt_l
+19:11:33: Key.tab
+19:11:33: Key.alt_l
+19:11:33: x
+19:11:34: Key.tab
+19:11:35: Key.tab
+19:11:37: Key.alt_l
+19:11:37: Key.tab
+19:11:40: Key.ctrl_l
+19:11:40: \x16
