@@ -1645,3 +1645,16 @@
 14:03:20: Key.right
 14:03:20: Key.up
 14:03:20: =
+14:03:24: Key.enter
+14:03:24: Key.right
+14:03:25: Key.up
+14:03:25: Key.right
+14:03:25: Key.right
+14:03:26: =
+14:03:29: Key.enter
+14:03:29: Key.right
+14:03:29: Key.up
+14:03:30: =
+14:03:33: Key.enter
+14:03:34: Key.left
+14:03:34: Key.up
