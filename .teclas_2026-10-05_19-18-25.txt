@@ -669,3 +669,8 @@
 09:51:18: Key.esc
 09:51:19: Key.esc
 09:51:19: Key.esc
+09:51:22: Key.esc
+09:51:29: Key.alt_l
+09:51:29: Key.tab
+09:51:30: Key.tab
+09:51:32: Key.ctrl_l
