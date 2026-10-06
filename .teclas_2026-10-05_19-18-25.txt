@@ -632,3 +632,10 @@
 09:50:07: Key.right
 09:50:08: Key.left
 09:50:21: Key.ctrl_l
+09:50:21: Key.down
+09:50:21: Key.right
+09:50:22: Key.delete
+09:50:27: Key.backspace
+09:50:28: <100>
+09:50:30: Key.backspace
+09:50:31: <99>
