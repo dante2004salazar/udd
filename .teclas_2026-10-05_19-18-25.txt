@@ -1755,3 +1755,14 @@
 14:09:50: Key.left
 14:09:50: Key.right
 14:09:51: Key.left
+14:10:31: Key.delete
+14:10:31: <97>
+14:10:32: Key.right
+14:10:32: Key.right
+14:10:32: Key.right
+14:10:32: Key.right
+14:10:33: Key.right
+14:10:33: Key.delete
+14:10:34: <103>
+14:10:38: Key.backspace
+14:10:38: <97>
