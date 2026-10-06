@@ -1194,3 +1194,9 @@
 10:03:30: Key.backspace
 10:03:30: Key.backspace
 10:03:30: Key.backspace
+10:03:31: Key.backspace
+10:03:32: <97>
+10:03:32: <98>
+10:03:33: <99>
+10:03:33: <103>
+10:03:34: Key.enter
