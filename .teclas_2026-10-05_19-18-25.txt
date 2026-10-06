@@ -631,3 +631,4 @@
 09:50:06: Key.right
 09:50:07: Key.right
 09:50:08: Key.left
+09:50:21: Key.ctrl_l
