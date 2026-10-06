@@ -187,3 +187,16 @@
 09:42:08: Key.backspace
 09:42:08: <101>
 09:42:08: Key.enter
+09:42:11: Key.right
+09:42:12: Key.delete
+09:42:12: <102>
+09:42:12: Key.enter
+09:42:19: Key.backspace
+09:42:20: <101>
+09:42:20: Key.enter
+09:42:20: Key.down
+09:42:21: Key.down
+09:42:21: Key.down
+09:42:23: Key.backspace
+09:42:23: <100>
+09:42:23: Key.enter
