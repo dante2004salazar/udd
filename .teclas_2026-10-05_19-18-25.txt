@@ -1802,3 +1802,6 @@
 16:14:50: Key.media_volume_down
 16:14:50: Key.media_volume_down
 16:14:50: Key.media_volume_down
+16:21:52: Key.esc
+16:21:55: Key.ctrl_l
+16:21:55: \x01
