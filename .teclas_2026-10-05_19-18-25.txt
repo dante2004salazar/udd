@@ -736,3 +736,11 @@
 09:53:36: Key.right
 09:53:37: Key.left
 09:53:37: Key.right
+09:55:50: <103>
+09:55:50: <105>
+09:55:50: <105>
+09:55:52: Key.backspace
+09:55:52: Key.backspace
+09:55:52: Key.backspace
+09:55:57: Key.ctrl_l
+09:55:57: \x03
