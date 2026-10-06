@@ -103,3 +103,11 @@
 09:39:37: Key.enter
 09:40:11: Key.backspace
 09:40:13: <104>
+09:40:14: Key.down
+09:40:15: Key.enter
+09:40:15: Key.down
+09:40:20: Key.delete
+09:40:21: <102>
+09:40:22: Key.enter
+09:40:22: Key.right
+09:40:22: Key.up
