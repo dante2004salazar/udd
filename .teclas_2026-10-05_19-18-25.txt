@@ -511,3 +511,8 @@
 09:46:50: <104>
 09:46:52: Key.space
 09:46:54: Key.delete
+09:46:57: Key.esc
+09:47:03: Key.alt_l
+09:47:03: Key.tab
+09:47:04: Key.tab
+09:47:07: Key.ctrl_l
