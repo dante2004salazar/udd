@@ -1773,3 +1773,15 @@
 14:10:39: Key.right
 14:10:40: Key.delete
 14:10:40: <103>
+15:57:37: Key.media_volume_up
+15:57:37: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
+15:57:38: Key.media_volume_up
