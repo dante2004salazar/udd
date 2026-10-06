@@ -561,3 +561,17 @@
 09:48:06: Key.alt_l
 09:48:06: Key.tab
 09:48:07: Key.tab
+09:48:09: Key.enter
+09:48:09: Key.ctrl_l
+09:48:09: \x16
+09:48:11: Key.delete
+09:48:12: Key.delete
+09:48:12: Key.backspace
+09:48:12: Key.backspace
+09:48:13: Key.alt_l
+09:48:13: Key.tab
+09:48:14: Key.alt_l
+09:48:14: Key.tab
+09:48:15: Key.tab
+09:48:20: Key.left
+09:48:21: Key.left
