@@ -688,3 +688,16 @@
 09:52:44: Key.delete
 09:52:45: Key.delete
 09:53:03: Key.delete
+09:53:15: Key.right
+09:53:16: Key.right
+09:53:16: Key.left
+09:53:17: Key.right
+09:53:18: Key.right
+09:53:18: Key.right
+09:53:18: Key.right
+09:53:18: Key.right
+09:53:18: Key.right
+09:53:19: Key.right
+09:53:19: Key.right
+09:53:19: Key.right
+09:53:20: Key.down
