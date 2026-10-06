@@ -1744,3 +1744,11 @@
 14:09:36: Key.right
 14:09:37: Key.backspace
 14:09:37: <103>
+14:09:47: Key.left
+14:09:47: Key.right
+14:09:48: Key.left
+14:09:48: Key.right
+14:09:48: Key.left
+14:09:49: Key.right
+14:09:49: Key.left
+14:09:50: Key.right
