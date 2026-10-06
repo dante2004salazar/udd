@@ -346,3 +346,12 @@
 09:43:44: Key.up
 09:43:44: Key.left
 09:43:44: Key.down
+09:43:47: Key.delete
+09:43:47: <102>
+09:43:48: Key.enter
+09:43:48: Key.right
+09:43:48: Key.up
+09:43:49: Key.ctrl_l
+09:43:49: Key.down
+09:43:49: Key.right
+09:43:50: Key.delete
