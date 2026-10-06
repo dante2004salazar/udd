@@ -3023,3 +3023,6 @@
 19:09:37: Key.alt_l
 19:09:37: Key.tab
 19:09:39: Key.delete
+19:09:41: Key.delete
+19:09:41: Key.ctrl_l
+19:09:41: \x16
