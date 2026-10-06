@@ -2528,3 +2528,6 @@
 17:55:54: Key.space
 17:55:54: Key.space
 17:55:54: Key.space
+17:57:10: Key.backspace
+17:57:10: Key.backspace
+17:57:10: <102>
