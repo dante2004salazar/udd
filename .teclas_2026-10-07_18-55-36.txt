@@ -665,3 +665,16 @@
 18:25:51: p
 18:25:51: o
 18:25:52: x
+18:25:55: Key.backspace
+18:25:55: Key.backspace
+18:25:56: Key.backspace
+18:25:56: Key.backspace
+18:25:56: Key.backspace
+18:25:56: Key.backspace
+18:25:59: i
+18:25:59: o
+18:25:59: n
+18:26:00: e
+18:26:00: s
+18:26:02: Key.ctrl_l
+18:26:03: \x16
