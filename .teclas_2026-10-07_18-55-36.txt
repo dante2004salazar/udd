@@ -865,3 +865,5 @@
 18:31:28: Key.delete
 18:31:28: Key.right
 18:31:28: Key.delete
+18:31:39: Key.ctrl_l
+18:31:39: \x16
