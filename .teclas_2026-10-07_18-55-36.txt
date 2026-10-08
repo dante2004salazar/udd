@@ -66,3 +66,12 @@
 09:48:50: Key.backspace
 09:48:51: <102>
 09:48:51: Key.enter
+09:48:55: Key.backspace
+09:48:56: <104>
+09:48:56: Key.enter
+09:48:59: Key.backspace
+09:48:59: <101>
+09:49:00: Key.enter
+09:49:03: Key.backspace
+09:49:03: <99>
+09:49:04: Key.enter
