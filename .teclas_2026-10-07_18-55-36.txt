@@ -238,3 +238,13 @@
 15:27:29: <105>
 15:27:34: Key.backspace
 15:27:35: <104>
+15:27:40: Key.backspace
+15:27:40: Key.backspace
+15:27:40: Key.backspace
+15:27:40: Key.backspace
+15:27:41: Key.backspace
+15:27:42: e
+15:27:42: n
+15:27:43: a
+15:27:43: m
+15:27:43: i
