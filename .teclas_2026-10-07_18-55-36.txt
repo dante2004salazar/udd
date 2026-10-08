@@ -643,3 +643,5 @@
 18:24:52: Key.delete
 18:24:52: Key.right
 18:24:53: Key.delete
+18:25:30: Key.ctrl_l
+18:25:30: \x03
