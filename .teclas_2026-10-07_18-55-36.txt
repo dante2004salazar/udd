@@ -563,3 +563,4 @@
 18:22:35: Key.delete
 18:22:50: Key.backspace
 18:22:50: <98>
+18:23:06: Key.caps_lock
