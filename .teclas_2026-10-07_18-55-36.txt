@@ -593,3 +593,13 @@
 18:23:41: Key.backspace
 18:23:41: Key.backspace
 18:23:42: <96>
+18:23:42: <97>
+18:23:44: Key.backspace
+18:23:45: <101>
+18:23:47: Key.backspace
+18:23:47: <97>
+18:23:50: Key.backspace
+18:23:51: Key.backspace
+18:23:51: <96>
+18:23:51: <97>
+18:23:54: Key.backspace
