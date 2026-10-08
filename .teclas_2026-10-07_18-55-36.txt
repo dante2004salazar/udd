@@ -848,3 +848,5 @@
 18:30:51: Key.enter
 18:30:52: Key.ctrl_l
 18:30:52: \x16
+18:30:53: Key.enter
+18:30:53: Key.enter
