@@ -550,3 +550,14 @@
 18:22:25: <101>
 18:22:28: Key.backspace
 18:22:28: <97>
+18:22:33: Key.delete
+18:22:33: Key.right
+18:22:33: Key.delete
+18:22:33: Key.right
+18:22:34: Key.delete
+18:22:34: Key.right
+18:22:34: Key.delete
+18:22:34: Key.right
+18:22:34: Key.delete
+18:22:34: Key.right
+18:22:35: Key.delete
