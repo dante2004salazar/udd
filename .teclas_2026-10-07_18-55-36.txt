@@ -323,3 +323,16 @@
 15:29:53: a
 15:29:53: .
 15:29:55: Key.backspace
+15:30:02: Key.backspace
+15:30:02: Key.backspace
+15:30:02: Key.backspace
+15:30:02: Key.backspace
+15:30:02: Key.backspace
+15:30:04: v
+15:30:04: .
+15:30:05: i
+15:30:05: .
+15:30:06: a
+15:30:07: Key.enter
+15:30:08: Key.ctrl_l
+15:30:09: \x03
