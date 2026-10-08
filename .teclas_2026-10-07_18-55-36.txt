@@ -93,3 +93,6 @@
 09:49:39: Key.backspace
 09:49:39: <102>
 09:49:39: Key.enter
+10:40:21: Key.space
+10:40:23: Key.alt_l
+10:40:23: Key.tab
