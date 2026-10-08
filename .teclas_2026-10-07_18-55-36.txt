@@ -174,3 +174,8 @@
 15:19:59: <97>
 15:19:59: <97>
 15:20:00: Key.enter
+15:25:12: Key.backspace
+15:25:12: Key.backspace
+15:25:12: Key.backspace
+15:25:12: Key.backspace
+15:25:12: Key.backspace
