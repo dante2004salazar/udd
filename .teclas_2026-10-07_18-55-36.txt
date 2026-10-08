@@ -834,3 +834,14 @@
 18:30:25: Key.backspace
 18:30:25: <100>
 18:30:26: <104>
+18:30:31: Key.backspace
+18:30:31: Key.backspace
+18:30:32: <100>
+18:30:32: <104>
+18:30:37: Key.delete
+18:30:37: Key.right
+18:30:37: Key.delete
+18:30:37: Key.right
+18:30:37: Key.delete
+18:30:37: Key.right
+18:30:38: Key.delete
