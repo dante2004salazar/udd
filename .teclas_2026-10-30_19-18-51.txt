@@ -454,3 +454,7 @@
 08:23:52: Key.delete
 08:23:55: Key.delete
 08:23:55: Key.delete
+08:23:56: S
+08:24:04: Key.left
+08:24:05: Key.backspace
+08:24:05: 1
