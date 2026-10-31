@@ -2095,3 +2095,17 @@
 11:48:44: Key.tab
 11:48:45: Key.right
 11:48:46: Key.right
+11:48:49: Key.alt_l
+11:48:49: Key.tab
+11:48:50: <105>
+11:48:52: Key.alt_l
+11:48:52: Key.tab
+11:48:52: Key.alt_l
+11:48:52: Key.tab
+11:48:53: <97>
+11:48:53: <101>
+11:48:54: Key.enter
+11:48:54: Key.alt_l
+11:48:54: Key.tab
+11:48:56: Key.right
+11:48:57: Key.right
