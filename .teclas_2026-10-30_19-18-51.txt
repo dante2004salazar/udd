@@ -2326,3 +2326,15 @@
 11:51:49: Key.up
 11:51:49: Key.down
 11:52:00: Key.up
+11:52:42: Key.alt_l
+11:52:42: Key.tab
+11:52:43: Key.alt_l
+11:52:43: Key.tab
+11:52:43: Key.alt_l
+11:52:44: Key.tab
+11:52:44: Key.alt_l
+11:52:44: Key.tab
+11:52:45: Key.alt_l
+11:52:45: Key.tab
+11:52:46: Key.alt_l
+11:52:46: Key.tab
