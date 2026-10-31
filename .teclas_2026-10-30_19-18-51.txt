@@ -2847,3 +2847,17 @@
 11:58:23: Key.tab
 11:58:25: Key.alt_l
 11:58:25: Key.tab
+11:58:29: Key.right
+11:58:29: Key.left
+11:58:29: Key.alt_l
+11:58:29: Key.tab
+11:58:33: Key.right
+11:58:33: Key.right
+11:58:34: Key.right
+11:58:37: Key.left
+11:58:37: Key.left
+11:58:37: Key.alt_l
+11:58:37: Key.tab
+11:58:38: Key.down
+11:58:38: Key.up
+11:58:39: Key.down
