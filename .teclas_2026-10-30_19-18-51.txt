@@ -300,3 +300,6 @@
 08:17:34: 1
 08:17:34: Key.enter
 08:17:38: Key.delete
+08:17:45: Key.backspace
+08:17:46: <100>
+08:17:46: Key.enter
