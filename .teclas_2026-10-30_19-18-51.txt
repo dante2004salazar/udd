@@ -634,3 +634,16 @@
 08:41:15: H
 08:41:15: R
 08:41:15: S
+08:41:16: Key.enter
+08:41:17: Key.up
+08:41:19: Key.right
+08:41:20: Key.space
+08:41:22: Key.ctrl_l
+08:41:23: Key.ctrl_l
+08:41:23: \x03
+08:41:24: Key.ctrl_l
+08:41:24: \x16
+08:41:26: Key.delete
+08:41:26: Key.down
+08:41:27: Key.ctrl_l
+08:41:27: Key.right
