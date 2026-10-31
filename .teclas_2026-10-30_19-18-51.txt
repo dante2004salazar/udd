@@ -3635,3 +3635,12 @@
 14:26:03: 2
 14:26:06: Key.backspace
 14:26:06: 3
+14:26:11: Key.backspace
+14:26:11: 4
+14:26:13: Key.backspace
+14:26:13: 5
+14:26:15: Key.backspace
+14:26:15: 6
+14:26:19: Key.esc
+14:26:20: Key.alt_l
+14:26:20: Key.tab
