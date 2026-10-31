@@ -487,3 +487,12 @@
 08:26:13: Key.alt_l
 08:26:14: Key.tab
 08:26:14: Key.tab
+08:26:21: Key.delete
+08:26:22: Key.delete
+08:26:23: Key.delete
+08:26:24: Key.delete
+08:26:27: Key.delete
+08:26:28: Key.up
+08:26:28: Key.up
+08:26:28: Key.up
+08:26:28: Key.up
