@@ -2109,3 +2109,5 @@
 11:48:54: Key.tab
 11:48:56: Key.right
 11:48:57: Key.right
+11:49:10: Key.alt_l
+11:49:10: Key.tab
