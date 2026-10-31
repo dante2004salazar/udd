@@ -4040,3 +4040,5 @@
 16:37:45: Key.media_volume_up
 16:37:46: Key.media_volume_up
 16:37:46: Key.media_volume_up
+17:02:23: Key.alt_l
+17:02:23: Key.tab
