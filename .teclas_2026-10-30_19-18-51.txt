@@ -3834,3 +3834,5 @@
 16:16:09: Key.left
 16:16:09: Key.left
 16:16:09: Key.left
+16:18:15: Key.delete
+16:18:18: Key.delete
