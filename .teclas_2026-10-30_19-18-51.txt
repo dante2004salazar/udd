@@ -2284,3 +2284,11 @@
 11:51:06: Key.up
 11:51:07: Key.down
 11:51:08: Key.delete
+11:51:14: Key.alt_l
+11:51:14: Key.tab
+11:51:15: Key.alt_l
+11:51:15: Key.tab
+11:51:15: Key.tab
+11:51:21: Key.left
+11:51:21: Key.left
+11:51:23: Key.left
