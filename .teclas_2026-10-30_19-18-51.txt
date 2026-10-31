@@ -6617,3 +6617,7 @@
 19:03:25: \x16
 19:03:26: Key.right
 19:03:31: Key.left
+19:03:33: Key.right
+19:03:39: Key.down
+19:03:43: Key.up
+19:03:43: Key.left
