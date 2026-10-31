@@ -519,3 +519,9 @@
 08:27:00: Key.delete
 08:27:00: <101>
 08:27:03: Key.esc
+08:27:08: Key.alt_l
+08:27:09: Key.tab
+08:27:09: Key.tab
+08:27:10: Key.ctrl_l
+08:27:10: \x16
+08:27:14: Key.delete
