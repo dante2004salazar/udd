@@ -5990,3 +5990,16 @@
 18:52:32: Key.up
 18:52:35: Key.down
 18:52:35: Key.up
+18:52:43: Key.right
+18:52:43: Key.right
+18:52:43: Key.right
+18:52:43: Key.right
+18:52:43: Key.right
+18:52:44: Key.right
+18:52:44: Key.right
+18:52:44: Key.right
+18:52:44: Key.left
+18:52:45: <101>
+18:52:45: <101>
+18:52:46: Key.backspace
+18:52:48: <104>
