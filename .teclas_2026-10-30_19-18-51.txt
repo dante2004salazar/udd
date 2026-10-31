@@ -3316,3 +3316,8 @@
 12:10:25: 3
 12:10:25: Key.enter
 12:11:00: Key.esc
+12:11:20: Key.alt_l
+12:11:20: Key.tab
+12:11:21: Key.alt_l
+12:11:21: Key.tab
+12:11:21: Key.tab
