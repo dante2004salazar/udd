@@ -2344,3 +2344,10 @@
 11:52:59: \x03
 11:53:00: Key.alt_l
 11:53:00: Key.tab
+11:53:04: Key.alt_l
+11:53:04: Key.tab
+11:53:09: Key.alt_l
+11:53:09: Key.tab
+11:53:10: Key.alt_l
+11:53:10: Key.tab
+11:53:11: Key.esc
