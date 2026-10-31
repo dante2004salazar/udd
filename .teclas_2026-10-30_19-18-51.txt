@@ -2338,3 +2338,9 @@
 11:52:45: Key.tab
 11:52:46: Key.alt_l
 11:52:46: Key.tab
+11:52:50: Key.alt_l
+11:52:50: Key.tab
+11:52:59: Key.ctrl_l
+11:52:59: \x03
+11:53:00: Key.alt_l
+11:53:00: Key.tab
