@@ -3268,3 +3268,10 @@
 12:03:57: Key.right
 12:04:06: Key.esc
 12:04:14: Key.esc
+12:04:34: Key.alt_l
+12:04:34: Key.tab
+12:04:35: Key.tab
+12:04:38: Key.alt_l
+12:04:38: Key.tab
+12:04:42: Key.alt_l
+12:04:43: Key.tab
