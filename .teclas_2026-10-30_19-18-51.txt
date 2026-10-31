@@ -806,3 +806,7 @@
 08:45:07: Key.enter
 08:45:19: Key.esc
 08:45:19: |
+08:45:26: Key.alt_l
+08:45:26: Key.tab
+08:45:35: Key.delete
+08:45:35: Key.delete
