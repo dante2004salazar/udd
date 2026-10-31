@@ -3430,3 +3430,8 @@
 14:21:56: .
 14:21:57: o
 14:21:57: Key.enter
+14:22:13: Key.delete
+14:22:13: Key.delete
+14:22:16: Key.delete
+14:22:17: Key.alt_l
+14:22:17: Key.tab
