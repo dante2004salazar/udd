@@ -2292,3 +2292,16 @@
 11:51:21: Key.left
 11:51:21: Key.left
 11:51:23: Key.left
+11:51:23: Key.left
+11:51:23: Key.left
+11:51:24: Key.right
+11:51:28: Key.left
+11:51:29: Key.left
+11:51:29: Key.left
+11:51:29: Key.left
+11:51:29: Key.left
+11:51:29: Key.up
+11:51:29: Key.left
+11:51:29: Key.left
+11:51:29: Key.left
+11:51:30: Key.right
