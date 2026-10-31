@@ -3119,3 +3119,13 @@
 12:00:28: Key.tab
 12:00:28: <97>
 12:00:28: <99>
+12:00:28: Key.enter
+12:00:29: Key.left
+12:00:29: Key.left
+12:00:29: Key.left
+12:00:29: Key.left
+12:00:30: Key.right
+12:00:35: Key.alt_l
+12:00:35: Key.tab
+12:00:37: Key.right
+12:00:38: Key.right
