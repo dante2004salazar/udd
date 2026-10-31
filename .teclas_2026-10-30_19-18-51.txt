@@ -996,3 +996,6 @@
 08:49:57: x
 08:49:57: d
 08:49:57: Key.enter
+08:51:14: Key.right
+08:51:14: Key.right
+08:51:15: Key.right
