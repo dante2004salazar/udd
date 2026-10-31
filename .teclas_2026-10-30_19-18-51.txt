@@ -2557,3 +2557,14 @@
 11:54:56: <110>
 11:54:57: <101>
 11:54:57: Key.down
+11:55:03: Key.left
+11:55:04: Key.left
+11:55:04: Key.alt_l
+11:55:04: Key.tab
+11:55:05: Key.alt_l
+11:55:05: Key.tab
+11:55:06: Key.alt_l
+11:55:06: Key.tab
+11:55:09: Key.right
+11:55:13: Key.alt_l
+11:55:13: Key.tab
