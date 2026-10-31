@@ -5436,3 +5436,10 @@
 17:12:58: Key.right
 17:12:58: Key.right
 17:12:59: Key.left
+17:13:12: Key.up
+17:13:12: Key.left
+17:13:13: Key.left
+17:13:13: Key.up
+17:13:13: Key.left
+17:13:13: Key.up
+17:13:13: Key.up
