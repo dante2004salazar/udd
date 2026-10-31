@@ -2351,3 +2351,11 @@
 11:53:10: Key.alt_l
 11:53:10: Key.tab
 11:53:11: Key.esc
+11:53:13: Key.right
+11:53:14: Key.up
+11:53:15: Key.up
+11:53:20: Key.alt_l
+11:53:20: Key.tab
+11:53:20: Key.alt_l
+11:53:20: Key.tab
+11:53:21: Key.tab
