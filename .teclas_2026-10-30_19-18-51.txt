@@ -401,3 +401,13 @@
 08:21:30: <102>
 08:21:30: Key.enter
 08:21:34: Key.backspace
+08:21:35: <102>
+08:21:35: Key.enter
+08:21:41: Key.backspace
+08:21:41: 1
+08:21:41: Key.enter
+08:21:43: Key.backspace
+08:21:43: Key.backspace
+08:21:44: <101>
+08:21:44: <96>
+08:21:44: Key.enter
