@@ -6258,3 +6258,7 @@
 18:59:20: Key.up
 18:59:21: Key.left
 18:59:21: Key.down
+18:59:29: Key.right
+18:59:29: Key.up
+18:59:29: Key.up
+18:59:30: Key.up
