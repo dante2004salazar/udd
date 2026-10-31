@@ -6062,3 +6062,12 @@
 18:53:11: Key.up
 18:53:12: Key.down
 18:53:13: Key.down
+18:53:14: Key.down
+18:53:16: Key.down
+18:53:17: Key.up
+18:53:17: Key.up
+18:53:18: Key.down
+18:53:21: Key.down
+18:53:22: Key.down
+18:53:23: Key.down
+18:53:24: Key.down
