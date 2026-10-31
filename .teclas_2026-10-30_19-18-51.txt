@@ -7330,3 +7330,12 @@
 19:14:09: Key.enter
 19:14:12: Key.up
 19:14:12: Key.left
+19:14:16: Key.right
+19:14:17: <98>
+19:14:19: Key.backspace
+19:14:24: Key.left
+19:14:24: Key.right
+19:14:24: Key.left
+19:14:25: <96>
+19:14:25: Key.right
+19:14:26: Key.down
