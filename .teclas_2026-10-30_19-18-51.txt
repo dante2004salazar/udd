@@ -445,3 +445,9 @@
 08:23:01: Key.esc
 08:23:11: Key.alt_l
 08:23:11: Key.tab
+08:23:25: Key.delete
+08:23:25: Key.delete
+08:23:28: Key.enter
+08:23:28: Key.enter
+08:23:28: Key.ctrl_l
+08:23:28: \x16
