@@ -391,3 +391,13 @@
 08:21:21: Key.backspace
 08:21:21: <105>
 08:21:22: Key.enter
+08:21:24: Key.backspace
+08:21:24: <104>
+08:21:24: Key.enter
+08:21:27: Key.backspace
+08:21:27: <104>
+08:21:27: Key.enter
+08:21:29: Key.backspace
+08:21:30: <102>
+08:21:30: Key.enter
+08:21:34: Key.backspace
