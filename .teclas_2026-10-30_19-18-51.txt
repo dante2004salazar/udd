@@ -3664,3 +3664,14 @@
 14:26:50: Key.backspace
 14:26:50: <100>
 14:26:51: Key.enter
+14:27:13: Key.alt_l
+14:27:13: Key.tab
+14:27:14: Key.tab
+14:27:19: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: Key.ctrl_l
+14:27:20: \x03
