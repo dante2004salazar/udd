@@ -303,3 +303,6 @@
 08:17:45: Key.backspace
 08:17:46: <100>
 08:17:46: Key.enter
+08:17:55: Key.backspace
+08:17:56: 4
+08:17:56: Key.enter
