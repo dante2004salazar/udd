@@ -3183,3 +3183,13 @@
 12:03:07: o
 12:03:07: k
 12:03:07: Key.enter
+12:03:09: Key.alt_l
+12:03:09: Key.tab
+12:03:11: Key.alt_l
+12:03:11: Key.tab
+12:03:13: Key.alt_l
+12:03:13: Key.tab
+12:03:17: Key.alt_l
+12:03:17: Key.tab
+12:03:21: Key.alt_l
+12:03:21: Key.tab
