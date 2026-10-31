@@ -388,3 +388,6 @@
 08:21:06: Key.down
 08:21:06: Key.right
 08:21:07: Key.delete
+08:21:21: Key.backspace
+08:21:21: <105>
+08:21:22: Key.enter
