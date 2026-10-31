@@ -2034,3 +2034,15 @@
 11:47:33: Key.up
 11:47:33: Key.up
 11:47:34: Key.ctrl_l
+11:47:34: Key.down
+11:47:34: Key.delete
+11:47:35: Key.left
+11:47:35: Key.left
+11:47:35: Key.left
+11:47:35: Key.left
+11:47:35: Key.left
+11:47:35: Key.left
+11:47:36: Key.ctrl_l
+11:47:36: Key.down
+11:47:36: Key.right
+11:47:37: Key.delete
