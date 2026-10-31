@@ -810,3 +810,14 @@
 08:45:26: Key.tab
 08:45:35: Key.delete
 08:45:35: Key.delete
+08:45:37: Key.delete
+08:45:38: Key.ctrl_l
+08:45:38: \x16
+08:45:41: Key.left
+08:45:42: Key.delete
+08:45:42: Key.delete
+08:45:43: <102>
+08:45:43: Key.backspace
+08:45:44: <99>
+08:45:44: <98>
+08:45:49: Key.delete
