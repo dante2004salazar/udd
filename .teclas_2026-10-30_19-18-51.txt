@@ -114,3 +114,6 @@
 08:11:19: Key.up
 08:11:19: Key.ctrl_l
 08:11:19: \x16
+08:11:35: Key.left
+08:11:35: Key.right
+08:11:35: Key.left
