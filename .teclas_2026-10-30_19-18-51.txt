@@ -334,3 +334,15 @@
 08:18:33: Key.backspace
 08:18:38: 1
 08:18:38: Key.enter
+08:18:38: Key.down
+08:18:39: Key.down
+08:18:39: Key.down
+08:18:42: Key.backspace
+08:18:42: Key.backspace
+08:18:42: 5
+08:18:43: 0
+08:18:43: Key.enter
+08:18:47: Key.delete
+08:18:48: 1
+08:18:48: Key.enter
+08:18:49: Key.down
