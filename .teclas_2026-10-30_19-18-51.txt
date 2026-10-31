@@ -5975,3 +5975,7 @@
 18:51:58: Key.enter
 18:51:59: Key.up
 18:51:59: Key.up
+18:52:02: Key.down
+18:52:03: Key.down
+18:52:04: Key.up
+18:52:04: Key.up
