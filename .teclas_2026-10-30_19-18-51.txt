@@ -3579,3 +3579,8 @@
 14:25:03: Key.delete
 14:25:06: Key.ctrl_l
 14:25:06: \x16
+14:25:10: Key.esc
+14:25:18: Key.alt_l
+14:25:18: Key.tab
+14:25:18: Key.tab
+14:25:21: Key.ctrl_l
