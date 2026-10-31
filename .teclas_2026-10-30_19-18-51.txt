@@ -3584,3 +3584,11 @@
 14:25:18: Key.tab
 14:25:18: Key.tab
 14:25:21: Key.ctrl_l
+14:25:21: \x16
+14:25:25: Key.backspace
+14:25:26: Key.backspace
+14:25:26: <105>
+14:25:26: <100>
+14:25:31: Key.right
+14:25:32: Key.left
+14:25:33: Key.alt_l
