@@ -549,3 +549,7 @@
 08:27:36: Key.delete
 08:27:36: Key.delete
 08:27:36: Key.delete
+08:27:40: Key.delete
+08:27:44: Key.backspace
+08:27:45: <97>
+08:27:47: Key.delete
