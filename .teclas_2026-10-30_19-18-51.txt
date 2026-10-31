@@ -1995,3 +1995,15 @@
 11:46:54: Key.tab
 11:46:57: Key.alt_l
 11:46:57: Key.tab
+11:46:58: Key.alt_l
+11:46:58: Key.tab
+11:46:59: Key.alt_l
+11:46:59: Key.tab
+11:47:00: Key.left
+11:47:00: Key.left
+11:47:03: Key.alt_l
+11:47:03: Key.tab
+11:47:05: Key.alt_l
+11:47:05: Key.tab
+11:47:08: Key.alt_l
+11:47:08: Key.tab
