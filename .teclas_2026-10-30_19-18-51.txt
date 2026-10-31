@@ -119,3 +119,12 @@
 08:11:35: Key.left
 08:11:38: Key.backspace
 08:11:38: 1
+08:12:06: Key.down
+08:12:06: Key.down
+08:12:08: Key.enter
+08:12:08: Key.right
+08:12:08: Key.up
+08:12:08: Key.ctrl_l
+08:12:09: Key.down
+08:12:09: Key.right
+08:12:10: Key.delete
