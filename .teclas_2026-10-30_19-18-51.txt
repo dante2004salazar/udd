@@ -3135,3 +3135,13 @@
 12:01:00: <100>
 12:01:00: <100>
 12:01:01: Key.enter
+12:01:36: Key.alt_l
+12:01:36: Key.tab
+12:01:37: Key.alt_l
+12:01:37: Key.tab
+12:01:37: Key.tab
+12:01:39: Key.down
+12:01:39: Key.left
+12:01:39: Key.left
+12:01:41: Key.alt_l
+12:01:41: Key.tab
