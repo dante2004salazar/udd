@@ -3526,3 +3526,14 @@
 14:24:05: Key.alt_l
 14:24:06: Key.tab
 14:24:06: Key.tab
+14:24:09: Key.backspace
+14:24:10: 1
+14:24:10: Key.enter
+14:24:17: Key.alt_l
+14:24:17: Key.tab
+14:24:18: Key.alt_l
+14:24:18: Key.tab
+14:24:19: Key.esc
+14:24:19: Key.alt_l
+14:24:19: Key.tab
+14:24:20: Key.tab
