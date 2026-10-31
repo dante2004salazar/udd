@@ -3496,3 +3496,15 @@
 14:23:29: 2
 14:23:31: Key.backspace
 14:23:31: 3
+14:23:33: Key.backspace
+14:23:33: 4
+14:23:35: Key.backspace
+14:23:35: 5
+14:23:37: Key.backspace
+14:23:38: 6
+14:23:38: Key.enter
+14:23:41: Key.alt_l
+14:23:41: Key.tab
+14:23:42: Key.alt_l
+14:23:43: Key.tab
+14:23:43: Key.tab
