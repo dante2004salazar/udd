@@ -3298,3 +3298,8 @@
 12:08:26: Key.ctrl_l
 12:08:26: \x1a
 12:08:34: Key.esc
+12:09:46: Key.alt_l
+12:09:46: Key.tab
+12:09:47: Key.alt_l
+12:09:47: Key.tab
+12:09:47: Key.tab
