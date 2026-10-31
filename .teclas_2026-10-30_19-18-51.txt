@@ -329,3 +329,8 @@
 08:18:24: Key.down
 08:18:24: Key.down
 08:18:26: Key.backspace
+08:18:26: <102>
+08:18:26: Key.enter
+08:18:33: Key.backspace
+08:18:38: 1
+08:18:38: Key.enter
