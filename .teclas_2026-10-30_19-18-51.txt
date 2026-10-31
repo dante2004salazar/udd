@@ -2320,3 +2320,8 @@
 11:51:47: Key.right
 11:51:47: Key.right
 11:51:47: Key.right
+11:51:48: Key.right
+11:51:48: Key.up
+11:51:48: Key.up
+11:51:49: Key.up
+11:51:49: Key.down
