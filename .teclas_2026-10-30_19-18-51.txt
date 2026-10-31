@@ -3508,3 +3508,15 @@
 14:23:42: Key.alt_l
 14:23:43: Key.tab
 14:23:43: Key.tab
+14:23:47: Key.delete
+14:23:48: Key.backspace
+14:23:49: <105>
+14:23:49: <99>
+14:23:49: Key.alt_l
+14:23:50: Key.tab
+14:23:53: Key.delete
+14:23:54: Key.alt_l
+14:23:54: Key.tab
+14:23:54: Key.alt_l
+14:23:54: Key.tab
+14:23:54: Key.tab
