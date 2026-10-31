@@ -859,3 +859,16 @@
 08:45:56: h
 08:45:56: r
 08:45:58: s
+08:49:10: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
+08:49:11: Key.ctrl_l
