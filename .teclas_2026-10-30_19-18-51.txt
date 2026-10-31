@@ -760,3 +760,9 @@
 08:41:57: Key.down
 08:41:58: Key.delete
 08:41:58: Key.up
+08:44:23: Key.left
+08:44:24: Key.left
+08:44:25: Key.right
+08:44:25: Key.right
+08:44:25: Key.left
+08:44:25: Key.left
