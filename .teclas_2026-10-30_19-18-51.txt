@@ -117,3 +117,5 @@
 08:11:35: Key.left
 08:11:35: Key.right
 08:11:35: Key.left
+08:11:38: Key.backspace
+08:11:38: 1
