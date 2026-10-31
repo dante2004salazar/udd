@@ -514,3 +514,8 @@
 08:26:45: Key.left
 08:26:46: Key.right
 08:26:46: Key.right
+08:26:56: Key.backspace
+08:26:56: <101>
+08:27:00: Key.delete
+08:27:00: <101>
+08:27:03: Key.esc
