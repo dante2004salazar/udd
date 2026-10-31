@@ -292,3 +292,11 @@
 08:15:16: u
 08:15:16: e
 08:15:17: Key.enter
+08:17:29: Key.right
+08:17:30: Key.left
+08:17:30: Key.up
+08:17:33: Key.left
+08:17:34: Key.backspace
+08:17:34: 1
+08:17:34: Key.enter
+08:17:38: Key.delete
