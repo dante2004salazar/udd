@@ -546,3 +546,6 @@
 08:27:25: Key.right
 08:27:26: Key.delete
 08:27:27: <102>
+08:27:36: Key.delete
+08:27:36: Key.delete
+08:27:36: Key.delete
